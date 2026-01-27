@@ -6,9 +6,9 @@
 
 # Random and unorganized
 
-**Random1.jpg**
+**Random.jpg**
 
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/main/assets/Random and unorganized/Random1.jpg
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/main/assets/Random and unorganized/Random.jpg
 
 # Real Characters
 
