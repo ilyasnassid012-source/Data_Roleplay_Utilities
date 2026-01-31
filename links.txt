@@ -4,6 +4,12 @@
 
 # Ai Characters
 
+# ROLEPLAY SETTINGS
+
+**ROLEPLAY RULES....md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/main/assets/ROLEPLAY%20SETTINGS/ROLEPLAY%20RULES....md
+
 # Random and unorganized
 
 # Real Anime
@@ -31,6 +37,28 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/main/assets/Real%20Characters/Jujutsu%20Kaisen/Yuki/Yuki%20and%20her%20Motorcycle.jpg
 
 # Roleplay Characters
+
+## Roleplay Characters/Inter-Multiversal Hub
+
+### Roleplay Characters/Inter-Multiversal Hub/Monika
+
+**Monika_Full_Body_Default.jpg**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/main/assets/Roleplay%20Characters/Inter-Multiversal%20Hub/Monika/Monika_Full_Body_Default.jpg
+
+**Monika_Just_Monika_Mode_With_Cold_Win.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/main/assets/Roleplay%20Characters/Inter-Multiversal%20Hub/Monika/Monika_Just_Monika_Mode_With_Cold_Win.webp
+
+**Monika_Upper_Half.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/main/assets/Roleplay%20Characters/Inter-Multiversal%20Hub/Monika/Monika_Upper_Half.webp
+
+### Roleplay Characters/Inter-Multiversal Hub/Ribb
+
+**Ribb.jpeg**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/main/assets/Roleplay%20Characters/Inter-Multiversal%20Hub/Ribb/Ribb.jpeg
 
 ## Roleplay Characters/The Slutty Elf
 
