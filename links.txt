@@ -18,6 +18,62 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 # Real Characters
 
+## Real Characters/Cuphead
+
+### Real Characters/Cuphead/Bosses
+
+**Inkwell_Isle_1_Bosses.jpeg**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Bosses/Inkwell_Isle_1_Bosses.jpeg
+
+**Inkwell_Isle_2_Bosses.jpg**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Bosses/Inkwell_Isle_2_Bosses.jpg
+
+**Inkwell_Isle_3_Bosses.jpg**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Bosses/Inkwell_Isle_3_Bosses.jpg
+
+**King_Dice.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Bosses/King_Dice.webp
+
+**King_Dice_Battle_Arena.jpg**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Bosses/King_Dice_Battle_Arena.jpg
+
+**The_Devil_Normal_Form.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Bosses/The_Devil_Normal_Form.webp
+
+**The_Devil_Phase_2_Huge_Form.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Bosses/The_Devil_Phase_2_Huge_Form.webp
+
+### Real Characters/Cuphead/Locations
+
+**Inkwell_Devil's_Casino_Map.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Locations/Inkwell_Devil%27s_Casino_Map.webp
+
+**Inkwell_Isle_1_Map.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Locations/Inkwell_Isle_1_Map.webp
+
+**Inkwell_Isle_2_Map.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Locations/Inkwell_Isle_2_Map.webp
+
+**Inkwell_Isle_3_Map.webp**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Locations/Inkwell_Isle_3_Map.webp
+
+### Real Characters/Cuphead/Main Character(s)
+
+**Cuphead_Mugman_Chalice_Portraits.jpg**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Real%20Characters/Cuphead/Main%20Character%28s%29/Cuphead_Mugman_Chalice_Portraits.jpg
+
 ## Real Characters/Jujutsu Kaisen
 
 ### Real Characters/Jujutsu Kaisen/Yuki
