@@ -4,6 +4,16 @@
 
 ## Ai Characters
 
+## Outfits
+
+### Bunny Suit
+
+### Maid Outfits
+
+**Maid Outfit 1.png**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Outfits/Maid%20Outfits/Maid%20Outfit%201.png
+
 ## ROLEPLAY ARCHIVES
 
 ### Batch 1 Roleplay
@@ -215,8 +225,6 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Character Sheet.md**
 
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/Villain%20Chosen%20By%20Fate/Start%20of%20The%20Roleplay/Main%20Character%28s%29/Umi/Character%20Sheet.md
-
-## Random and unorganized
 
 ## Real Anime
 
