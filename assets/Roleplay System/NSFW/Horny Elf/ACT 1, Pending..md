@@ -1,7 +1,7 @@
 ## 2.1	Acts Archive.
 ### 2.1.1	Act 1, Active.
 #### 2.1.1.1	Chapter 1, already passed.
-```
+
 # Act 1 Chapter 1 — Overall — Morning Ecstasy and Reincarnation
 
 ## Meta-Data
@@ -281,9 +281,9 @@ None
 - **Divine Semen Effect:** Permanent massive power boosts and electric affinity for Mizuki
 - **Emotional Turning Point:** Past-life stories reveal Ilyas’s consistent kindness
 - **Guild Photo Issue:** Black-and-white rendering distorts Ilyas’s appearance
-```
 
-```
+
+
 # Act 1 Chapter 1 — Miscellaneous — Morning Ecstasy and Reincarnation
 
 ## Chat-Log Index
@@ -423,8 +423,8 @@ Blue-white electrical energy concentrated in body/core; produces sparks, shocks,
 
 ##### Notes
 Causes pleasurable tingling/shocks rather than harm during intimate use.
-```
-```
+
+
 # Act 1 Chapter 1 — Lore & Memories — Morning Ecstasy and Reincarnation
 
 ## Lore
@@ -845,9 +845,9 @@ Causes pleasurable tingling/shocks rather than harm during intimate use.
 - Dialogue: Shared as extreme example
 - Trust / hostility: Warns of obsessive types
 - Trigger conditions in RP: Referenced when discussing jealousy
-```
 
-```
+
+
 # Act 1 Chapter 1 — Detailed Scenes — Morning Ecstasy and Reincarnation
 
 ## Scene Index
@@ -1406,8 +1406,8 @@ Drifts to sleep holding him plugged, crying silent happy tears.
 - Established gentle-to-intense pattern for future intimacy
 - Maximum swelling state for morning after
 - Mutual love confession as relationship foundation
-```
-```
+
+
 # Act 1 Chapter 1 — Extra — Party Member Profiles
 
 ## Party Member Sheets
@@ -1515,9 +1515,9 @@ Drifts to sleep holding him plugged, crying silent happy tears.
 
 - **Comments from Mizuki**
   "My perfect short king Hero ♡ Calm, patient, kind across lives, and somehow loves my greedy, crying, cum-addicted self. Still inside me as I write this (plugged for sleep~). His stories are gold. His cum is power. His love is everything. Mine forever."
-```
+
 #### 2.1.1.2	Chapter 2, Already Passed.
-```
+
 # Act 1 Chapter 2 — Overall — New Companions and Homecoming
 
 ## Meta-Data
@@ -1777,9 +1777,9 @@ Party of four assembled in mansion entrance hall—warm, chaotic, bonded. All wo
 - **Party Formation:** Official four-member party established
 - **Emotional Turning Points:** Red’s trauma share + acceptance; Emptee’s magic interest moment
 - **Power Stacking:** Mizuki & Emptee significantly boosted; Red pending
-```
 
-```
+
+
 # Act 1 Chapter 2 — Miscellaneous — New Companions and Homecoming
 
 ## Chat-Log Index
@@ -1907,8 +1907,8 @@ Accidental potion misfire granted ability to hear/see voices from other worlds (
 
 ##### Notes
 First person (Sato) showed genuine interest in magic itself rather than body → deep emotional impact.
-```
-```
+
+
 # Act 1 Chapter 2 — Lore & Memories — New Companions and Homecoming
 
 ## Lore
@@ -2192,9 +2192,9 @@ Tribe members held her down and raped her once as "punishment" for being differe
 - Dialogue: Hesitant sharing with Mizuki
 - Trust / hostility: Extreme fear of tribe members
 - Trigger conditions in RP: Any threat of force/abandonment
-```
 
-```
+
+
 # Act 1 Chapter 2 — Detailed Scenes — New Companions and Homecoming
 
 ## Scene Index
@@ -2559,9 +2559,9 @@ Both collapse in afterglow. Emptee feels significant power increase. Tender cudd
 - Emptee's amplified curse capabilities
 - Red's trauma triggers and attachment patterns
 - Party of four established dynamic
-```
 
-```
+
+
 # Act 1 Chapter 2 — Extra — New Companions and Homecoming
 
 ## Party Member Sheets
@@ -2824,9 +2824,9 @@ Both collapse in afterglow. Emptee feels significant power increase. Tender cudd
 - Matching gothic accessories for Emptee + Mizuki
 
 *(Mizuki note: "Wardrobe expanding fast~! Need bigger closet for all the future strays~ ♡")*
-```
+
 #### 2.1.1.3	Chapter 3, Already Passed.
-```
+
 
 # A1C3 — Overall — Divine Longing & Mortal Afterglow
 
@@ -3061,8 +3061,8 @@ Mortal side ends in private afterglow in Emptee’s bedroom — plugged, wings w
 - **Continuity Concern:** None major — timeline and character knowledge consistent.
 - **Meta / OOC Impact:** Divine observers now actively planning to interact with mortal world — sets up major future crossover event.
 
-```
-```
+
+
 
 # A1C3 — Miscellaneous — Dialogue & Inventory
 
@@ -3227,8 +3227,8 @@ Passive enhancement of physical contact with magical warmth/tingle. During sex, 
 - Visual effect: violet rune glow intensifies with each climax.
 
 
-```
-```
+
+
 
 # Act 1 Chapter 3 — Lore & Memories — Divine Longing & Mortal Afterglow
 
@@ -3438,8 +3438,8 @@ Yuno admits watching Emptee/Sato scene awakened her own desire to feel Sato insi
 - Trust / hostility: Strengthened bond between Yuno & Aqua
 - Trigger conditions in RP: Any mention of sleep or divine descent
 
-```
-```
+
+
 
 # Act 1 Chapter 3 — Detailed Scenes — Divine Longing & Mortal Afterglow
 
@@ -3851,8 +3851,8 @@ Yuno embraces Aqua, promises joint visitation when ready.
 - Emptee’s pain-pleasure dynamic established for future
 
 
-```
-```
+
+
 
 # Act 1 Chapter 3 — Extra — Party & Special Profiles
 
@@ -4228,7 +4228,7 @@ Yuno embraces Aqua, promises joint visitation when ready.
 
 - **Comments from Mizuki**
   *(Unknown to Mizuki — journal entry blank)*
-```
+
 
 #### 2.1.1.4	Chapters 4, Present.
 (here)
