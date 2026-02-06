@@ -200,39 +200,53 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### B.T.M
 
-###### Roleplay Timeline
-
-####### Season 1
-
-######## Episode 0
-
-**Detailed Scenes.md**
-
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201/Episode%200/Detailed%20Scenes.md
-
-**LORE & Memories.md**
-
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201/Episode%200/LORE%20%26%20Memories.md
-
-**Overall.md**
-
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201/Episode%200/Overall.md
-
-###### Starting Point (Pre-Season 1)
+###### A. Starting Point (Pre-Season 1)
 
 **Worldbuilding (Main Hub).md**
 
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Starting%20Point%20%28Pre-Season%201%29/Worldbuilding%20%28Main%20Hub%29.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/A.%20Starting%20Point%20%28Pre-Season%201%29/Worldbuilding%20%28Main%20Hub%29.md
 
 **Worldbuilding (Origin Timeline).md**
 
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Starting%20Point%20%28Pre-Season%201%29/Worldbuilding%20%28Origin%20Timeline%29.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/A.%20Starting%20Point%20%28Pre-Season%201%29/Worldbuilding%20%28Origin%20Timeline%29.md
 
 ####### Main Character(s)
 
 **Ilyas Satoroshi.md**
 
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Starting%20Point%20%28Pre-Season%201%29/Main%20Character%28s%29/Ilyas%20Satoroshi.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/A.%20Starting%20Point%20%28Pre-Season%201%29/Main%20Character%28s%29/Ilyas%20Satoroshi.md
+
+###### Roleplay Timeline
+
+####### Season 1 — Beyond the Journey
+
+######## Episode 0 — Birthday Boy
+
+**Detailed Scenes.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201%20%2014%20Beyond%20the%20Journey/Episode%200%20%2014%20Birthday%20Boy/Detailed%20Scenes.md
+
+**LORE & Memories.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201%20%2014%20Beyond%20the%20Journey/Episode%200%20%2014%20Birthday%20Boy/LORE%20%26%20Memories.md
+
+**Overall.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201%20%2014%20Beyond%20the%20Journey/Episode%200%20%2014%20Birthday%20Boy/Overall.md
+
+######## Episode 1 — Gaslight God
+
+**Detailed Scenes.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201%20%2014%20Beyond%20the%20Journey/Episode%201%20%2014%20Gaslight%20God/Detailed%20Scenes.md
+
+**LORE & Memories.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201%20%2014%20Beyond%20the%20Journey/Episode%201%20%2014%20Gaslight%20God/LORE%20%26%20Memories.md
+
+**Overall.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201%20%2014%20Beyond%20the%20Journey/Episode%201%20%2014%20Gaslight%20God/Overall.md
 
 ##### Villain Chosen By Fate
 
