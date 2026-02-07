@@ -22,31 +22,43 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### Degenerate Tokyo
 
+###### A. Main
+
+**Prior Scenes.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/A.%20Main/Prior%20Scenes.md
+
+**Worldbuilding.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/A.%20Main/Worldbuilding.md
+
+####### Main Character(s)
+
+**Ilyas.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/A.%20Main/Main%20Character%28s%29/Ilyas.md
+
+**Lyth.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/A.%20Main/Main%20Character%28s%29/Lyth.md
+
 ###### ACTS
 
 ####### ACT 1
 
 ######## CHAPTER 1
 
-###### Starting Point
+**Detailed Scenes.md**
 
-**Prior Scenes.md**
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/ACTS/ACT%201/CHAPTER%201/Detailed%20Scenes.md
 
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/Starting%20Point/Prior%20Scenes.md
+**Lore & Memories.md**
 
-**Worldbuilding.md**
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/ACTS/ACT%201/CHAPTER%201/Lore%20%26%20Memories.md
 
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/Starting%20Point/Worldbuilding.md
+**Overall.md**
 
-####### Main Character(s)
-
-**Ilyas.md**
-
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/Starting%20Point/Main%20Character%28s%29/Ilyas.md
-
-**Lyth.md**
-
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/Starting%20Point/Main%20Character%28s%29/Lyth.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/NSFW%20Roleplay/Degenerate%20Tokyo/ACTS/ACT%201/CHAPTER%201/Overall.md
 
 ##### Mizuki, The Slutty Elf
 
