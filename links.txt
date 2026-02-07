@@ -286,6 +286,46 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/B.T.M/Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%201%20%E2%80%94%20Gaslight%20God/UPTADES/BEYOND%20THE%20MATTER%20%E2%80%94%20OFFICIAL%20CHOSEN%20ONE%20%26%20GUIDE%20REGISTRY.md
 
+##### The Boy (Grown Ass Man Btw) In Sailor
+
+###### A. Main
+
+**Female Harem Member Sheet.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor/A.%20Main/Female%20Harem%20Member%20Sheet.md
+
+**Main Worldbuilding.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor/A.%20Main/Main%20Worldbuilding.md
+
+###### Acts Archive
+
+####### Act 1
+
+######## Chapter 1
+
+**1. Overall.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor/Acts%20Archive/Act%201/Chapter%201/1.%20Overall.md
+
+**2. Lore&Memories.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor/Acts%20Archive/Act%201/Chapter%201/2.%20Lore%26Memories.md
+
+**3. Detailed Scenes.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor/Acts%20Archive/Act%201/Chapter%201/3.%20Detailed%20Scenes.md
+
+**X. EXTRAs.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor/Acts%20Archive/Act%201/Chapter%201/X.%20EXTRAs.md
+
+######### Main Character(s)
+
+**Akane Kurogane.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/ROLEPLAY%20ARCHIVES/Batch%201%20Roleplay/Normal%20Roleplay/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor/Acts%20Archive/Act%201/Chapter%201/Main%20Character%28s%29/Akane%20Kurogane.md
+
 ##### Villain Chosen By Fate
 
 ###### Acts
@@ -587,4 +627,50 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **BEYOND THE MATTER, THE COMPLETE METAVERSAL ENTERTAINMENT SYSTEM.md**
 
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/Normal%20Roleplay/Active/beyond%20the%20matter/BEYOND%20THE%20MATTER%2C%20THE%20COMPLETE%20METAVERSAL%20ENTERTAINMENT%20SYSTEM.md
+
+### ROLEPLAY PLUG-INS
+
+**Characters Behaviors Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Characters%20Behaviors%20Plug%E2%80%91in.md
+
+**Code Mode Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Code%20Mode%20Plug%E2%80%91in.md
+
+**Combat Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Combat%20Plug%E2%80%91in.md
+
+**Expanding & Restrictive Mode System.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Expanding%20%26%20Restrictive%20Mode%20System.md
+
+**Flow Modifiers Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Flow%20Modifiers%20Plug%E2%80%91in.md
+
+**Image Insertion Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Image%20Insertion%20Plug%E2%80%91in.md
+
+**Lore Insertor & Extractor Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Lore%20Insertor%20%26%20Extractor%20Plug%E2%80%91in.md
+
+**NSFW Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/NSFW%20Plug%E2%80%91in.md
+
+**Roleplay Chapter Loader Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Roleplay%20Chapter%20Loader%20Plug%E2%80%91in.md
+
+**Timeline Behavior Plug‑in.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/Timeline%20Behavior%20Plug%E2%80%91in.md
+
+**User Command System.md**
+
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets/assets/Roleplay%20System/ROLEPLAY%20PLUG-INS/User%20Command%20System.md
 
