@@ -1,0 +1,36 @@
+THE THAWING: ILYAS AND UMI'S BOND
+
+**The Rescue (Ilyas: 15, Umi: Physically 10, Chronologically 100):**
+The sight of the frozen child within the flower didn't trigger a grand heroic impulse in Ilyas. It sparked something quieter: a recognition of profound loneliness. Here was something else the world had rejected. Without a second thought for his chores or his persona, he acted. He carefully gathered her rigid form, wrapping her in his thick travel cloak. He felt the cold bite through instantly, a deep, magical chill that began to crystallize the fabric and numb his arms. He channeled a subtle, gentle warmth from his own light—not to thaw her, but to keep his own tissues from necrotizing. He moved with urgent grace back to his mountain mansion.
+
+Understanding she was an elemental, he knew abrupt heat could be lethal. He took her not to a warm bed, but to the empty, stone-lined reflecting pool in his courtyard. He sat in the cool water, cradling her, letting her body gradually acclimate. The water around them froze solid, trapping him up to his chest, searing his skin with cold burns that would leave permanent, faint frost-scar patterns on his hands and arms. He endured it, his own light flaring weakly beneath the ice to maintain his core temperature, holding perfectly still for hours until, with a sound like cracking crystal, a deep, shuddering breath came from her chest. Her heart gave a single, hard *thump*, then began a slow, rhythmic beat. Life, slow and cold, returned.
+
+**First Impressions (Ilyas: 15-17, Umi: 100-104):**
+Her awakening was not dramatic. Her eyes fluttered open, revealing luminous, confused blue orbs. She tried to make a sound, but only a soft, gurgling coo emerged—the voice of an infant, housed in a child's body. Then she saw his hands, scarred and still trapped in the ice holding her, and her eyes welled with crystalline tears that froze upon her cheeks. She didn't understand words, but she understood pain, and she thought she was causing it.
+
+Ilyas, with infinite patience, shattered the ice with a pulse of light and carried her inside. The following weeks were a silent comedy of errors. He tried to dress her; she stood passively and let the clothes fall off. He offered cooked food; she stared at the steaming stew, then tried to gnaw on the wooden bowl. He realized teaching her language was impossible without a foundation. So, he began with **Light-Scripts**. Using his power, he would project simple, animated images against the wall: a pictogram of an apple, then a real apple. A symbol for "eat," then him mimicking the action. Her learning curve was swift once the method was established. Her first spoken word, whispered while pointing at him, was "*A...ka...ri?*" (Light?). He corrected gently, "*Ilyas.*"
+
+She was fascinated by everything. Her first taste of warm, sweet cake made her eyes widen comically, and she devoured it with a quiet, intense focus. She had quirks from her feral years: she would sometimes simply lie flat on her stomach on the floor, limbs splayed, as if trying to merge with the cool stone. She tried to leave once, wandering out the front gate naked, simply because she saw a bird and wanted to follow it. Ilyas found her, wrapped her in a blanket, and carried her back without a word of scolding, only a soft sigh. He taught her to bathe, to dress, to use utensils. He became her entire world: her teacher, protector, and sole source of warmth that didn't hurt.
+
+**The Blooming (Ilyas: 17-19+, Umi: 104-106+):**
+As her mind caught up to her form, a personality emerged—quiet, observant, but with a latent, mischievous curiosity. Ilyas, clueless about raising a girl, did his best. He sewed her first proper clothes: simple tunics that often ended up decorated with frost patterns. He eventually crafted the iconic white, red, and blue kimono as a gift, a symbol of her moving from a rescued child to an individual. She treasured it beyond words.
+
+Her "perverted" side emerged from innocent curiosity. Exploring the mansion's vast library, she found volumes hidden behind others—not academic texts, but illustrated romance serials and pulp novels. She didn't understand the context, only the images and the charged emotions described. One day, trying to emulate a scene, she attempted a clumsy, overly direct "seduction" on Ilyas, who was reviewing quest ledgers. He looked up, blinked, and said calmly, "Umi, I've seen you try to eat a rug. Put a robe on, you'll get cold." Her resulting flustered sputter, followed by her hiding in her room for an hour, became a fond, private memory for him.
+
+The "Nee-Chan" incident was similarly born of fiction. Reading a story about siblings, she liked the sound of the affectionate term. She sprang it on him as a test, a prank. "Nee-Chan, pass the salt?" He froze for a half-second, then continued serving dinner. "If that's what you wish to call me, it's fine." The non-reaction was the perfect reaction, leaving her heart fluttering with a strange, new emotion she couldn't name (but the romance manga suggested might be "love").
+
+Their life settled into a peaceful rhythm. He trained her to control her cryomancy, not as a weapon first, but as an art. She learned to grow delicate ice crystals as decorations, to chill his tea perfectly, to create smooth slides on the staircase for fun (once). She, in turn, became his anchor. She saw his weariness after he returned from dealing with the outside world, where he had to play the villain. She would wordlessly prepare his favorite tea, or simply sit silently beside him, her natural cold a comfort against the heat of his performed anger.
+
+She witnessed, once, a group of adventurers tracked him to the mountain's base, shouting curses, calling him "Light-Stealer" and "Doom-Bringer." She saw his posture shift, his expression turn to stone, the dark halo flicker into existence as he prepared to descend and "deal with them." Without thinking, she stepped onto the balcony, and with a concentration he had taught her, created a massive, beautiful, and utterly terrifying snow-squall that engulfed the lower slopes, driving the interlopers away. When he looked back at her, his mask dropped, replaced by stunned pride. She just nodded, as if to say, *"I protect you, too."*
+
+The question finally came one evening as they watched the stars, a blanket shared over their shoulders. "Ilyas... Nee-Chan," she began, her voice still slow and deliberate. "You are not evil. Your light... it is warm. Why do they say it is dark?"
+
+He was silent for a long time. "Because, Umi," he said, his voice softer than she'd ever heard it, "sometimes the world needs a monster to be afraid of. It keeps them united. It keeps the Timeline straight. My role is to be that monster."
+
+"But you save people," she insisted, her cold hand finding his scarred one.
+
+"I save *you*," he corrected gently. "The rest... is part of the performance. A very long, very tired performance."
+
+She leaned her head against his shoulder, her hair cooling his skin. "Then I will be part of your performance. But I will know the truth."
+
+And in that moment, for the first time in all his long, weary lifetimes, Ilyas did not feel alone. The Frost Child had thawed not just from her ice, but a fraction of the eternal winter in his own soul.
