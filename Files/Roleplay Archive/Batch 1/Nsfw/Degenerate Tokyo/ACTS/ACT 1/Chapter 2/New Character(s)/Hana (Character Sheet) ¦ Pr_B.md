@@ -45,7 +45,7 @@ After that she was addicted.
 
 She started wearing shorter skirts, bending over more, "accidentally" brushing against him during shifts. When Lyth began joining via FaceTime, Hana's devotion doubled — she now saw the succubus as "big-sis" and "the pretty one who shares daddy." The stockroom marathon in Chapter 2 was her full breaking point — multiple creampies, stomach bloated to obscene size, hidden under-counter oral while serving customers, pleading to be taken home forever.
 
-By early 2026 she is no longer "just the manager." She is the rabbit who lives to be filled, claimed, and kept between her anchor and her succubus queen. She still clocks in every day with a perfect smile — but underneath the counter, or in the apartment, she is utterly ruined and perfectly happy.
+By early 2030 she is no longer "just the manager." She is the rabbit who lives to be filled, claimed, and kept between her anchor and her succubus queen. She still clocks in every day with a perfect smile — but underneath the counter, or in the apartment, she is utterly ruined and perfectly happy.
 
 ## Current Status
 Fully integrated triad member — lives for being bred and claimed by both Ilyas and Lyth. Stomach almost constantly bloated (even between rounds she leaks slowly). Mind locked in breeding-ownership subspace. Ears/tail no longer hidden at home. Sleeps in the middle of the bed (when the bed isn't broken).

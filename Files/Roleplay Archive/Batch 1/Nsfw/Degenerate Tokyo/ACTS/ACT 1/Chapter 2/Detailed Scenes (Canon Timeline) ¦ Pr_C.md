@@ -20,7 +20,7 @@
   - Hana — Phase 3 mind-break submissive, pinned and overwhelmed
   - Lyth — Voyeuristic overseer via FaceTime, approving and directing
 - **Location:** FamilyMart stockroom rest nook (old couch), fluorescent-lit, cramped, musky from prior rounds
-- **Time Context:** Mid-morning February 08, 2026 (~11:00–11:20), during extended break
+- **Time Context:** Mid-morning February 08, 2030 (~11:00–11:20), during extended break
 - **Duration:** ~20 minutes of continuous rounds
 - **POV(s):** Primarily Ilyas (external dominant view), with Hana's fractured mind-break fragments
 - **Tone/Atmosphere:** Frantic, humid, risk-laden (register bell interruptions), breeding-obsessed

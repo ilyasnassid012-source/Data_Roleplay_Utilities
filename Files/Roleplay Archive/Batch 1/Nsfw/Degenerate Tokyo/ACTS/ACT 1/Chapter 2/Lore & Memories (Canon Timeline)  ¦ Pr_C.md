@@ -77,7 +77,7 @@ During intense group sex, the king bed frame repeatedly fails—slats snap, spri
 - Memory Type: Shared / Traumatising (in pleasurable way) / Permanent
 - Emotional Weight: Extreme
 - Reliability: Accurate (fresh, intensely experienced)
-- Time Reference: Mid-morning February 08, 2026 (~11:00–11:20)
+- Time Reference: Mid-morning February 08, 2030 (~11:00–11:20)
 
 #### Participants
 - Experienced By: Ilyas, Hana
@@ -109,7 +109,7 @@ Hana remembers being pinned on the stockroom couch, filled repeatedly (oral, vag
 - Memory Type: Shared / euphoric / Permanent
 - Emotional Weight: Extreme
 - Reliability: Accurate (fresh, multi-climax intensity)
-- Time Reference: Evening February 08 → early morning February 09, 2026 (~22:00–04:45)
+- Time Reference: Evening February 08 → early morning February 09, 2030 (~22:00–04:45)
 
 #### Participants
 - Experienced By: Ilyas, Lyth, Hana

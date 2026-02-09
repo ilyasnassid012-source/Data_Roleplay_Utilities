@@ -6,7 +6,7 @@
 - **Primary Characters:** Ilyas (protagonist/anchor), Lyth (succubus partner), Hana (bunny-girl manager)
 - **New Characters Introduced:** Hana (first major appearance and integration into triad dynamic)
 - **Major Locations:** FamilyMart Konbini (stockroom rest nook, front register counter), shared Ilyas/Lyth apartment (living room couch, hallway, master bedroom)
-- **Time Span:** Mid-morning February 08, 2026 (~11:00) → early morning February 09, 2026 (~04:45), covering one extended day-night cycle
+- **Time Span:** Mid-morning February 08, 2030 (~11:00) → early morning February 09, 2030 (~04:45), covering one extended day-night cycle
 - **Genre/Tone Tags:** #NSFW #HaremEscalation #DegenerateSliceOfLife #BreedingObsession #PossessiveThreesome #PublicRisk #ExhaustionAfterglow #BedDestructionComedy
 
 ## Timeline
