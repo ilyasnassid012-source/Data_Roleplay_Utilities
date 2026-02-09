@@ -124,6 +124,90 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 #### Nsfw
 
+##### Degenerate Tokyo
+
+###### A. Main
+
+**Prior Scenes (Memories) ¦ Pr_D.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/A.%20Main/Prior%20Scenes%20%28Memories%29%20%C2%A6%20Pr_D.md
+```
+
+**Tokyo 2030 (Worldbuilding) ¦ Pr_A.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/A.%20Main/Tokyo%202030%20%28Worldbuilding%29%20%C2%A6%20Pr_A.md
+```
+
+###### ACTS
+
+####### ACT 1
+
+######## Chapter 1
+
+**Detailed Scenes (Canon Timeline)  ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%201/Detailed%20Scenes%20%28Canon%20Timeline%29%20%20%C2%A6%20Pr_C.md
+```
+
+**Lore & Memories (Canon Timeline)  ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%201/Lore%20%26%20Memories%20%28Canon%20Timeline%29%20%20%C2%A6%20Pr_C.md
+```
+
+**Overall (Canon Timeline)  ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%201/Overall%20%28Canon%20Timeline%29%20%20%C2%A6%20Pr_C.md
+```
+
+######### New Character(s)
+
+**Ilyas (Character Sheet) ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%201/New%20Character%28s%29/Ilyas%20%28Character%20Sheet%29%20%C2%A6%20Pr_B.md
+```
+
+**Lyth (Character Sheet) ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%201/New%20Character%28s%29/Lyth%20%28Character%20Sheet%29%20%C2%A6%20Pr_B.md
+```
+
+######## Chapter 2
+
+**Detailed Scenes (Canon Timeline) ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%202/Detailed%20Scenes%20%28Canon%20Timeline%29%20%C2%A6%20Pr_C.md
+```
+
+**Lore & Memories (Canon Timeline)  ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%202/Lore%20%26%20Memories%20%28Canon%20Timeline%29%20%20%C2%A6%20Pr_C.md
+```
+
+**Overall (Canon Timeline)  ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%202/Overall%20%28Canon%20Timeline%29%20%20%C2%A6%20Pr_C.md
+```
+
+######### New Character(s)
+
+**Hana (Character Sheet) ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%202/New%20Character%28s%29/Hana%20%28Character%20Sheet%29%20%C2%A6%20Pr_B.md
+```
+
+######## Chapter 3 (Current Timeline ,Not Started Yet)
+
 ## Roleplay System
 
 ### Roleplay Plug-ins
