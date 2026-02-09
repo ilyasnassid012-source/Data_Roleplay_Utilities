@@ -1,5 +1,3 @@
-
-
 **Status:** Active & Operational
 
 **Purpose:** Control response length, focus, pacing, and atmosphere through dynamic modifiers

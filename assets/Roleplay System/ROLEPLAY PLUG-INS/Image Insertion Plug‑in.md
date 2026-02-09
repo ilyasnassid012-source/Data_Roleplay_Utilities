@@ -1,5 +1,3 @@
-
-
 **Status:** Active & Operational
 
 **Purpose:** Process image links to extract visual information for use in roleplay, including character appearances, poses, backgrounds, items, and art style adaptation.

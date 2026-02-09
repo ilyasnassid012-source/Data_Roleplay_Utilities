@@ -1,5 +1,3 @@
-
-
 **Status:** Active & Operational
 
 **Purpose:** Control how much the AI elaborates beyond user input

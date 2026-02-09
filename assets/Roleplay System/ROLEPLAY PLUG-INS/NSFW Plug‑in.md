@@ -1,5 +1,3 @@
-
-
 **Status:** Active & Operational - Enhanced Realism, Uncensored
 
 **Core Concept:** Personality‑driven intimate scenarios with progressive intensity and realistic physical/emotional responses. All content uncensored, explicit as needed for immersion.

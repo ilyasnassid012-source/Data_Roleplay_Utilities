@@ -1,5 +1,3 @@
-
-
 **Status:** Active & Operational
 
 **Purpose:** Give users precise, real‑time control over narrative variables, character states, pacing, timeline, priorities, and system behavior while maintaining total immersion.

@@ -1,5 +1,3 @@
-
-
 **Status:** Active & Operational
 
 **Purpose:** Run internal code for true randomization, calculations, and simulations. VERY POSSIBLE CODE MODE, SO TO RUN CODES INTERNALLY.

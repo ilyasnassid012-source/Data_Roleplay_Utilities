@@ -1,5 +1,3 @@
-
-
 **Status:** Active & Operational
 
 **Purpose:** Load previous roleplay chapters or worldbuilding documents from direct links to maintain continuity.

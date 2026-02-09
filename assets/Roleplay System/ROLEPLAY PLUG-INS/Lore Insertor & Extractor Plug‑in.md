@@ -1,5 +1,3 @@
-
-
 **Status:** Active & Operational
 
 **Purpose:** To insert or extract lore from direct links or text, allowing for brainstorming and integration of worldbuilding.
