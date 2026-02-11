@@ -206,7 +206,33 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%202/New%20Character%28s%29/Hana%20%28Character%20Sheet%29%20%C2%A6%20Pr_B.md
 ```
 
-######## Chapter 3 (Current Timeline ,Not Started Yet)
+######## Chapter 3
+
+**Detailed Scenes (Canon Timeline) ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%203/Detailed%20Scenes%20%28Canon%20Timeline%29%20%C2%A6%20Pr_C.md
+```
+
+**Lore & Memories (Canon Timeline)  ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%203/Lore%20%26%20Memories%20%28Canon%20Timeline%29%20%20%C2%A6%20Pr_C.md
+```
+
+**Overall (Canon Timeline)  ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%203/Overall%20%28Canon%20Timeline%29%20%20%C2%A6%20Pr_C.md
+```
+
+######### New Character(s)
+
+**Kara (Character Sheet) ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%203/New%20Character%28s%29/Kara%20%28Character%20Sheet%29%20%C2%A6%20Pr_B.md
+```
 
 ## Roleplay System
 
@@ -280,5 +306,13 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ```Url_Raw_Link
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Priority%20B/Roleplay%20Chapter%20Loader%20Plug%E2%80%91in.md
+```
+
+### Templates
+
+**Image Generator Prompt.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Templates/Image%20Generator%20Prompt.md
 ```
 
