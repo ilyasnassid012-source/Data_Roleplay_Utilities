@@ -238,37 +238,43 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### The Cum-Hungry Elf
 
-###### Roleplay Timeline
+###### A. Worldbuilding
+
+**Main Worldbuilding ¦ Pr A.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/A.%20Worldbuilding/Main%20Worldbuilding%20%C2%A6%20Pr%20A.md
+```
+
+###### B. Roleplay Timeline
 
 ####### Act 1
 
 ######## Chapter 1 (Current Chronological)
 
-###### Wardrobe
+###### Z. Wardrobes
 
 ####### Mizuki's Wardrobe
 
-######## The Aethral Weave
+######## The Aethral Weave ¦ Main Outfit
+
+**A. Written Description.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Z.%20Wardrobes/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave%20%C2%A6%20Main%20Outfit/A.%20Written%20Description.md
+```
 
 **Visualization 1.jpeg**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Wardrobe/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave/Visualization%201.jpeg
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Z.%20Wardrobes/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave%20%C2%A6%20Main%20Outfit/Visualization%201.jpeg
 ```
 
 **Visualization 2.jpeg**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Wardrobe/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave/Visualization%202.jpeg
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Z.%20Wardrobes/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave%20%C2%A6%20Main%20Outfit/Visualization%202.jpeg
 ```
-
-**Written Description.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Wardrobe/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave/Written%20Description.md
-```
-
-###### Worldbuilding
 
 ## Roleplay System
 
