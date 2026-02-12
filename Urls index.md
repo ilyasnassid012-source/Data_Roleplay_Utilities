@@ -236,6 +236,40 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/Degenerate%20Tokyo/ACTS/ACT%201/Chapter%203/New%20Character%28s%29/Kara%20%28Character%20Sheet%29%20%C2%A6%20Pr_B.md
 ```
 
+##### The Cum-Hungry Elf
+
+###### Roleplay Timeline
+
+####### Act 1
+
+######## Chapter 1 (Current Chronological)
+
+###### Wardrobe
+
+####### Mizuki's Wardrobe
+
+######## The Aethral Weave
+
+**Visualization 1.jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Wardrobe/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave/Visualization%201.jpeg
+```
+
+**Visualization 2.jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Wardrobe/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave/Visualization%202.jpeg
+```
+
+**Written Description.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf/Wardrobe/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave/Written%20Description.md
+```
+
+###### Worldbuilding
+
 ## Roleplay System
 
 ### Roleplay Plug-ins
@@ -311,6 +345,12 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 ```
 
 ### Templates
+
+**Ai Chat Bot Template.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Templates/Ai%20Chat%20Bot%20Template.md
+```
 
 **Image Generator Prompt.md**
 
