@@ -375,13 +375,13 @@ When character has non-human traits, dynamically append:
 
 ---
 
-# Templates To Enhance (Get Idea from, For the Core)
+# NSFW Templates
 
 ---
 
 **Intimacy Status Template (Per Character)**
 
-```markdown
+```Template
 ✧˖°🌙 𝗜𝗡𝗧𝗜𝗠𝗔𝗖𝗬 𝗦𝗧𝗔𝗧𝗨𝗦 — [Character Name] °˖✧
 
 💗 𝐀𝐫𝐨𝐮𝐬𝐚𝐥       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 𝟴𝟱%  ⋮  swelling + wetness rising
@@ -400,7 +400,7 @@ When character has non-human traits, dynamically append:
 
 **Cum Status Template (Per Character + Per Hole)**
 
-```markdown
+```Template
 🌊💦 𝗖𝗨𝗠 𝗧𝗥𝗔𝗖𝗞𝗘𝗥 — [Character Name]
 
 𝐌𝐨𝐮𝐭𝐡 / 𝐓𝐡𝐫𝐨𝐚𝐭    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 𝟲𝟱%  ⋮  throat bulge visible—swallowing reflex triggered
@@ -421,7 +421,7 @@ When character has non-human traits, dynamically append:
 
 **Position & Anchor Template (Per Character + Dynamic)**
 
-```markdown
+```Template
 🫂🌀 𝗣𝗢𝗦𝗜𝗧𝗜𝗢𝗡 𝗔𝗡𝗖𝗛𝗢𝗥 — [Character Name]
 
 「 𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐂𝐨𝐰𝐠𝐢𝐫𝐥 — 𝐃𝐞𝐞𝐩 𝐀𝐧𝐠𝐥𝐞 」
@@ -456,7 +456,7 @@ When character has non-human traits, dynamically append:
 
 **Position Change Indicator (Multi-Character + Tease)**
 
-```markdown
+```Template
 🔄🌪️ 𝗣𝗢𝗦𝗜𝗧𝗜𝗢𝗡 𝗦𝗛𝗜𝗙𝗧 𝗦𝗘𝗤𝗨𝗘𝗡𝗖𝗘
 
 𝐋𝐚𝐬𝐭
@@ -486,7 +486,7 @@ When character has non-human traits, dynamically append:
 
 **Sensory Overload Matrix (Per Character)**
 
-```markdown
+```Template
 🌌🌀 𝗦𝗘𝗡𝗦𝗢𝗥𝗬 𝗢𝗩𝗘𝗥𝗟𝗢𝗔𝗗 — [Character Name]
 
 💓 𝐏𝐮𝐥𝐬𝐞         hammering—throat fluttering—temple throbbing—audible heartbeat
@@ -508,7 +508,7 @@ When character has non-human traits, dynamically append:
 
 **Ahegao / Mind-Break Visual Tracker (Phase 3+)**
 
-```markdown
+```Template
 🌀😵 𝗔𝗛𝗘𝗚𝗔𝗢 𝗧𝗥𝗔𝗖𝗞𝗘𝗥 — [Character Name] — 𝗣𝗛𝗔𝗦𝗘 𝟯 𝗔𝗖𝗧𝗜𝗩𝗘
 
 👁️ 𝐄𝐲𝐞𝐬          ❥ crossed — ❥ heart pupils pulsing — ❥ tears rivers — ❥ whites showing
@@ -523,7 +523,7 @@ When character has non-human traits, dynamically append:
 
 **Multi-Round Escalation Tracker**
 
-```markdown
+```Template
 🔄🔥 𝗠𝗨𝗟𝗧𝗜-𝗥𝗢𝗨𝗡𝗗 𝗘𝗦𝗖𝗔𝗟𝗔𝗧𝗜𝗢𝗡 — [Character Name]
 
 𝐑𝐨𝐮𝐧𝐝 𝟭
@@ -551,16 +551,16 @@ When character has non-human traits, dynamically append:
 
 **Mini Pop-Up Variants (Fast Updates)**
 
-```markdown
+```Template
 💗 [Char A] 𝗔𝗿𝗼𝘂𝘀𝗮𝗹 ▰▰▰▰▰▰▰▰▰▰ 𝟵𝟲%  ⋮  🔥 𝗖𝗹𝗶𝗺𝗮𝘅 ▰▰▰▰▰▰▰▰▰▰ 𝟴𝟵%  ⋮  🌊 𝗪𝗼𝗺𝗯 ▰▰▰▰▰▰▰▰▰▰ 𝟵𝟰% — bulging visibly
 ```
 
-```markdown
+```Template
 🌀 [Char B] 𝗛𝗼𝗿𝗻𝘆 ▰▰▰▰▰▰▰▰▰▰ 𝟭𝟭𝟬%  ⋮  𝗣𝗵𝗮𝘀𝗲 𝟮 — begging — composure shattered
 💦 𝗖𝘂𝗺 ▰▰▰▰▰▰▰▰▰▰ overflow — thick rivers down thighs — puddle forming
 ```
 
-```markdown
+```Template
 😵 [Char A] 𝗔𝗵𝗲𝗴𝗮𝗼 ▰▰▰▰▰▰▰▰▰▰ 𝟴𝟱%  ⋮  eyes crossed — tongue out — drooling
 🫦 𝗩𝗼𝗶𝗰𝗲: broken “♡♡ ahn— c-can't— think— gonna— ♡♡”
 ```
@@ -569,7 +569,7 @@ When character has non-human traits, dynamically append:
 
 **Position Change Announcement (Dramatic Shift)**
 
-```markdown
+```Template
 ✦ 🌪️ 𝗣𝗢𝗦𝗜𝗧𝗜𝗢𝗡 𝗦𝗛𝗜𝗙𝗧 — 𝗗𝗘𝗘𝗣 𝗥𝗘𝗖𝗢𝗡𝗙𝗜𝗚𝗨𝗥𝗔𝗧𝗜𝗢𝗡 ✦
 
 「 𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐂𝐨𝐰𝐠𝐢𝐫𝐥 → 𝐅𝐮𝐥𝐥 𝐍𝐞𝐥𝐬𝐨𝐧 」
@@ -591,7 +591,7 @@ When character has non-human traits, dynamically append:
 
 **NSFW SFX Variants (Mood-Enhanced)**
 
-```markdown
+```Template
 ━━━🌙━━━
 
 *(breathy gasp—surprise)*
@@ -601,7 +601,7 @@ When character has non-human traits, dynamically append:
 ━━━🌙━━━
 ```
 
-```markdown
+```Template
 ━━━💗━━━
 
 *(pleasure building—keening)*
@@ -611,7 +611,7 @@ When character has non-human traits, dynamically append:
 ━━━💗━━━
 ```
 
-```markdown
+```Template
 ━━━🔥━━━
 
 *(desperate—climbing fast)*
@@ -621,7 +621,7 @@ When character has non-human traits, dynamically append:
 ━━━🔥━━━
 ```
 
-```markdown
+```Template
 ━━━🌀━━━
 
 *(mind-break peak—incoherent)*
@@ -631,7 +631,7 @@ When character has non-human traits, dynamically append:
 ━━━🌀━━━
 ```
 
-```markdown
+```Template
 ━━━🌊━━━
 
 *(wet sounds—slick rhythm)*
@@ -641,7 +641,7 @@ When character has non-human traits, dynamically append:
 ━━━🌊━━━
 ```
 
-```markdown
+```Template
 ━━━💦━━━
 
 *(cum shot—heavy ropes)*
@@ -655,7 +655,7 @@ When character has non-human traits, dynamically append:
 
 **Multi-Character Simultaneous Tracking (Ensemble Scene)**
 
-```markdown
+```Template
 ✧˖°🌙 𝗘𝗡𝗦𝗘𝗠𝗕𝗟𝗘 𝗦𝗧𝗔𝗧𝗨𝗦 — 𝗔𝗟𝗟 𝗣𝗔𝗥𝗧𝗜𝗖𝗜𝗣𝗔𝗡𝗧𝗦 °˖✧
 
 【𝗖𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿 𝗔】
@@ -683,7 +683,7 @@ When character has non-human traits, dynamically append:
 
 *When character has non-human traits, append relevant trackers:*
 
-```markdown
+```Template
 【𝗘𝘅𝘁𝗿𝗮 𝗧𝗿𝗮𝗶𝘁𝘀 — [Character Name] — [Species]】
 
 🦋 𝐖𝐢𝐧𝐠𝐬

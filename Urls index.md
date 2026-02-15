@@ -16,10 +16,18 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ### Maid Outfits
 
-**Bunny Maid Outfit.jpeg**
+#### Bunny Maid
+
+**Bunny Maid 1_Prompt.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid%20Outfit.jpeg
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid/Bunny%20Maid%201_Prompt.md
+```
+
+**Bunny Maid 1_Visual.jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid/Bunny%20Maid%201_Visual.jpeg
 ```
 
 ## Roleplay Archive
