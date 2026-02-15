@@ -2,6 +2,16 @@
 
 # Files
 
+## Ai Characters
+
+### The Rabbit Cyclist
+
+**Cyclist.jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Characters/The%20Rabbit%20Cyclist/Cyclist.jpeg
+```
+
 ## Roleplay Archive
 
 ### Batch 1
