@@ -56,143 +56,25 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ####### Act 1
 
-######## Chapter 1
-
-**1. Overall ¦ Pr_C.md**
+**Act 1 — Old Home New Family ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%201/1.%20Overall%20%C2%A6%20Pr_C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Act%201%20%E2%80%94%20Old%20Home%20New%20Family%20%C2%A6%20Pr_A.md
 ```
 
-**2. Lore&Memories ¦ Pr_C.md**
+**Characters ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%201/2.%20Lore%26Memories%20%C2%A6%20Pr_C.md
-```
-
-**3. Detailed Scenes ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%201/3.%20Detailed%20Scenes%20%C2%A6%20Pr_C.md
-```
-
-**X. EXTRAs ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%201/X.%20EXTRAs%20%C2%A6%20Pr_C.md
-```
-
-######### New Character(s)
-
-**Akane Kurogane (Harem Member) ¦ Pr_B.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%201/New%20Character%28s%29/Akane%20Kurogane%20%28Harem%20Member%29%20%C2%A6%20Pr_B.md
-```
-
-######## Chapter 2
-
-**1. Overall ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%202/1.%20Overall%20%C2%A6%20Pr_C.md
-```
-
-**2. Lore&Memories ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%202/2.%20Lore%26Memories%20%C2%A6%20Pr_C.md
-```
-
-**3. Detailed Scenes ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%202/3.%20Detailed%20Scenes%20%C2%A6%20Pr_C.md
-```
-
-**X. EXTRAs ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%202/X.%20EXTRAs%20%C2%A6%20Pr_C.md
-```
-
-######## Chapter 3
-
-**1. Overall ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%203/1.%20Overall%20%C2%A6%20Pr_C.md
-```
-
-**2. Lore&Memories ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%203/2.%20Lore%26Memories%20%C2%A6%20Pr_C.md
-```
-
-**3. Detailed Scenes ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%203/3.%20Detailed%20Scenes%20%C2%A6%20Pr_C.md
-```
-
-**X. EXTRAs ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%203/X.%20EXTRAs%20%C2%A6%20Pr_C.md
-```
-
-######### New Character(s)
-
-**Yuki (Harem Member) ¦ Pr_B.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%203/New%20Character%28s%29/Yuki%20%28Harem%20Member%29%20%C2%A6%20Pr_B.md
-```
-
-######## Chapter 4
-
-**1. Overall ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/1.%20Overall%20%C2%A6%20Pr_C.md
-```
-
-**2. Lore&Memories ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/2.%20Lore%26Memories%20%C2%A6%20Pr_C.md
-```
-
-**3. Detailed Scenes ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/3.%20Detailed%20Scenes%20%C2%A6%20Pr_C.md
-```
-
-**X. EXTRAs ¦ Pr_C.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/X.%20EXTRAs%20%C2%A6%20Pr_C.md
-```
-
-######### New Character(s)
-
-**Claire (Harem Member) ¦ Pr_B.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/New%20Character%28s%29/Claire%20%28Harem%20Member%29%20%C2%A6%20Pr_B.md
-```
-
-**Ghost Girl (Harem Member) ¦ Pr_B.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/New%20Character%28s%29/Ghost%20Girl%20%28Harem%20Member%29%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Characters%20%C2%A6%20Pr_A.md
 ```
 
 ####### Act 2
 
-######## Chapter 1 (Current Chronological Timeline)
+**ACT 2 (In Progress).md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%202/ACT%202%20%28In%20Progress%29.md
+```
 
 #### Nsfw
 
