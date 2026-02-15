@@ -150,7 +150,45 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%203/New%20Character%28s%29/Yuki%20%28Harem%20Member%29%20%C2%A6%20Pr_B.md
 ```
 
-######## Chapter 4 (Current Timeline Chapter)
+######## Chapter 4
+
+**1. Overall ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/1.%20Overall%20%C2%A6%20Pr_C.md
+```
+
+**2. Lore&Memories ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/2.%20Lore%26Memories%20%C2%A6%20Pr_C.md
+```
+
+**3. Detailed Scenes ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/3.%20Detailed%20Scenes%20%C2%A6%20Pr_C.md
+```
+
+**X. EXTRAs ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/X.%20EXTRAs%20%C2%A6%20Pr_C.md
+```
+
+######### New Character(s)
+
+**Claire (Harem Member) ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/New%20Character%28s%29/Claire%20%28Harem%20Member%29%20%C2%A6%20Pr_B.md
+```
+
+**Ghost Girl (Harem Member) ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Normal/The%20Boy%20%28Grown%20Ass%20Man%20Btw%29%20In%20Sailor%20%C2%A6%20Index/Acts%20Archive/Act%201/Chapter%204/New%20Character%28s%29/Ghost%20Girl%20%28Harem%20Member%29%20%C2%A6%20Pr_B.md
+```
 
 #### Nsfw
 
