@@ -304,6 +304,62 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%201/Nsfw/The%20Cum-Hungry%20Elf%20%C2%A6%20Index/Z.%20Wardrobes/Mizuki%27s%20Wardrobe/The%20Aethral%20Weave%20%C2%A6%20Main%20Outfit/Visualization%202.jpeg
 ```
 
+### Batch 2
+
+#### Tenketsu Academy
+
+##### A. LORE
+
+**Memories ¦ Pr_D.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Memories%20%C2%A6%20Pr_D.md
+```
+
+**Past Scenes ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Past%20Scenes%20%C2%A6%20Pr_C.md
+```
+
+**Relationship Matrix ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Relationship%20Matrix%20%C2%A6%20Pr_C.md
+```
+
+**Tenketsu Academy Worldbuilding ¦ Pr A.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Tenketsu%20Academy%20Worldbuilding%20%C2%A6%20Pr%20A.md
+```
+
+###### Character(s)
+
+**ANRI ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Character%28s%29/ANRI%20%C2%A6%20Pr_B.md
+```
+
+**ILYAS KUROGANE ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Character%28s%29/ILYAS%20KUROGANE%20%C2%A6%20Pr_B.md
+```
+
+**Kiko Nakamura ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Character%28s%29/Kiko%20Nakamura%20%C2%A6%20Pr_B.md
+```
+
+##### Timeline
+
+###### ACT 1
+
+####### Chapter 1 (Current Chronological Timeline)
+
 ## Roleplay System
 
 ### Roleplay Plug-ins
@@ -314,10 +370,10 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Pr-B%20%C2%A6%20Combat%20%C2%A6%20Plug-in.md
 ```
 
-**Pr-B ¦ NSFW  ¦ Plug-in.md**
+**Pr-B ¦ NSFW ¦ Plug-in.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Pr-B%20%C2%A6%20NSFW%20%20%C2%A6%20Plug-in.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Pr-B%20%C2%A6%20NSFW%20%C2%A6%20Plug-in.md
 ```
 
 #### Unused
