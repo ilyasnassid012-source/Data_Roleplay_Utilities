@@ -12,6 +12,16 @@
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Characters/The%20Rabbit%20Cyclist/Cyclist.jpeg
 ```
 
+## Ai Clothes
+
+### Maid Outfits
+
+**Bunny Maid Outfit.jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid%20Outfit.jpeg
+```
+
 ## Roleplay Archive
 
 ### Batch 1
