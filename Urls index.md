@@ -248,6 +248,40 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ### Batch 2
 
+#### Fallen Angel
+
+##### Preload Files
+
+###### Character(s)
+
+####### Yuno
+
+**Character Appearance (Base Inspiration) 2.jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/Preload%20Files/Character%28s%29/Yuno/Character%20Appearance%20%28Base%20Inspiration%29%202.jpeg
+```
+
+**Character Appearance (Base Inspiration).jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/Preload%20Files/Character%28s%29/Yuno/Character%20Appearance%20%28Base%20Inspiration%29.jpeg
+```
+
+**Prompt Vr ¦ Character Appearances (Both Base Inspiration).md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/Preload%20Files/Character%28s%29/Yuno/Prompt%20Vr%20%C2%A6%20Character%20Appearances%20%28Both%20Base%20Inspiration%29.md
+```
+
+###### Worldbuilding
+
+**Main World ¦ Pr_A.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/Preload%20Files/Worldbuilding/Main%20World%20%C2%A6%20Pr_A.md
+```
+
 #### Tenketsu Academy
 
 ##### A. LORE
