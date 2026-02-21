@@ -1,3 +1,171 @@
+# Act I Chapter 1 — Fallen Angel — Lore & Memories
+
+## Lore
+
+### Blood Manipulation (Ilyas's Core Ability)
+
+#### Meta-Data
+- Type: Forbidden Knowledge / Personal Power
+- Scope: Character-specific (Ilyas only)
+- Status: Active
+- Time Period: Ongoing (developed prior to chapter)
+- Canon Level: Absolute (demonstrated directly)
+
+#### Knowledge & Awareness
+- Known By: 
+  - Ilyas (full mastery)
+  - Select underground rumors ("Blood Scholar" title)
+  - Auction attendees (witnessed effects, unconscious now)
+- Unknown To: 
+  - General population
+  - Most freed captives
+  - Yuno (only surface effects seen)
+- Discoverable By: 
+  - Direct exposure to blood-mixed liquids
+  - Witnessing effects
+  - Deep investigation into "Blood Scholar" legend
+
+#### Affected Parties
+- Directly Affected: 
+  - Auction hall attendees (paralyzed, puppet-controlled, unconscious)
+  - Yuno (indirectly — freed via application)
+- Indirectly Affected: 
+  - Freed captives (liberated)
+  - Future harem candidates (implied future "fixing" potential)
+
+#### Main Narrative / Explanation
+Ilyas possesses the ability to control blood once his own blood has been mixed into a target’s system or liquid they consume. Pre-event, he planted his blood into the communal wine supply. Upon activation (finger flick), he gained full dominion over every drinker’s body — paralysis, forced puppet movement, precise internal knowledge extraction (crimes read via blood memory). Moral code restricts lethal use; prefers efficient, non-deadly "humanity restoration." Demonstrated puppet control to free captives and leave slavers unconscious.
+
+#### Rules & Constraints
+- Requires prior blood mixing (cannot affect clean targets instantly)
+- Control persists until consciously released
+- Allows body composition changes (implied appearance alteration)
+- Non-lethal by choice (could kill but chooses not to)
+- Causes physical side effects on user (nosebleeds when flustered)
+
+#### Current Impact (Today’s Effect)
+- Auction power structure shattered
+- Key depraved figures unconscious & vulnerable
+- Reputation as "Blood Scholar" now spreading
+- Yuno’s freedom directly enabled
+- Sets precedent for future moral applications
+
+### Yuno's Thought-Reading Curse
+
+#### Meta-Data
+- Type: Cursed Ability / Public Knowledge (among slavers)
+- Scope: Character-specific (Yuno only)
+- Status: Active
+- Time Period: Ongoing (pre-chapter)
+- Canon Level: Absolute (demonstrated throughout)
+
+#### Knowledge & Awareness
+- Known By: 
+  - Yuno (bearer)
+  - Auction slavers/merchants (advertised as "thought-reader")
+  - Ilyas (inferred from her broadcasts)
+  - Narrator (direct recipient)
+- Unknown To: 
+  - General population
+  - Most freed captives
+- Discoverable By: 
+  - Direct mental broadcast detection
+  - Slaver records
+  - Prolonged exposure to Yuno
+
+#### Affected Parties
+- Directly Affected: 
+  - Yuno (constant mental noise, occasional loss of control)
+  - Ilyas (heard accidental lewd broadcast)
+- Indirectly Affected: 
+  - Auction crowd (surface thoughts exposed to Yuno)
+
+#### Main Narrative / Explanation
+Yuno carries a curse allowing passive reading of surface thoughts and mental broadcasting (sometimes uncontrollable). Used to endure captivity by listening to dirty/joking minds. Broadcasts can be private (to Narrator) or accidental/public (e.g., "massacre of cuteness" leak). Semi-mastered filtering exists but fails under strong emotion.
+
+#### Rules & Constraints
+- Always on — cannot fully disable
+- Range: Nearby surface thoughts
+- Broadcasts involuntary when emotionally charged
+- Can target specific recipient (Narrator)
+- No deep mind-reading (surface only)
+
+#### Current Impact (Today’s Effect)
+- Enabled Yuno to endure slavery psychologically
+- Created first accidental lewd reveal to Ilyas
+- Strengthened bond with Narrator (trust restored)
+- Potential future liability (uncontrolled broadcasts)
+
+## Memories
+
+### Yuno — Auction Hall Captivity & Liberation
+
+#### Meta-Data
+- Memory Type: Shared / Traumatising → Transformative
+- Emotional Weight: Extreme → High Relief
+- Reliability: Accurate
+- Time Reference: Evening, 19 March
+
+#### Participants
+- Experienced By: Yuno
+- Witnessed By: Ilyas (late)
+- Remembered By: Yuno, freed captives (scattered)
+- Forgotten By: Auction attendees (unconscious)
+
+#### Perspective & Bias
+- Primary Perspective: Yuno
+- Emotional Bias: Fear → Hope → Awe → Possession
+
+#### Main Narrative / Recollection
+Yuno remembers endless days caged, collar suppressing powers, rags barely covering her. She recalls mentally speaking to Narrator for comfort, listening to filthy bidder thoughts to pass time. Remembers sudden paralysis, Ilyas’s reveal, his calm moral judgment, personal cage opening. Remembers clinging during flight, accidental lewd broadcast, bedroom intimacy while he slept. Believes Ilyas is her savior and destined first partner.
+
+#### Consequences
+- Complete devotion to Ilyas
+- Possessive harem intent formed
+- Trust in Narrator fully restored
+- Height fear note filed for future teasing
+
+#### Current Impact (Today’s Effect)
+- Drives her to keep him inside all night
+- Fuels nonstop gratitude
+- Sets possessive sleeping posture
+- Plans future harem recruitment
+
+### Ilyas — Auction Liberation (From Yuno's Perspective)
+
+#### Meta-Data
+- Memory Type: Witnessed / Reverent
+- Emotional Weight: High Awe
+- Reliability: Accurate (Yuno’s view)
+- Time Reference: Evening, 19 March
+
+#### Participants
+- Experienced By: Yuno (witness)
+- Witnessed By: Auction crowd (paralyzed)
+- Remembered By: Yuno
+- Forgotten By: Affected attendees (unconscious)
+
+#### Perspective & Bias
+- Primary Perspective: Yuno
+- Emotional Bias: Awe, gratitude, lust
+
+#### Main Narrative / Recollection
+Yuno remembers the cloaked figure speaking “Zero,” then “Zero Survivors.” Remembers wine turning to blood, mass paralysis. Remembers hood drop — young man with violet dreads and mismatched eyes. Remembers his calm accusations, moral code explanation, personal cage opening. Remembers flight — his fear, clinging, nosebleed. Remembers bedroom — his coma-sleep, her worship, his climaxes inside her. Believes he is perfect savior & destined partner.
+
+#### Consequences
+- Instant devotion & possession
+- Sexual worship established
+- Harem foundation laid
+- Protective instinct toward his weaknesses (heights)
+
+#### Current Impact (Today’s Effect)
+- Keeps him inside while sleeping
+- Whispers endless thanks
+- Plans to expand harem
+- Files height fear for future play
+
+**Act I Chapter 1 — Lore & Memories — ARCHIVED & COMPLETE**
+
 # Act 1 Chapter 2 — Lore & Memories — The Carnival of Chains & The Tiger’s Hope
 
 ## Lore
@@ -386,3 +554,169 @@ Yuno detects Kokōshibo’s despair mid-skip, drops to knees, begs Narrator to g
 The archive for Act 1 Chapter 2 is complete.  
 Roleplay session archived.  
 Ready for next chapter or continuation when roleplay mode resumes.
+
+# Act 1 Chapter 3 — Lore & Memories — The Pouch-Bound Savior
+
+## Lore
+
+### Infinite Pocket Dimension Pouch (Chōyakusha’s Marsupium)
+#### Meta-Data
+- Type: World Secret / System Rule
+- Scope: Character-specific (Chōya’s bloodline)
+- Status: Active
+- Time Period: Timeless (ancient beast-kin lineage enhanced by magic)
+- Canon Level: Absolute
+
+#### Knowledge & Awareness
+- Known By: Blood Market Syndicate (used her as inventory), Ilyas (witnessed during rescue), Yuno & Kokō (told during breakfast)
+- Unknown To: General public, most continental powers
+- Discoverable By: Close physical contact + trust (only Chōya can willingly open it)
+
+#### Affected Parties
+- Directly Affected: Chōya (used as living storage for decades), Ilyas (carried safely during escape), Kokō (tested pouch and loved it)
+- Indirectly Affected: Future harem dynamics (pouch enables group intimacy/transport)
+
+#### Main Narrative / Explanation
+Chōya’s natural kangaroo marsupium was enhanced by her magic-touched lineage into a true pocket dimension. The interior is warm, breathable, weightless, and pulsing like a living embrace. Capacity is effectively infinite for practical purposes. Slavers exploited it as “living inventory,” forcing her to store goods and people without regard for her well-being. Ilyas’s rescue revealed its true potential as a sanctuary and intimate space.
+
+#### Rules & Constraints
+- Only Chōya can open it willingly; forced entry requires unconsciousness or specific magic.
+- Living beings inside experience no time distortion or harm.
+- Overuse causes emotional fatigue for Chōya.
+- Breaking the pouch would require killing Chōya (contents safely expelled).
+
+#### Current Impact (Today’s Effect)
+- Politics: Blood Market now missing high-value asset, increasing pursuit risk.
+- Combat: Potential mobile safe zone for allies.
+- Powers: Enables new group strategies and intimate bonding.
+- NPC behavior: Chōya now views pouch as symbol of family, not captivity.
+- World state: Adds living pocket dimension to harem capabilities.
+
+### Blood Scholar Reputation
+#### Meta-Data
+- Type: Public Knowledge / Myth
+- Scope: Regional (underworld & border areas)
+- Status: Active & Growing
+- Time Period: Recent (sparked at Carnival of Chains)
+- Canon Level: Mythologized
+
+#### Knowledge & Awareness
+- Known By: Slavers at Shattered Grove (recognized Ilyas instantly), surviving Carnival witnesses
+- Unknown To: General population
+- Discoverable By: Asking underworld contacts or witnessing blood magic
+
+#### Affected Parties
+- Directly Affected: Blood Market Syndicate (now fears him)
+- Indirectly Affected: Future rescues become riskier due to reputation
+
+#### Main Narrative / Explanation
+Ilyas’s actions at the Carnival of Chains (paralyzing auction with blood wine, zero survivors) created the “Blood Scholar” legend. At Shattered Grove, guards recognized him by name and power, causing immediate panic. His blood constructs (wings, scythe, lasers) further cemented the myth of an unstoppable crimson mage.
+
+#### Rules & Constraints
+- Reputation spreads through fear and rumors, not formal channels.
+- Attracts both enemies (Syndicate) and potential allies.
+
+#### Current Impact (Today’s Effect)
+- Politics: Syndicate now prioritizes hunting him.
+- Combat: Opponents hesitate upon recognition.
+- NPC behavior: Slavers flee on sight; Chōya sees him as legendary savior.
+
+## Memories
+
+### The Cage Years (Chōya’s Captivity)
+#### Meta-Data
+- Memory Type: Traumatising / Faded
+- Emotional Weight: Extreme
+- Reliability: Fragmented (suppressed for survival)
+- Time Reference: Decades (exact count lost)
+
+#### Participants
+- Experienced By: Chōyakusha (Chōya)
+- Witnessed By: None (isolated as inventory)
+- Remembered By: Chōya (partial, triggered by rescue)
+- Forgotten By: Chōya (most details buried until safety)
+
+#### Perspective & Bias
+- Primary Perspective: Chōya
+- Emotional Bias: Numb dissociation turning to overwhelming gratitude
+
+#### Main Narrative / Recollection
+Chōya remembers only fragments: cold bars, hands forcing items into her pouch, being called “inventory,” decades without a name or kindness. She recalls the day the collar was first locked and the endless waiting. The memory surfaces as dull emptiness until Ilyas’s rescue — then it cracks open into relief.
+
+#### Consequences
+- Personality changes: From broken silence to explosive warmth and touch-starvation.
+- Relationship changes: Instant fierce attachment to Ilyas as savior.
+- Motivations created: Overwhelming need to nurture and protect her new family.
+
+#### Current Impact (Today’s Effect)
+- Decisions: Refuses to leave Ilyas’s side; offers pouch to Kokō immediately.
+- Dialogue: Heavy use of pet names and promises of lifelong care.
+- Combat reactions: Protective positioning toward new family.
+- Trust / hostility: Complete trust in Ilyas; zero tolerance for slavers.
+- Trigger conditions: Tight spaces or collars cause brief flinches.
+
+### The Rescue & First Words
+#### Meta-Data
+- Memory Type: Shared / Traumatising-to-Healing
+- Emotional Weight: Extreme
+- Reliability: Accurate for Ilyas; emotionally heightened for Chōya
+- Time Reference: This morning
+
+#### Participants
+- Experienced By: Ilyas, Chōya
+- Witnessed By: None
+- Remembered By: Ilyas & Chōya
+- Forgotten By: None
+
+#### Perspective & Bias
+- Primary Perspective: Dual (Ilyas’s calm efficiency vs Chōya’s awe)
+- Emotional Bias: Gratitude and wonder for Chōya; quiet satisfaction for Ilyas
+
+#### Main Narrative / Recollection
+Ilyas arrives, breaks collar with blood power, defeats curse, falls from dizziness. Chōya catches him and instinctively pouches him. Her first words in decades: “…thank… you…” then “…you… came…”. Ilyas remembers the tactical rescue; Chōya remembers it as salvation.
+
+#### Consequences
+- Personality changes: Chōya’s voice and smile return.
+- Relationship changes: Instant unbreakable bond between Ilyas and Chōya.
+- Motivations created: Chōya vows lifelong devotion; Ilyas gains new protective instinct.
+
+#### Current Impact (Today’s Effect)
+- Decisions: Chōya follows Ilyas home without hesitation.
+- Dialogue: Frequent thanks and pet names toward Ilyas.
+- Combat reactions: Chōya now stands ready to protect him.
+- Trust / hostility: Absolute trust in Ilyas.
+- Trigger conditions: Mention of rescue brings tears of joy.
+
+### First Family Hug (Chōya, Yuno & Kokō)
+#### Meta-Data
+- Memory Type: Shared / Healing
+- Emotional Weight: High
+- Reliability: Accurate and cherished
+- Time Reference: Early afternoon (post-breakfast shower)
+
+#### Participants
+- Experienced By: Chōya, Yuno, Kokō
+- Witnessed By: None
+- Remembered By: All three
+- Forgotten By: None
+
+#### Perspective & Bias
+- Primary Perspective: Chōya (overwhelming joy)
+- Emotional Bias: Pure relief and belonging
+
+#### Main Narrative / Recollection
+After shower, Chōya pulls Yuno and Kokō into a naked, tearful group hug, declaring them her daughters. She reflects on going from cage to home in one day. Yuno softens and protects; Kokō clings and calls her “mama.”
+
+#### Consequences
+- Personality changes: Chōya fully embraces maternal role.
+- Relationship changes: Instant sister/mother bonds formed.
+- Motivations created: All three vow to protect the family and surprise Ilyas with love.
+
+#### Current Impact (Today’s Effect)
+- Decisions: Girls immediately begin planning pouch ambush for tonight.
+- Dialogue: Heavy use of “mama,” “big sis,” pet names.
+- Combat reactions: Protective instincts toward each other.
+- Trust / hostility: Complete familial trust.
+- Trigger conditions: Physical touch now brings instant comfort.
+
+---
