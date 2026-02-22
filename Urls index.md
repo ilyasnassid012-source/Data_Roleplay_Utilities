@@ -2,34 +2,6 @@
 
 # Files
 
-## Ai Characters
-
-### The Rabbit Cyclist
-
-**Cyclist.jpeg**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Characters/The%20Rabbit%20Cyclist/Cyclist.jpeg
-```
-
-## Ai Clothes
-
-### Maid Outfits
-
-#### Bunny Maid
-
-**Bunny Maid 1_Prompt.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid/Bunny%20Maid%201_Prompt.md
-```
-
-**Bunny Maid 1_Visual.jpeg**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid/Bunny%20Maid%201_Visual.jpeg
-```
-
 ## Roleplay Archive
 
 ### Batch 1
@@ -248,7 +220,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ### Batch 2
 
-#### Fallen Angel
+#### 1. Fallen Angel
 
 ##### A. Preload Files
 
@@ -257,7 +229,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Main World ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/A.%20Preload%20Files/Worldbuilding/Main%20World%20%C2%A6%20Pr_A.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/A.%20Preload%20Files/Worldbuilding/Main%20World%20%C2%A6%20Pr_A.md
 ```
 
 ##### B. Characters
@@ -267,25 +239,25 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **0. Ilyas ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/B.%20Characters/Harem%20Members/0.%20Ilyas%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/0.%20Ilyas%20%C2%A6%20Pr_B.md
 ```
 
 **1. Yuno ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/B.%20Characters/Harem%20Members/1.%20Yuno%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/1.%20Yuno%20%C2%A6%20Pr_B.md
 ```
 
 **2. Kokō ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/B.%20Characters/Harem%20Members/2.%20Kok%C5%8D%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/2.%20Kok%C5%8D%20%C2%A6%20Pr_B.md
 ```
 
 **3. Chōya ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/B.%20Characters/Harem%20Members/3.%20Ch%C5%8Dya%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/3.%20Ch%C5%8Dya%20%C2%A6%20Pr_B.md
 ```
 
 ####### A. Character Template
@@ -293,7 +265,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Yuno’s Super Secret (But Not Secret Anymore) Harem File ¦ Pr_E.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/B.%20Characters/Harem%20Members/A.%20Character%20Template/Yuno%E2%80%99s%20Super%20Secret%20%28But%20Not%20Secret%20Anymore%29%20Harem%20File%20%C2%A6%20Pr_E.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/A.%20Character%20Template/Yuno%E2%80%99s%20Super%20Secret%20%28But%20Not%20Secret%20Anymore%29%20Harem%20File%20%C2%A6%20Pr_E.md
 ```
 
 ##### C. TIMELINE
@@ -301,13 +273,13 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Extra File Updates ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/C.%20TIMELINE/Extra%20File%20Updates%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Extra%20File%20Updates%20%C2%A6%20Pr_B.md
 ```
 
 **Lore&Memories File ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/C.%20TIMELINE/Lore%26Memories%20File%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Lore%26Memories%20File%20%C2%A6%20Pr_B.md
 ```
 
 ###### Act 1
@@ -317,13 +289,13 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **1. Overall ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%201/1.%20Overall%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%201/1.%20Overall%20%C2%A6%20Pr%20C.md
 ```
 
 **3. Detailed Scenes ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%201/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%201/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
 ```
 
 ####### Chapter 2
@@ -331,13 +303,13 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **1. Overall ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%202/1.%20Overall%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%202/1.%20Overall%20%C2%A6%20Pr%20C.md
 ```
 
 **3. Detailed Scenes ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%202/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%202/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
 ```
 
 ####### Chapter 3
@@ -345,41 +317,41 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **1. Overall ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%203/1.%20Overall%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%203/1.%20Overall%20%C2%A6%20Pr%20C.md
 ```
 
 **3. Detailed Scenes ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%203/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%203/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
 ```
 
-#### Tenketsu Academy
+#### 2. Tenketsu Academy
 
 ##### A. LORE
 
 **Memories ¦ Pr_D.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Memories%20%C2%A6%20Pr_D.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/2.%20Tenketsu%20Academy/A.%20LORE/Memories%20%C2%A6%20Pr_D.md
 ```
 
 **Past Scenes ¦ Pr_C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Past%20Scenes%20%C2%A6%20Pr_C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/2.%20Tenketsu%20Academy/A.%20LORE/Past%20Scenes%20%C2%A6%20Pr_C.md
 ```
 
 **Relationship Matrix ¦ Pr_C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Relationship%20Matrix%20%C2%A6%20Pr_C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/2.%20Tenketsu%20Academy/A.%20LORE/Relationship%20Matrix%20%C2%A6%20Pr_C.md
 ```
 
 **Tenketsu Academy Worldbuilding ¦ Pr A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Tenketsu%20Academy%20Worldbuilding%20%C2%A6%20Pr%20A.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/2.%20Tenketsu%20Academy/A.%20LORE/Tenketsu%20Academy%20Worldbuilding%20%C2%A6%20Pr%20A.md
 ```
 
 ###### Character(s)
@@ -387,19 +359,19 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **ANRI ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Character%28s%29/ANRI%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/2.%20Tenketsu%20Academy/A.%20LORE/Character%28s%29/ANRI%20%C2%A6%20Pr_B.md
 ```
 
 **ILYAS KUROGANE ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Character%28s%29/ILYAS%20KUROGANE%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/2.%20Tenketsu%20Academy/A.%20LORE/Character%28s%29/ILYAS%20KUROGANE%20%C2%A6%20Pr_B.md
 ```
 
 **Kiko Nakamura ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/Tenketsu%20Academy/A.%20LORE/Character%28s%29/Kiko%20Nakamura%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/2.%20Tenketsu%20Academy/A.%20LORE/Character%28s%29/Kiko%20Nakamura%20%C2%A6%20Pr_B.md
 ```
 
 ##### Timeline
@@ -407,6 +379,24 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 ###### ACT 1
 
 ####### Chapter 1 (Current Chronological Timeline)
+
+#### 3. Ghost's Mortality
+
+##### A. Base Files
+
+**Pr_A ¦ Universe.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/A.%20Base%20Files/Pr_A%20%C2%A6%20Universe.md
+```
+
+##### B. Roleplay Files
+
+##### C. TIMELINE
+
+###### Act 1
+
+####### Chapter 1
 
 ## Roleplay System
 
@@ -494,5 +484,35 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ```Url_Raw_Link
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Templates/Image%20Generator%20Prompt.md
+```
+
+## X. Ai Creations
+
+### Ai Characters
+
+#### The Rabbit Cyclist
+
+**Cyclist.jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/X.%20Ai%20Creations/Ai%20Characters/The%20Rabbit%20Cyclist/Cyclist.jpeg
+```
+
+### Ai Clothes
+
+#### Maid Outfits
+
+##### Bunny Maid
+
+**Bunny Maid 1_Prompt.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/X.%20Ai%20Creations/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid/Bunny%20Maid%201_Prompt.md
+```
+
+**Bunny Maid 1_Visual.jpeg**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/X.%20Ai%20Creations/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid/Bunny%20Maid%201_Visual.jpeg
 ```
 
