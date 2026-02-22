@@ -392,11 +392,51 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### B. Roleplay Files
 
+**Pr_B ¦ Extra File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/B.%20Roleplay%20Files/Pr_B%20%C2%A6%20Extra%20File.md
+```
+
+**Pr_B ¦ Lore&Memories File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/B.%20Roleplay%20Files/Pr_B%20%C2%A6%20Lore%26Memories%20File.md
+```
+
+###### C. Characters
+
+**Pr_B ¦ Misa The Petrifier.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/B.%20Roleplay%20Files/C.%20Characters/Pr_B%20%C2%A6%20Misa%20The%20Petrifier.md
+```
+
+####### Template
+
+**Pr_E ¦ Harem Member Sheet Template.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/B.%20Roleplay%20Files/C.%20Characters/Template/Pr_E%20%C2%A6%20Harem%20Member%20Sheet%20Template.md
+```
+
 ##### C. TIMELINE
 
 ###### Act 1
 
-####### Chapter 1
+####### Chapter 1 ¦ The Gilded Cage Reunion
+
+**Pr_C ¦ Act 1 Chapter 1 ¦ Detailed Scenes.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20The%20Gilded%20Cage%20Reunion/Pr_C%20%C2%A6%20Act%201%20Chapter%201%20%C2%A6%20Detailed%20Scenes.md
+```
+
+**Pr_C ¦ Act 1 Chapter 1 ¦ Overall.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20The%20Gilded%20Cage%20Reunion/Pr_C%20%C2%A6%20Act%201%20Chapter%201%20%C2%A6%20Overall.md
+```
 
 ## Roleplay System
 
