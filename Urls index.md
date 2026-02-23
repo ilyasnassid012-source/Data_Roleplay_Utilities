@@ -380,14 +380,14 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ####### Chapter 1 (Current Chronological Timeline)
 
-#### 3. Ghost's Mortality
+#### 3. Ghost's Mortality ¦ Index
 
 ##### A. Base Files
 
 **Pr_A ¦ Universe.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/A.%20Base%20Files/Pr_A%20%C2%A6%20Universe.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/A.%20Base%20Files/Pr_A%20%C2%A6%20Universe.md
 ```
 
 ##### B. Roleplay Files
@@ -395,13 +395,13 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Pr_B ¦ Extra File.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/B.%20Roleplay%20Files/Pr_B%20%C2%A6%20Extra%20File.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/B.%20Roleplay%20Files/Pr_B%20%C2%A6%20Extra%20File.md
 ```
 
 **Pr_B ¦ Lore&Memories File.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/B.%20Roleplay%20Files/Pr_B%20%C2%A6%20Lore%26Memories%20File.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/B.%20Roleplay%20Files/Pr_B%20%C2%A6%20Lore%26Memories%20File.md
 ```
 
 ###### C. Characters
@@ -409,7 +409,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Pr_B ¦ Misa The Petrifier.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/B.%20Roleplay%20Files/C.%20Characters/Pr_B%20%C2%A6%20Misa%20The%20Petrifier.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/B.%20Roleplay%20Files/C.%20Characters/Pr_B%20%C2%A6%20Misa%20The%20Petrifier.md
 ```
 
 ####### Template
@@ -417,7 +417,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Pr_E ¦ Harem Member Sheet Template.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/B.%20Roleplay%20Files/C.%20Characters/Template/Pr_E%20%C2%A6%20Harem%20Member%20Sheet%20Template.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/B.%20Roleplay%20Files/C.%20Characters/Template/Pr_E%20%C2%A6%20Harem%20Member%20Sheet%20Template.md
 ```
 
 ##### C. TIMELINE
@@ -429,14 +429,108 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Pr_C ¦ Act 1 Chapter 1 ¦ Detailed Scenes.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20The%20Gilded%20Cage%20Reunion/Pr_C%20%C2%A6%20Act%201%20Chapter%201%20%C2%A6%20Detailed%20Scenes.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20The%20Gilded%20Cage%20Reunion/Pr_C%20%C2%A6%20Act%201%20Chapter%201%20%C2%A6%20Detailed%20Scenes.md
 ```
 
 **Pr_C ¦ Act 1 Chapter 1 ¦ Overall.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20The%20Gilded%20Cage%20Reunion/Pr_C%20%C2%A6%20Act%201%20Chapter%201%20%C2%A6%20Overall.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20The%20Gilded%20Cage%20Reunion/Pr_C%20%C2%A6%20Act%201%20Chapter%201%20%C2%A6%20Overall.md
 ```
+
+#### 4. B.T.M ¦ Index
+
+##### A. Base Files
+
+###### B. Worldbuildings
+
+####### Constant World
+
+**Worldbuilding (Main Hub) ¦ Pr_A.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/A.%20Base%20Files/B.%20Worldbuildings/Constant%20World/Worldbuilding%20%28Main%20Hub%29%20%C2%A6%20Pr_A.md
+```
+
+####### One Time Timeline
+
+**Worldbuilding (Origin Timeline) ¦ Pr_E.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/A.%20Base%20Files/B.%20Worldbuildings/One%20Time%20Timeline/Worldbuilding%20%28Origin%20Timeline%29%20%C2%A6%20Pr_E.md
+```
+
+###### Main Character(s)
+
+**Ilyas Satoroshi ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/A.%20Base%20Files/Main%20Character%28s%29/Ilyas%20Satoroshi%20%C2%A6%20Pr_B.md
+```
+
+##### B. Roleplay Files
+
+**Lore&Memories File ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/B.%20Roleplay%20Files/Lore%26Memories%20File%20%C2%A6%20Pr_B.md
+```
+
+##### C. Roleplay Timeline
+
+###### Season 1 — Beyond the Journey
+
+####### Episode 0 — Birthday Boy
+
+**Detailed Scenes ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%200%20%E2%80%94%20Birthday%20Boy/Detailed%20Scenes%20%C2%A6%20Pr_C.md
+```
+
+**Overall ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%200%20%E2%80%94%20Birthday%20Boy/Overall%20%C2%A6%20Pr_C.md
+```
+
+####### Episode 1 — Gaslight God
+
+**Detailed Scenes ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%201%20%E2%80%94%20Gaslight%20God/Detailed%20Scenes%20%C2%A6%20Pr_C.md
+```
+
+**Overall ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%201%20%E2%80%94%20Gaslight%20God/Overall%20%C2%A6%20Pr_C.md
+```
+
+######## UPTADES
+
+**BEYOND THE MATTER — OFFICIAL CHOSEN ONE & GUIDE REGISTRY ¦ Pr_B.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%201%20%E2%80%94%20Gaslight%20God/UPTADES/BEYOND%20THE%20MATTER%20%E2%80%94%20OFFICIAL%20CHOSEN%20ONE%20%26%20GUIDE%20REGISTRY%20%C2%A6%20Pr_B.md
+```
+
+####### Episode 2 — Cryo Deception
+
+**Detailed Scenes ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%202%20%E2%80%94%20Cryo%20Deception/Detailed%20Scenes%20%C2%A6%20Pr_C.md
+```
+
+**Overall ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%202%20%E2%80%94%20Cryo%20Deception/Overall%20%C2%A6%20Pr_C.md
+```
+
+###### Season 2 — Too Famous For His Own Good
 
 ## Roleplay System
 
