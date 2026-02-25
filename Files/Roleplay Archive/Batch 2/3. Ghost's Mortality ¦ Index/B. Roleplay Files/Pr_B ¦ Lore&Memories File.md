@@ -156,3 +156,145 @@ Misa accidentally petrified Ilyas when scared; he broke out with cursed physique
 ---
 
 **End of Lore & Memories Archive for Act 1 Chapter 1**
+
+# Act 1 Chapter 2 — The Head's New Body — Lore & Memories
+
+## Lore
+
+### Modular Body Design (Rokudo Naruka)
+#### Meta-Data
+- Type: System Rule / Personal Creation
+- Scope: Character-specific (Rokudo only)
+- Status: Active
+- Time Period: Created during this chapter (Day 4, ≈01:30)
+- Canon Level: Absolute (confirmed by direct demonstration)
+
+#### Knowledge & Awareness
+- Known By: Ilyas Roshîn (creator), Rokudo Naruka (owner), Misa The Petrifier (witnessed)
+- Unknown To: General public, Dominion Guild, former slavers
+- Discoverable By: Direct observation of detachment, Ilyas’s explanation, or Rokudo demonstrating
+
+#### Affected Parties
+- Directly Affected: Rokudo Naruka (modular head, potential hips/pussy detachment, automatic transport of swallowed contents)
+- Indirectly Affected: Future harem members (possible extension of design), Ilyas (responsibility for maintenance)
+
+#### Main Narrative / Explanation
+Ilyas used **Body & Soul Information Change** to reconstruct Rokudo from severed head to full original non-human body. Because her soul lacked natural connectors, he designed a modular system: head can detach cleanly with no pain, full sensory feedback, and continued control of the body. Swallowed material auto-transports to the main body for digestion and fullness sensation. The design was intended for convenience (eating/talking as head) but inherently allows extreme uses (detachable hips/pussy as living sex toy while the rest watches/feels). Ilyas describes it as “better Frankenstein” – practical, not intentionally perverted, but the result is highly versatile.
+
+#### Rules & Constraints
+- Allows: Clean detachment, no pain, full motor/sensory control of body even when head is separate, automatic transport of ingested matter
+- Forbids: Accidental detachment (requires conscious will), permanent separation without reattachment
+- Consequences of exploiting: Overwhelming sensory input, emotional vulnerability, potential for both empowerment and objectification
+
+#### Current Impact (Today’s Effect)
+- Politics: None yet
+- Combat: Potential tactical advantage (head can scout while body acts)
+- Powers: Enables unique intimate scenarios
+- NPC behavior: Misa finds it fascinating and teases; Rokudo is shy but accepting
+- World state: First successful application of Ilyas’s modular design philosophy
+
+---
+
+### Dominion Slave Bindings
+#### Meta-Data
+- Type: System Rule / Forbidden Knowledge
+- Scope: Global (Dominion Guild)
+- Status: Active but vulnerable
+- Time Period: Established for centuries
+- Canon Level: Public knowledge (but full weaknesses hidden)
+
+#### Knowledge & Awareness
+- Known By: Slavers, nobles, general public
+- Unknown To: Most slaves, outsiders like Ilyas (until tested)
+- Discoverable By: Direct confrontation with powerful spirit
+
+#### Affected Parties
+- Directly Affected: All collared slaves
+- Indirectly Affected: Slave economy, auction system
+
+#### Main Narrative / Explanation
+Dominion Guild uses mathematical/spiritual equations in collars to bind captives. Ilyas’s halo manifestation instantly collapses all bindings in the plaza, proving the system has a critical weakness against high-level spirits.
+
+#### Rules & Constraints
+- Allows: Mass enslavement
+- Forbids: Easy escape without external intervention
+- Consequences of breaking: Chaos, freed slaves, guild backlash
+
+#### Current Impact (Today’s Effect)
+- Politics: Auction disrupted, potential guild retaliation
+- Combat: Bindings shown ineffective against Ilyas
+- Powers: Highlights spirit superiority
+- NPC behavior: Slavers terrified of “pink-violet halo” spirits
+- World state: First major crack in slavery system
+
+## Memories
+
+### The Head-Only Years (Rokudo Naruka)
+#### Meta-Data
+- Memory Type: Traumatising / Personal
+- Emotional Weight: Extreme
+- Reliability: Accurate but fragmented
+- Time Reference: Years of captivity
+
+#### Participants
+- Experienced By: Rokudo Naruka
+- Witnessed By: Countless slavers, passers-by
+- Remembered By: Rokudo Naruka
+- Forgotten By: None (immortal memory)
+
+#### Perspective & Bias
+- Primary Perspective: Rokudo
+- Emotional Bias: Numb endurance mixed with quiet rage and hope
+
+#### Main Narrative / Recollection
+Rokudo remembers being reduced to a head after failed execution. Slavers used her as “free head” — lifted by hair, used orally, sometimes magicked asleep. Thrown away in rain, gutters, dumpsters. She judged penis sizes and fantasized about her original body as coping mechanisms. Remembers the exact feeling of being forgotten in puddles.
+
+#### Consequences
+- Personality: Emotionless exterior, wise/childish interior, deep craving for genuine touch
+- Relationship changes: Profound trust in anyone who treats her as a person
+- Motivations: To never be reduced to a thing again
+
+#### Current Impact (Today’s Effect)
+- Decisions: Quick acceptance of Ilyas’s care
+- Dialogue: Raspy, hesitant at first, then emotional
+- Combat reactions: None yet
+- Trust / hostility: Instant trust in Ilyas, wariness of strangers
+- Trigger conditions: Being lifted by hair causes flinch
+
+---
+
+### The Long Wait (Misa The Petrifier)
+#### Meta-Data
+- Memory Type: Traumatising / Personal
+- Emotional Weight: Extreme
+- Reliability: Accurate but idealized
+- Time Reference: Years since Ilyas “died”
+
+#### Participants
+- Experienced By: Misa The Petrifier
+- Witnessed By: None
+- Remembered By: Misa The Petrifier
+- Forgotten By: None
+
+#### Perspective & Bias
+- Primary Perspective: Misa
+- Emotional Bias: Grief turning to desperate hope
+
+#### Main Narrative / Recollection
+Misa remembers mourning Ilyas, keeping his cloak, sunglasses, pizza boxes, eating excessively, turning people to stone out of rage. She never left the mansion, waiting every night.
+
+#### Consequences
+- Personality: Sarcastic exterior hiding deep yandere loyalty
+- Relationship changes: Immediate surrender to Ilyas upon return
+- Motivations: To never lose him again, to build harem/family
+
+#### Current Impact (Today’s Effect)
+- Decisions: Happy to share Ilyas with Rokudo
+- Dialogue: Teasing but affectionate
+- Trust / hostility: Instant acceptance of Rokudo as “sister”
+
+---
+
+**End of Lore & Memories Archive for Act 1 Chapter 2**
+
+The archive is now complete and ready for future reference or next chapter.

@@ -557,3 +557,266 @@ Ilyas selects thick blank book, internally plans prop use. Elara sees full cryom
 - Trigger conditions: Future interaction with book may reveal truth
 
 
+
+# Season 1 Episode 3 — Parallel Threads and Unhinged Realms — Lore & Memories
+
+## Lore
+
+### Friendship Bracelet
+#### Meta-Data
+- Type: Personal Ability / Chosen One Power
+- Scope: Character-specific (Aeba)
+- Status: Active & Growing
+- Time Period: Ongoing (activated this episode)
+- Canon Level: Absolute
+
+#### Knowledge & Awareness
+- Known By: Aeba, Mirael
+- Unknown To: Ilyas, broader B.T.M audience (except subtle bracelet glows visible on stream)
+- Discoverable By: Direct interaction with Aeba during positive emotional exchanges
+
+#### Affected Parties
+- Directly Affected: Aeba (power & hope scaling), creatures she befriends
+- Indirectly Affected: Future party success & emotional stability in her episodes
+
+#### Main Narrative / Explanation
+Aeba’s innate Chosen One ability that manifests as a light-blue thread bracelet. Each genuine act of friendship or helping another being adds a new glowing strand. The more strands, the greater her sense of hope and subtle power. In this episode it grew from zero to eight strands while helping sun- and moon-puffs prepare the annual coexistence party.
+
+#### Rules & Constraints
+- Requires sincere, mutual positive interaction
+- Cannot be forced or manufactured
+- Strands remain even after episode ends
+
+#### Current Impact (Today’s Effect)
+- Provides visible emotional anchor for Aeba
+- Strengthens her confidence in low-conflict creative settings
+- Subtly influences viewer sentiment toward wholesome content
+
+---
+
+### The Chariot & Reversed Chariot
+#### Meta-Data
+- Type: Myth / Personal Vision / Warning
+- Scope: Character-specific (Ilyas) with possible larger implications
+- Status: Dormant (message received but not yet acted upon)
+- Time Period: Recent (occurred as a dream-like vision before or during early Episode 3)
+- Canon Level: Absolute to Ilyas, mysterious to others
+
+#### Knowledge & Awareness
+- Known By: Ilyas only
+- Unknown To: Everyone else, including Lyra and Aeba
+- Discoverable By: Unknown; Ilyas has not shared it
+
+#### Affected Parties
+- Directly Affected: Ilyas (receives the warning)
+- Indirectly Affected: Future events tied to Ilyas’s path
+
+#### Main Narrative / Explanation
+Ilyas experienced a dream-like message in which a figure identified as “The Original Chariot” spoke to him. Ilyas identifies himself as the “Reversed Chariot.” The content carried the weight of a warning, though its exact meaning remains unclear even to him. He has not discussed the vision with anyone and continues to ponder it quietly.
+
+#### Rules & Constraints
+- Appears only to Ilyas
+- Content is cryptic and not yet actionable
+
+#### Current Impact (Today’s Effect)
+- Causes occasional quiet reflection from Ilyas
+- Remains a private burden he carries into each new jump
+
+---
+
+### Solar-Lunar Harmony Realm Rules
+#### Meta-Data
+- Type: World Rule / Dimensional Law
+- Scope: Realm-specific
+- Status: Active
+- Time Period: Cyclical (annual eclipse)
+- Canon Level: Absolute within the realm
+
+#### Knowledge & Awareness
+- Known By: Sun & Moon Puffs, Mirael (via system knowledge)
+- Unknown To: Aeba (learning through experience)
+- Discoverable By: Participating in the yearly coexistence party
+
+#### Affected Parties
+- Directly Affected: All inhabitants of the realm
+- Indirectly Affected: Visitors like Aeba who gain emotional growth
+
+#### Main Narrative / Explanation
+In this gentle dimension, small sun- and moon-creatures coexist peacefully. Once per year, during the eclipse convergence, both sides emerge fully and must collaborate on a grand party to maintain harmony. Failure to celebrate together would disrupt the balance.
+
+#### Rules & Constraints
+- Party must be prepared jointly
+- Positive interactions strengthen realm stability
+
+#### Current Impact (Today’s Effect)
+- Enabled Aeba’s successful wholesome episode
+- Strengthened her Friendship Bracelet through collaborative acts
+
+---
+
+### Unhinged Zombie High-School Verse Nature
+#### Meta-Data
+- Type: Dimensional Property
+- Scope: Verse-specific
+- Status: Active
+- Time Period: Ongoing
+- Canon Level: Absolute within the verse
+
+#### Knowledge & Awareness
+- Known By: All inhabitants appear as dramatic high-schoolers
+- Unknown To: Ilyas (discovered on arrival)
+- Discoverable By: Surviving the absurd chaos
+
+#### Affected Parties
+- Directly Affected: Ilyas (randomized jump landed him here)
+- Indirectly Affected: Stream viewers who witnessed the crossover
+
+#### Main Narrative / Explanation
+A highly unserious zombie apocalypse where every survivor is a high-schooler. Violence is cartoonish and comedic, with zombies slain while yelling about homework or club budgets. The verse runs on absurdity and humor rather than horror.
+
+#### Rules & Constraints
+- All characters behave like exaggerated high-school tropes
+- Combat is slapstick and over-the-top
+
+#### Current Impact (Today’s Effect)
+- Produced viral “melon soda finisher” and “Ba rizz crossover” clips
+
+## Memories
+
+### The Library Stare
+#### Meta-Data
+- Memory Type: Shared / Emotional
+- Emotional Weight: High
+- Reliability: Accurate
+- Time Reference: Recent (before Episode 3)
+
+#### Participants
+- Experienced By: Aeba
+- Witnessed By: None directly
+- Remembered By: Aeba
+- Forgotten By: Ilyas (never registered her presence)
+
+#### Perspective & Bias
+- Primary Perspective: Aeba
+- Emotional Bias: Shy longing
+
+#### Main Narrative / Recollection
+Aeba saw Ilyas reading in the Constant Library alcove. She was too shy to approach and simply watched from seven shelves away for eleven minutes while drawing. She remembers his violet hair catching the light and the quiet way he turned pages.
+
+#### Consequences
+- Sparked her crush
+- Led to her collapse when he later referenced the “Library Girl” on stream
+
+#### Current Impact (Today’s Effect)
+- Fuels her secret purple sun-puff sketch
+- Makes her blush whenever the library is mentioned in comments
+
+---
+
+### The Chariot Message
+#### Meta-Data
+- Memory Type: Personal / Mysterious
+- Emotional Weight: High
+- Reliability: Accurate to Ilyas
+- Time Reference: Recent dream-vision (pre-Episode 3)
+
+#### Participants
+- Experienced By: Ilyas
+- Witnessed By: None
+- Remembered By: Ilyas
+- Forgotten By: N/A
+
+#### Perspective & Bias
+- Primary Perspective: Ilyas
+- Emotional Bias: Quiet unease
+
+#### Main Narrative / Recollection
+Ilyas recalls a dream-like encounter with a figure who identified as “The Original Chariot.” The being delivered a warning. Ilyas identifies himself as the “Reversed Chariot.” The exact words remain private and cryptic even to him.
+
+#### Consequences
+- Causes occasional quiet reflection
+- Keeps him slightly more guarded during jumps
+
+#### Current Impact (Today’s Effect)
+- Surfaces in moments of boredom or transition
+
+---
+
+### The “Ba” Nickname Drop
+#### Meta-Data
+- Memory Type: Public / Traumatising (for Aeba)
+- Emotional Weight: Extreme
+- Reliability: Accurate (stream-recorded)
+- Time Reference: Mid-Episode 3 stream
+
+#### Participants
+- Experienced By: Aeba (hearing live), Ilyas (speaker)
+- Witnessed By: Entire B.T.M audience
+- Remembered By: Aeba, viewers, Mirael
+- Forgotten By: None
+
+#### Perspective & Bias
+- Primary Perspective: Aeba (emotional)
+- Emotional Bias: Mortified joy
+
+#### Main Narrative / Recollection
+While on stream, Ilyas struggled with Aeba’s name, then casually simplified it to “Ba,” saying they should just call her that. Aeba heard it live in her lair and entered a full meltdown before shyly accepting it.
+
+#### Consequences
+- “Ba” became permanent community nickname
+- Sparked endless shipping edits
+
+#### Current Impact (Today’s Effect)
+- Aeba still blushes whenever she sees the word in comments
+
+---
+
+### The Purple Sun-Puff Sketch
+#### Meta-Data
+- Memory Type: Personal / Secret
+- Emotional Weight: High
+- Reliability: Accurate
+- Time Reference: During party prep
+
+#### Participants
+- Experienced By: Aeba only
+- Witnessed By: None (hidden in mural)
+- Remembered By: Aeba
+- Forgotten By: N/A
+
+#### Perspective & Bias
+- Primary Perspective: Aeba
+- Emotional Bias: Shy affection
+
+#### Main Narrative / Recollection
+While painting the party mural, Aeba secretly added a small purple sun-puff version of Ilyas with his orbiting Key in the corner. She did it as “practice” and hopes no one notices.
+
+#### Consequences
+- Viewers did notice and are now speculating wildly
+
+#### Current Impact (Today’s Effect)
+- Causes Aeba ongoing flustered smiles while reading comments
+
+### Inventory Index
+**Abilities/Powers Revealed or Used:**
+*   `Friendship Bracelet`: Grew to 8 strands through helping sun- and moon-puffs during party prep. (First Used: Solar-Lunar realm.)
+
+**Objects/Items Gained or Created:**
+*   `Melon Soda`: Secured from holy vending machine after boss fight. (Source: Eternal Stock Machine.)
+
+**Objects/Items Lost, Destroyed, or Consumed:**
+*   `Stop Sign`: Used as improvised weapon; left embedded in Janitor-zombie corpse. (Fate: Sacrificed in finisher.)
+
+***Detailed Abilities/Items***
+	**Friendship Bracelet**
+		*Full Name (If there is any)*
+			Friendship Bracelet
+		*Creator/Inventor of it.*
+			Inherent to Aeba as Chosen One ability
+		*Use Of the Current Chapter*
+			Manifested and grew from 0 to 8 strands while helping creatures prepare the eclipse party
+		*Detailed Explanation.*
+			A light-blue thread bracelet that forms and strengthens with each sincere friendship act. Each new friend adds a glowing strand. Provides increasing emotional hope and subtle power. Visible glow intensifies with more strands. Cannot be forced; requires genuine positive interaction.
+
+**The Roleplay Session Finished, Now Archiving The Chapter**
+**The Previous Archiving Has Finished, Proceed with....**

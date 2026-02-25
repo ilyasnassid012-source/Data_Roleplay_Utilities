@@ -220,7 +220,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ### Batch 2
 
-#### 1. Fallen Angel
+#### 1. Fallen Angel ¦ Index
 
 ##### A. Preload Files
 
@@ -229,7 +229,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Main World ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/A.%20Preload%20Files/Worldbuilding/Main%20World%20%C2%A6%20Pr_A.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/A.%20Preload%20Files/Worldbuilding/Main%20World%20%C2%A6%20Pr_A.md
 ```
 
 ##### B. Characters
@@ -239,25 +239,25 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **0. Ilyas ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/0.%20Ilyas%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/B.%20Characters/Harem%20Members/0.%20Ilyas%20%C2%A6%20Pr_B.md
 ```
 
 **1. Yuno ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/1.%20Yuno%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/B.%20Characters/Harem%20Members/1.%20Yuno%20%C2%A6%20Pr_B.md
 ```
 
 **2. Kokō ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/2.%20Kok%C5%8D%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/B.%20Characters/Harem%20Members/2.%20Kok%C5%8D%20%C2%A6%20Pr_B.md
 ```
 
 **3. Chōya ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/3.%20Ch%C5%8Dya%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/B.%20Characters/Harem%20Members/3.%20Ch%C5%8Dya%20%C2%A6%20Pr_B.md
 ```
 
 ####### A. Character Template
@@ -265,7 +265,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Yuno’s Super Secret (But Not Secret Anymore) Harem File ¦ Pr_E.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/B.%20Characters/Harem%20Members/A.%20Character%20Template/Yuno%E2%80%99s%20Super%20Secret%20%28But%20Not%20Secret%20Anymore%29%20Harem%20File%20%C2%A6%20Pr_E.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/B.%20Characters/Harem%20Members/A.%20Character%20Template/Yuno%E2%80%99s%20Super%20Secret%20%28But%20Not%20Secret%20Anymore%29%20Harem%20File%20%C2%A6%20Pr_E.md
 ```
 
 ##### C. TIMELINE
@@ -273,57 +273,57 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Extra File Updates ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Extra%20File%20Updates%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Extra%20File%20Updates%20%C2%A6%20Pr_B.md
 ```
 
 **Lore&Memories File ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Lore%26Memories%20File%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Lore%26Memories%20File%20%C2%A6%20Pr_B.md
 ```
 
 ###### Act 1
 
-####### Chapter 1
+####### Chapter 1 ¦ Fallen Angel
 
 **1. Overall ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%201/1.%20Overall%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20Fallen%20Angel/1.%20Overall%20%C2%A6%20Pr%20C.md
 ```
 
 **3. Detailed Scenes ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%201/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20Fallen%20Angel/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
 ```
 
-####### Chapter 2
+####### Chapter 2 ¦ The Carnival of Chains & The Tiger’s Hope
 
 **1. Overall ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%202/1.%20Overall%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%202%20%C2%A6%20The%20Carnival%20of%20Chains%20%26%20The%20Tiger%E2%80%99s%20Hope/1.%20Overall%20%C2%A6%20Pr%20C.md
 ```
 
 **3. Detailed Scenes ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%202/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%202%20%C2%A6%20The%20Carnival%20of%20Chains%20%26%20The%20Tiger%E2%80%99s%20Hope/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
 ```
 
-####### Chapter 3
+####### Chapter 3 ¦ The Pouch-Bound Savior
 
 **1. Overall ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%203/1.%20Overall%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%203%20%C2%A6%20The%20Pouch-Bound%20Savior/1.%20Overall%20%C2%A6%20Pr%20C.md
 ```
 
 **3. Detailed Scenes ¦ Pr C.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel/C.%20TIMELINE/Act%201/Chapter%203/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%203%20%C2%A6%20The%20Pouch-Bound%20Savior/3.%20Detailed%20Scenes%20%C2%A6%20Pr%20C.md
 ```
 
 #### 2. Tenketsu Academy
@@ -412,6 +412,12 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/B.%20Roleplay%20Files/C.%20Characters/Pr_B%20%C2%A6%20Misa%20The%20Petrifier.md
 ```
 
+**Pr_B ¦ Rokudo The Head.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/B.%20Roleplay%20Files/C.%20Characters/Pr_B%20%C2%A6%20Rokudo%20The%20Head.md
+```
+
 ####### Template
 
 **Pr_E ¦ Harem Member Sheet Template.md**
@@ -436,6 +442,20 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ```Url_Raw_Link
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%201%20%C2%A6%20The%20Gilded%20Cage%20Reunion/Pr_C%20%C2%A6%20Act%201%20Chapter%201%20%C2%A6%20Overall.md
+```
+
+####### Chapter 2 ¦ The Head's New Body
+
+**Pr_C ¦ Act 1 Chapter 2 ¦ Detailed Scenes.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%202%20%C2%A6%20The%20Head%27s%20New%20Body/Pr_C%20%C2%A6%20Act%201%20Chapter%202%20%C2%A6%20Detailed%20Scenes.md
+```
+
+**Pr_C ¦ Act 1 Chapter 2 ¦ Overall.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/3.%20Ghost%27s%20Mortality%20%C2%A6%20Index/C.%20TIMELINE/Act%201/Chapter%202%20%C2%A6%20The%20Head%27s%20New%20Body/Pr_C%20%C2%A6%20Act%201%20Chapter%202%20%C2%A6%20Overall.md
 ```
 
 #### 4. B.T.M ¦ Index
@@ -470,10 +490,10 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### B. Roleplay Files
 
-**Lore&Memories File ¦ Pr_B.md**
+**Lore and Memories File ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/B.%20Roleplay%20Files/Lore%26Memories%20File%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/B.%20Roleplay%20Files/Lore%20and%20Memories%20File%20%C2%A6%20Pr_B.md
 ```
 
 ##### C. Roleplay Timeline
@@ -528,6 +548,20 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ```Url_Raw_Link
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%202%20%E2%80%94%20Cryo%20Deception/Overall%20%C2%A6%20Pr_C.md
+```
+
+####### Episode 3
+
+**Detailed Scenes ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%203/Detailed%20Scenes%20%C2%A6%20Pr_C.md
+```
+
+**Overall ¦ Pr_C.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%203/Overall%20%C2%A6%20Pr_C.md
 ```
 
 ###### Season 2 — Too Famous For His Own Good
