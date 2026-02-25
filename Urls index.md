@@ -490,10 +490,10 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### B. Roleplay Files
 
-**Lore and Memories File ¦ Pr_B.md**
+**Lore and Memories File ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/B.%20Roleplay%20Files/Lore%20and%20Memories%20File%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/B.%20Roleplay%20Files/Lore%20and%20Memories%20File%20%C2%A6%20Pr_A.md
 ```
 
 ##### C. Roleplay Timeline
@@ -508,10 +508,10 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%200%20%E2%80%94%20Birthday%20Boy/Detailed%20Scenes%20%C2%A6%20Pr_C.md
 ```
 
-**Overall ¦ Pr_C.md**
+**Overall ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%200%20%E2%80%94%20Birthday%20Boy/Overall%20%C2%A6%20Pr_C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%200%20%E2%80%94%20Birthday%20Boy/Overall%20%C2%A6%20Pr_A.md
 ```
 
 ####### Episode 1 — Gaslight God
@@ -522,10 +522,10 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%201%20%E2%80%94%20Gaslight%20God/Detailed%20Scenes%20%C2%A6%20Pr_C.md
 ```
 
-**Overall ¦ Pr_C.md**
+**Overall ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%201%20%E2%80%94%20Gaslight%20God/Overall%20%C2%A6%20Pr_C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%201%20%E2%80%94%20Gaslight%20God/Overall%20%C2%A6%20Pr_A.md
 ```
 
 ######## UPTADES
@@ -544,10 +544,10 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%202%20%E2%80%94%20Cryo%20Deception/Detailed%20Scenes%20%C2%A6%20Pr_C.md
 ```
 
-**Overall ¦ Pr_C.md**
+**Overall ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%202%20%E2%80%94%20Cryo%20Deception/Overall%20%C2%A6%20Pr_C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%202%20%E2%80%94%20Cryo%20Deception/Overall%20%C2%A6%20Pr_A.md
 ```
 
 ####### Episode 3 — Parallel Threads and Unhinged Realms
@@ -558,10 +558,10 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%203%20%E2%80%94%20Parallel%20Threads%20and%20Unhinged%20Realms/Detailed%20Scenes%20%C2%A6%20Pr_C.md
 ```
 
-**Overall ¦ Pr_C.md**
+**Overall ¦ Pr_A.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%203%20%E2%80%94%20Parallel%20Threads%20and%20Unhinged%20Realms/Overall%20%C2%A6%20Pr_C.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/4.%20B.T.M%20%C2%A6%20Index/C.%20Roleplay%20Timeline/Season%201%20%E2%80%94%20Beyond%20the%20Journey/Episode%203%20%E2%80%94%20Parallel%20Threads%20and%20Unhinged%20Realms/Overall%20%C2%A6%20Pr_A.md
 ```
 
 ###### Season 2 — Too Famous For His Own Good
