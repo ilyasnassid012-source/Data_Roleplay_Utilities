@@ -276,10 +276,10 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Extra%20File%20Updates%20%C2%A6%20Pr_B.md
 ```
 
-**Lore&Memories File ¦ Pr_B.md**
+**Lore_Memories File ¦ Pr_B.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Lore%26Memories%20File%20%C2%A6%20Pr_B.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Batch%202/1.%20Fallen%20Angel%20%C2%A6%20Index/C.%20TIMELINE/Lore_Memories%20File%20%C2%A6%20Pr_B.md
 ```
 
 ###### Act 1
