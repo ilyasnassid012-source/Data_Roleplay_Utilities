@@ -566,6 +566,92 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ###### Season 2 — Too Famous For His Own Good
 
+### Re-Batch 1
+
+#### 1. Ghost's Mortality ¦ Index
+
+##### Pr_A Files ¦ Must Load Every Response
+
+###### A- Worldbuilding
+
+**The Parallel Merge.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/A-%20Worldbuilding/The%20Parallel%20Merge.md
+```
+
+###### B- Miscellaneous Files
+
+**Extra File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/B-%20Miscellaneous%20Files/Extra%20File.md
+```
+
+**Lore and Memories.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/B-%20Miscellaneous%20Files/Lore%20and%20Memories.md
+```
+
+###### C- Timeline
+
+####### Act 1 ¦ Overall Files
+
+**Chapter 1 — The Gilded Cage Reunion — Overall.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/C-%20Timeline/Act%201%20%C2%A6%20Overall%20Files/Chapter%201%20%E2%80%94%20The%20Gilded%20Cage%20Reunion%20%E2%80%94%20Overall.md
+```
+
+**Chapter 2 — The Head's New Body — Overall.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/C-%20Timeline/Act%201%20%C2%A6%20Overall%20Files/Chapter%202%20%E2%80%94%20The%20Head%27s%20New%20Body%20%E2%80%94%20Overall.md
+```
+
+##### Pr_B Files ¦ Must Load Every Response When Content Relevant
+
+###### Harem Members
+
+**Misa The Petrifier — Misa’s Personal Harem Archive.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Harem%20Members/Misa%20The%20Petrifier%20%E2%80%94%20Misa%E2%80%99s%20Personal%20Harem%20Archive.md
+```
+
+**Rokudo The Ex-Severed Head — Misa’s Personal Harem Archive.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Harem%20Members/Rokudo%20The%20Ex-Severed%20Head%20%E2%80%94%20Misa%E2%80%99s%20Personal%20Harem%20Archive.md
+```
+
+##### Pr_C Files ¦ Keep Updating, Oldest Queue
+
+###### Act 1 ¦ Detailed Scenes Files
+
+**Chapter 1 — The Gilded Cage Reunion — Detailed Scenes.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_C%20Files%20%C2%A6%20Keep%20Updating%2C%20Oldest%20Queue/Act%201%20%C2%A6%20Detailed%20Scenes%20Files/Chapter%201%20%E2%80%94%20The%20Gilded%20Cage%20Reunion%20%E2%80%94%20Detailed%20Scenes.md
+```
+
+**Chapter 2 — The Head's New Body — Detailed Scenes.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_C%20Files%20%C2%A6%20Keep%20Updating%2C%20Oldest%20Queue/Act%201%20%C2%A6%20Detailed%20Scenes%20Files/Chapter%202%20%E2%80%94%20The%20Head%27s%20New%20Body%20%E2%80%94%20Detailed%20Scenes.md
+```
+
+##### Pr_D Files ¦ Images
+
+##### Pr_E Files ¦ Non Usable By Ai, Only For User
+
+**Misa’s Personal Harem Archive.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_E%20Files%20%C2%A6%20Non%20Usable%20By%20Ai%2C%20Only%20For%20User/Misa%E2%80%99s%20Personal%20Harem%20Archive.md
+```
+
 ## Roleplay System
 
 ### Roleplay Plug-ins
