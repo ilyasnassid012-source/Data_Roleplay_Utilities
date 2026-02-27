@@ -652,6 +652,60 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/1.%20Ghost%27s%20Mortality%20%C2%A6%20Index/Pr_E%20Files%20%C2%A6%20Non%20Usable%20By%20Ai%2C%20Only%20For%20User/Misa%E2%80%99s%20Personal%20Harem%20Archive.md
 ```
 
+#### 2. Fallen Demi-Angel ¦ Index
+
+##### Pr_A Files ¦ Must Load Every Response
+
+###### A- Worldbuilding
+
+###### B- Miscellaneous Files
+
+###### C- Timeline
+
+####### Act 1 ¦ Overall Files
+
+##### Pr_B Files ¦ Must Load Every Response When Content Relevant
+
+##### Pr_C Files ¦ Keep Updating, Oldest Queue
+
+##### Pr_D Files ¦ Images
+
+##### Pr_E Files ¦ Non Usable By Ai, Only For User
+
+#### 3. THE FRACTURED VEIL
+
+##### Pr_A Files ¦ Must Load Every Response
+
+###### A- Worldbuilding
+
+**The Fractured Veil.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/A-%20Worldbuilding/The%20Fractured%20Veil.md
+```
+
+###### B- Miscellaneous Files
+
+###### C- Timeline
+
+####### Act 1 ¦ Overall Files
+
+##### Pr_B Files ¦ Must Load Every Response When Content Relevant
+
+###### Characters
+
+**Ilyas.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Characters/Ilyas.md
+```
+
+##### Pr_C Files ¦ Keep Updating, Oldest Queue
+
+##### Pr_D Files ¦ Images
+
+##### Pr_E Files ¦ Non Usable By Ai, Only For User
+
 ## Roleplay System
 
 ### Roleplay Plug-ins
