@@ -676,58 +676,66 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### Pr_A Files ¦ Must Load Every Response
 
-###### A- Worldbuilding
-
-**The Fractured Veil.md**
+**Act I Chapter 1 — Chains & Whispers ¦ Overall Timeline File.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/A-%20Worldbuilding/The%20Fractured%20Veil.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Act%20I%20Chapter%201%20%E2%80%94%20Chains%20%26%20Whispers%20%C2%A6%20Overall%20Timeline%20File.md
 ```
 
-###### B- Miscellaneous Files
-
-**Lore And Memories, Main File.md**
+**Act I Chapter 2 — The Hearth and The Tail ¦ Overall Timeline File.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/B-%20Miscellaneous%20Files/Lore%20And%20Memories%2C%20Main%20File.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Act%20I%20Chapter%202%20%E2%80%94%20The%20Hearth%20and%20The%20Tail%20%C2%A6%20Overall%20Timeline%20File.md
 ```
 
-###### C- Timeline
-
-####### Act 1 ¦ Overall Files
-
-**Chapter 1 — Chains and Whispers — Overall.md**
+**Extra Updates ¦ Extra File.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/C-%20Timeline/Act%201%20%C2%A6%20Overall%20Files/Chapter%201%20%E2%80%94%20Chains%20and%20Whispers%20%E2%80%94%20Overall.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Extra%20Updates%20%C2%A6%20Extra%20File.md
+```
+
+**Lore And Memories ¦ Extra File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Lore%20And%20Memories%20%C2%A6%20Extra%20File.md
+```
+
+**The Fractured Veil ¦ Worldbuilding.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/The%20Fractured%20Veil%20%C2%A6%20Worldbuilding.md
 ```
 
 ##### Pr_B Files ¦ Must Load Every Response When Content Relevant
 
-###### Characters
-
-**Ilyas.md**
+**Act I Chapter 1 — Chains & Whispers ¦ Detailed Scenes Timeline File.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Characters/Ilyas.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Act%20I%20Chapter%201%20%E2%80%94%20Chains%20%26%20Whispers%20%C2%A6%20Detailed%20Scenes%20Timeline%20File.md
 ```
 
-###### D - Detailed Scenes
-
-####### Act 1 ¦ Detailed Scenes
-
-**Chapter 1 — Chains and Whispers — Detailed Scenes.md**
+**Act I Chapter 2 — The Hearth and The Tail ¦ Detailed Scenes Timeline File.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/D%20-%20Detailed%20Scenes/Act%201%20%C2%A6%20Detailed%20Scenes/Chapter%201%20%E2%80%94%20Chains%20and%20Whispers%20%E2%80%94%20Detailed%20Scenes.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Act%20I%20Chapter%202%20%E2%80%94%20The%20Hearth%20and%20The%20Tail%20%C2%A6%20Detailed%20Scenes%20Timeline%20File.md
 ```
 
-###### Harem Members
-
-**Lira Ashenveil.md**
+**Ilyas ¦ Character ¦ Baseline.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Harem%20Members/Lira%20Ashenveil.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Ilyas%20%C2%A6%20Character%20%C2%A6%20Baseline.md
+```
+
+**Lira Ashenveil ¦ Character ¦ Baseline.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Lira%20Ashenveil%20%C2%A6%20Character%20%C2%A6%20Baseline.md
+```
+
+**Saori Langley ¦ Character ¦ Baseline.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Saori%20Langley%20%C2%A6%20Character%20%C2%A6%20Baseline.md
 ```
 
 ##### Pr_C Files ¦ Keep Updating, Oldest Queue
