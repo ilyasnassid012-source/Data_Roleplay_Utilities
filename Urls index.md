@@ -672,7 +672,7 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### Pr_E Files ¦ Non Usable By Ai, Only For User
 
-#### 3. THE FRACTURED VEIL
+#### 3. THE FRACTURED VEIL ¦ Index
 
 ##### Pr_A Files ¦ Must Load Every Response
 
@@ -681,14 +681,26 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **The Fractured Veil.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/A-%20Worldbuilding/The%20Fractured%20Veil.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/A-%20Worldbuilding/The%20Fractured%20Veil.md
 ```
 
 ###### B- Miscellaneous Files
 
+**Lore And Memories, Main File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/B-%20Miscellaneous%20Files/Lore%20And%20Memories%2C%20Main%20File.md
+```
+
 ###### C- Timeline
 
 ####### Act 1 ¦ Overall Files
+
+**Chapter 1 — Chains and Whispers — Overall.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/C-%20Timeline/Act%201%20%C2%A6%20Overall%20Files/Chapter%201%20%E2%80%94%20Chains%20and%20Whispers%20%E2%80%94%20Overall.md
+```
 
 ##### Pr_B Files ¦ Must Load Every Response When Content Relevant
 
@@ -697,14 +709,40 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 **Ilyas.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Characters/Ilyas.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Characters/Ilyas.md
+```
+
+###### D - Detailed Scenes
+
+####### Act 1 ¦ Detailed Scenes
+
+**Chapter 1 — Chains and Whispers — Detailed Scenes.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/D%20-%20Detailed%20Scenes/Act%201%20%C2%A6%20Detailed%20Scenes/Chapter%201%20%E2%80%94%20Chains%20and%20Whispers%20%E2%80%94%20Detailed%20Scenes.md
+```
+
+###### Harem Members
+
+**Lira Ashenveil.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Harem%20Members/Lira%20Ashenveil.md
 ```
 
 ##### Pr_C Files ¦ Keep Updating, Oldest Queue
 
-##### Pr_D Files ¦ Images
+##### Pr_I Files ¦ Images
 
-##### Pr_E Files ¦ Non Usable By Ai, Only For User
+##### Pr_X Files ¦ Non Usable By Ai, Only For User
+
+###### Harem Member Character Sheet
+
+**HAREM MEMBER DOSSIER — FULL TEMPLATE.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_X%20Files%20%C2%A6%20Non%20Usable%20By%20Ai%2C%20Only%20For%20User/Harem%20Member%20Character%20Sheet/HAREM%20MEMBER%20DOSSIER%20%E2%80%94%20FULL%20TEMPLATE.md
+```
 
 ## Roleplay System
 
@@ -780,18 +818,18 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ### Roleplay Rules ¦ System Files Index
 
-### Templates
+## Templates
 
 **Ai Chat Bot Template.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Templates/Ai%20Chat%20Bot%20Template.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Templates/Ai%20Chat%20Bot%20Template.md
 ```
 
 **Image Generator Prompt.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Templates/Image%20Generator%20Prompt.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Templates/Image%20Generator%20Prompt.md
 ```
 
 ## X. Ai Creations
