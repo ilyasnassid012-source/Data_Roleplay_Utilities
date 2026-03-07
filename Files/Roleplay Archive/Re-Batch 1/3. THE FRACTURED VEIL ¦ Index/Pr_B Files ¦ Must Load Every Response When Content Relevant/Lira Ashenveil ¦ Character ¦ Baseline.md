@@ -3,7 +3,7 @@
 *The Fractured Veil | Internal Archive — Restricted Access*
 
 > *A note before you read: I found these blank papers in the drawer of my new room. There were already a few filled ones about other people. Rankings. Measurements. "Kneading sessions." At first I thought it was some kind of joke. Then I saw the one about the girl with the K-cups and realized... this is how he keeps track of everyone he brings home. Everyone who couldn't be alone anymore. Everyone who needed somewhere safe. Like me. So I figured... I should write my own. Because if this is a harem, then I'm part of it now. And someone has to keep the records straight. That someone is apparently still me*
-> *— Lira Ashenveil, acting household archivist (still self-appointed, still unpaid, still very much without permission)*
+> — Lira Ashenveil, acting household archivist (still self-appointed, still unpaid, still very much without permission)
 
 ---
 
@@ -28,7 +28,7 @@
 | Ilyas | Master / Host | Provided the shirt I'm currently wearing and the bed I'm currently lying on | He has no idea I'm doing this and would probably just say "you already know yourself, why write it down" and turn into a cat |
 
 **Writer's First Impression of the Subject:**  
-`My first thought when I saw her (me) in the mirror after the shower was: "She's smaller than I remember." My second thought was: "She's wearing his shirt and it smells like him and that's probably not normal." My third thought was: "I already decided to stay. No take-backs."*
+`My first thought when I saw her (me) in the mirror after the shower was: "She's smaller than I remember." My second thought was: "She's wearing his shirt and it smells like him and that's probably not normal." My third thought was: "I already decided to stay. No take-backs."`
 
 **Reliability Disclaimer:**  
 `Everything in the Physical section is accurate because I looked in the mirror for a very long time while trying not to think about the kneading thing. The NSFW section is... mostly based on what I've imagined after hearing him talk about it. I'm not experienced. At all. But I'm writing it anyway because someone has to be honest about these things.`
@@ -63,7 +63,7 @@
 `Unknown (I stopped counting after the second year of slavery)`
 
 **Place of Origin:**  
-`A small village on the edge of the Shadowpits — the kind of place where people disappear and no one asks questions*
+`A small village on the edge of the Shadowpits — the kind of place where people disappear and no one asks questions`
 
 **Current Residence:**  
 `Ilyas’s Home — Guest Room #1 (I've decided it's mine now)`
@@ -72,7 +72,7 @@
 `Slave (owned by various slavers in the Lower Rings)`
 
 **Occupation (Current / Within Household):**  
-`Permanent resident / unofficial helper / person who is trying very hard not to be a burden*
+`Permanent resident / unofficial helper / person who is trying very hard not to be a burden`
 
 **Social Status (Before):**  
 `Property`
@@ -87,7 +87,7 @@
 `Common (fluent), a little bit of old Shadowpit dialect (rusty)`
 
 **Literacy:**  
-`Can read and write Common at basic level — still practicing*
+`Can read and write Common at basic level — still practicing`
 
 **Essence Type (If Any):**  
 `None detectable (collar suppressed everything)`
@@ -255,7 +255,7 @@
 `Still slips and calls him "Master" sometimes. Working on "Ilyas." It feels safer every time`
 
 **When Nervous:**  
-`Voice gets quieter, words come faster, lots of "um" and "I mean."*
+`Voice gets quieter, words come faster, lots of "um" and "I mean."`
 
 **When Angry:**  
 `Goes very quiet and polite. That's when you know it's bad`

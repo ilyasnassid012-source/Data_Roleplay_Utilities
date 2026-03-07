@@ -84,7 +84,7 @@
 `[ If known. If not: "Refuses to confirm / Unknown" ]`
 
 **Place of Origin:**
-`[ Region, city, kingdom — wherever she's from. Include what that place is like briefly if relevant.]*`
+`[ Region, city, kingdom — wherever she's from. Include what that place is like briefly if relevant.]``
 
 **Current Residence:**
 `[ Ilyas's household — specify room number, wing, or area if applicable ]`

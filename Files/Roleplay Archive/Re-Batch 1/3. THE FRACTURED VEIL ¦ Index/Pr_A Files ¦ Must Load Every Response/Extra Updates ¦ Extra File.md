@@ -131,7 +131,7 @@
 - **Theoretical Ideas**: Testing how group sleeping affects household dynamics. Considering whether to expand nullification range for future rescues. Already implementing “safe haven + shared bed” policy by casually agreeing to group sleeping and noting chores need scaling.
 
 ## 1. Harem Members Index Updates (Per Member)
-**Current Date Reference:** Day 2 (morning after the Gilded Collar incident — Lira’s first full day free)
+**Current Date Reference:** Day 19 (morning after the Gilded Collar incident — Lira’s first full day free)
 
 **Member #1 — Lira Ashenveil**  
 - **Date of Joining:** Day 1 (followed home same night)  
@@ -153,7 +153,7 @@
 
 ## 2. Harem Members Updates (Per Member)
 
-**Lira Ashenveil — Day 2 Updates**
+**Lira Ashenveil — Day 19 Updates**
 
 **Horniness**  
 ▰▰▰▰▰▰▰▰▰▱ 85% — Extreme spikes from grooming, cleavage play, size talk, and breeding descriptions; constant low hum from Ilyas’s scent on shirt.
@@ -182,7 +182,7 @@
 **Body Changes**  
 - None physical — emotional shift from constant fear to tentative safety and budding desire. Collar scar on wrist less triggering.
 
-**Saori Langley — Day 2 Updates**
+**Saori Langley — Day 19 Updates**
 
 **Horniness**  
 ▰▰▰▰▰▰▰▰▰▰ 95% — Extreme from cleavage kneading/licking; sustained by teasing Lira and planning tonight.
@@ -295,3 +295,239 @@
 
 **End of Extra Archive for Act I Chapter 2**  
 All updates from baseline (Chapter 1 Extra) applied. Chapter 2 ends with lunch served, torn fabric discovery, and emotional commitment to tonight’s group intimacy locked in. Ready for Act I Chapter 3.
+
+# Act I Chapter 3 — Extra — Domestic Tethers
+
+## 0. Ilyas’s Achievements
+### Abilities Breakthrough & Confirming Theories
+- **Blood Manipulation (Combat & Intimate Application):** First combat use created piercing pins from own shoulder to control enemy limb and puppet attacks. Confirmed theory that blood can be shaped externally and used for precise remote control. Intimate breakthrough: internal enlargement of cock during penetration (triggered mid-thrust). Theory confirmed — blood can be directed internally for temporary anatomical enhancement without harming partner.
+- **Unfocused Nullification Zone:** Expanded use in open arena; suppressed Positive Essence across entire fighting ring and surrounding area. Confirmed theory that the zone can be projected without contact and affects multiple targets simultaneously. Guards lost all magical auras instantly.
+- **Cursed Physique:** Bare-handed bending of reinforced metal cage bars. Confirmed theory that curse grants superhuman physical strength independent of Essence.
+- **Slime Interaction Synergy:** Allowed repeated pelvic fractures (from Saori’s hips) to be instantly repaired via slime consumption. Confirmed theory that “Spent Master + Slime + Consent and Love = Master ready to go another round” works in real time. Energy restoration via direct slime feeding while asleep also confirmed.
+
+### Handling His Current State and Mind
+- **Physical State:** Completely spent — multiple pelvis fractures repaired by slime, body covered in scratches, bite marks, and layered slime residue. Mentally exhausted after hours of continuous activity across five partners (including merged form). Currently asleep on back in center of bed, breathing deep and slow.
+- **Mental State:** Calm satisfaction mixed with deep exhaustion. Mind drifting between protective instincts (ensuring all girls are safe and fed) and quiet acceptance of growing family. No regret over rescue or intimacy — views both as natural extensions of his role.
+- **Emotional State:** Content and quietly fulfilled. Finds deep satisfaction in giving all girls safety, pleasure, and a home. Mild amusement at Saori’s possessiveness and Lira’s fluster even in afterglow.
+
+### Plans and Theoretical Ideas (Implementation in Real Time)
+- **Immediate Plan:** Sleep deeply (already in progress). Morning aftercare for all girls (breakfast in bed planned). Scale household chores for five residents (new cleaning roster, wardrobe expansion).
+- **Theoretical Ideas:** Testing long-term effects of slime feeding on stamina and regeneration. Considering merged slime form for shared sensation during future intimacy. Already implementing “permanent safe haven” policy — no one leaves unless they choose to.
+
+## 1. Harem Members Index Updates (Per Member)
+**Current Date Reference:** Day 20 (morning after the marathon — first full day with all five members)
+
+**Member #1 — Lira Ashenveil**  
+- **Date of Joining:** Day 1  
+- **Full Name:** Lira Ashenveil  
+- **Species:** Fox-Kin (light-blue fur variant)  
+- **Age:** 22  
+- **Room Assigned:** Guest Room #1  
+- **Status:** Permanent resident  
+- **Current Role:** Household helper / emotional anchor
+
+**Member #2 — Saori Langley**  
+- **Date of Joining:** Pre-Chapter 1  
+- **Full Name:** Saori Langley  
+- **Species:** Dragon-Kin (crimson scale variant)  
+- **Age:** Mid-twenties (apparent)  
+- **Room Assigned:** Master Bedroom #0 (claimed)  
+- **Status:** Permanent  
+- **Current Role:** Big-sister / dominant teaser / household protector
+
+**Member #3 & #4 — Me-Mei and Ma-Mai (Slime Twins)**  
+- **Date of Joining:** Day 19 (rescued mid-afternoon, arrived home same evening)  
+- **Full Names:** Me-Mei (protective half), Ma-Mai (curious half)  
+- **Species:** Slime Twin Species (near-extinct)  
+- **Age:** Unknown (appear early twenties)  
+- **Room Assigned:** Bedroom #2 (river-view guest room)  
+- **Status:** Permanent (chose to stay immediately, called mansion “home” without correction)  
+- **Current Role:** Healers / energy restorers / future mothers (if desired) / newest family members
+
+## 2. Harem Members Updates (Per Member)
+
+**Ilyas — Day 20 Updates**
+
+**Horniness**  
+▰▰▰▰▰▰▰▰▰▰ 100% (sustained through marathon) → currently 0% (deep sleep)
+
+**Devotion**  
+▰▰▰▰▰▰▰▰▰▰ 100% — Complete commitment to keeping everyone safe and satisfied.
+
+**Possessiveness**  
+▰▰▰▰▰▰▰▰▰▱ 90% — Strong protective instinct over entire household.
+
+**Personality Changes**  
+- **Shown Personality:** Calm, teasing, protective.  
+- **Deep Personality Emerging:** Quiet acceptance of growing family; willingness to dominate when needed.  
+- **New Habits:** Cooking for five, carrying groceries during rescues, allowing follow without invitation.  
+- **New Quirks:** Falling asleep surrounded by girls after marathon.
+
+**NSFW Preferences Updates**  
+- **Confirmed:** Enjoys both dominant and gentle dynamics; blood manipulation for enhancement.  
+- **Cum Count:** Multiple loads across all partners (exact count not tracked — “all the sex they want”).
+
+**Lira Ashenveil — Day 20 Updates**
+
+**Horniness**  
+▰▰▰▰▰▰▰▰▰▱ 85% (post-climax afterglow)
+
+**Devotion**  
+▰▰▰▰▰▰▰▰▰▰ 98%
+
+**Possessiveness**  
+▰▰▰▰▱▱▱▱▱▱ 45% (growing)
+
+**Personality Changes**  
+- **Shown Personality:** Still shy, but more open.  
+- **Deep Personality Emerging:** Acceptance of slow preference without shame; happy tears from satisfaction.  
+- **New Habits:** Clinging tightly in sleep, nuzzling into chest.
+
+**NSFW Preferences Updates**  
+- **Confirmed:** Prefers slow and deep; loves being held and reassured.  
+- **Cum Count:** 1 deep load (tender round)
+
+**Saori Langley — Day 20 Updates**
+
+**Horniness**  
+▰▰▰▰▰▰▰▰▰▰ 95% (afterglow still high)
+
+**Devotion**  
+▰▰▰▰▰▰▰▰▰▰ 100%
+
+**Possessiveness**  
+▰▰▰▰▰▰▰▰▰▰ 100%
+
+**Personality Changes**  
+- **Shown Personality:** Bold, teasing, protective big-sister.  
+- **Deep Personality Emerging:** Full acceptance of being dominated when it feels good.  
+- **New Habits:** Holding Ilyas while sleeping, treating new girls as little sisters.
+
+**NSFW Preferences Updates**  
+- **Confirmed:** Loves rough domination, horn gripping, deep breeding.  
+- **Cum Count:** Multiple loads (first round)
+
+**Me-Mei — Day 20 Updates**
+
+**Horniness**  
+▰▰▰▰▰▰▰▰▰▱ 90%
+
+**Devotion**  
+▰▰▰▰▰▰▰▰▰▰ 95%
+
+**Possessiveness**  
+▰▰▰▰▰▱▱▱▱▱ 55%
+
+**Personality Changes**  
+- **Shown Personality:** Protective, calm.  
+- **Deep Personality Emerging:** Eager to repay and belong.  
+- **New Habits:** Curling protectively against Ilyas in sleep.
+
+**NSFW Preferences Updates**  
+- **Confirmed:** Deep breeding, shared sensation via merge.  
+- **Cum Count:** 1 deep load (first in double assault)
+
+**Ma-Mai — Day 20 Updates**
+
+**Horniness**  
+▰▰▰▰▰▰▰▰▰▱ 92%
+
+**Devotion**  
+▰▰▰▰▰▰▰▰▰▰ 97%
+
+**Possessiveness**  
+▰▰▰▰▱▱▱▱▱▱ 50%
+
+**Personality Changes**  
+- **Shown Personality:** Bubbly, innocent wonder.  
+- **Deep Personality Emerging:** Deep need for family and safety.  
+- **New Habits:** Giggling while feeding slime in sleep.
+
+**NSFW Preferences Updates**  
+- **Confirmed:** Gentle oral, deep breeding, shared sensation.  
+- **Cum Count:** 1 deep load (second in double assault)
+
+## 3. Relationships Updates
+
+**Ilyas & Saori**  
+- **Chemistry** 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 100%  
+- **Affection** 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸 100%  
+- **Bond** 💞💞💞💞💞💞💞💞💞💞 100%  
+- **Blush** 😳😳😳😳😳😳😳😳😳😳 40% (now mostly smug)  
+- **Hot Level** 🌶🌶🌶🌶🌶🌶🌶🌶🌶🌶 100%
+
+**Ilyas & Lira**  
+- **Chemistry** 🔥🔥🔥🔥🔥🔥🔥🔥░░ 80%  
+- **Affection** 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸 95%  
+- **Bond** 💞💞💞💞💞💞💞💞💞░░ 90%  
+- **Blush** 😳😳😳😳😳😳😳😳😳😳 95%  
+- **Hot Level** 🌶🌶🌶🌶🌶🌶░░░░░░ 60%
+
+**Ilyas & Me-Mei**  
+- **Chemistry** 🔥🔥🔥🔥🔥🔥🔥░░░░░ 75%  
+- **Affection** 🌸🌸🌸🌸🌸🌸🌸🌸░░ 80%  
+- **Bond** 💞💞💞💞💞💞💞░░░░░ 70%  
+- **Blush** 😳😳😳😳😳░░░░░░░ 50%  
+- **Hot Level** 🌶🌶🌶🌶🌶🌶░░░░░░ 65%
+
+**Ilyas & Ma-Mai**  
+- **Chemistry** 🔥🔥🔥🔥🔥🔥🔥░░░░░ 78%  
+- **Affection** 🌸🌸🌸🌸🌸🌸🌸🌸░░ 85%  
+- **Bond** 💞💞💞💞💞💞💞░░░░░ 72%  
+- **Blush** 😳😳😳😳😳😳░░░░░░ 55%  
+- **Hot Level** 🌶🌶🌶🌶🌶🌶░░░░░░ 68%
+
+**Group Dynamics**  
+- **Saori & New Girls:** Protective big-sister role fully established.  
+- **Lira & New Girls:** Shy but warm acceptance.  
+- **Slime Twins & Each Other:** Perfect harmony — shared sensations confirmed.
+
+**Members’ Feeling Toward Master (Today’s Tag Line):**  
+- **Saori:** “Best Monday of my life. He wrecked me so good and I’d do it again in a heartbeat.”  
+- **Lira:** “He didn’t judge me for liking slow… he made sure I felt good. Best tears I’ve ever cried.”  
+- **Me-Mei:** “He saved us. Gave us back our core. Gave us a home. We stay.”  
+- **Ma-Mai:** “He filled us both at once… warm and safe and loved. We never want to leave.”
+
+## 4. Mansion Updates
+**Guest Rooms Acquired:**  
+- Bedroom #2 assigned to Me-Mei and Ma-Mai (river-view room, soft blankets, spare clothes offered but declined for now).
+
+**Harem Member Rooms**  
+**Lira — Room #1**  
+- **Interior:** Simple bed, small window, single lamp, clean sheets.  
+- **Decorations:** Broken collar pieces (now discarded).  
+- **Outside Door Note:** None yet.  
+- **Notes on Door:** Door left slightly ajar as silent invitation.
+
+**Saori — Master Bedroom #0**  
+- **Interior:** Large shared bed (now group bed).  
+- **Decorations:** None formal — clothes and underwear scattered.
+
+**Me-Mei & Ma-Mai — Bedroom #2**  
+- **Interior:** River-view window, soft bed, clean linens.  
+- **Decorations:** None yet (they prefer staying in master bedroom for now).  
+- **Outside Door Note:** None placed.  
+- **Notes on Door:** They have not used the room yet — chose to stay in master bedroom with everyone.
+
+**Master Bedroom (#0 — Shared)**  
+- Now primary sleeping area for all five. Bed expanded in practice by group cuddling.
+
+## 5. Wardrobe Updates
+**Clothes Worn Today (All Members):**  
+- **Ilyas:** Torn T-shirt (shoulder ripped by own pins), shorts (discarded).  
+- **Lira:** Ilyas’s black shirt as dress (worn all day, still on during afterglow).  
+- **Saori:** Ilyas’s oversized shirt + stolen underwear (worn during tantrum, discarded for marathon).  
+- **Me-Mei & Ma-Mai:** None (naked since merge, disorientation prevented modesty concern).
+
+**Full Wardrobe for Later Use:**  
+- **Slime Twins:** Spare clothes offered (declined for now — prefer feeling air on skin). Future ideas: soft, stretchy outfits that accommodate rippling and morphing.  
+- **New Clothes Ideas:** Matching sets for twins (pink/green theme), comfortable dresses for Lira with tail holes, oversized shirts for everyone to steal from Ilyas.  
+- **Clothes Change:** Slime girls would look adorable in Ilyas’s shirts (Saori already planning to “borrow” them for them). Lira’s current shirt is now her favorite scent item.
+
+**Current Tag Line from Each about Current Wardrobe:**  
+- **Saori:** “My legs still don’t work right and I’m still wearing nothing but his scent. Best Monday ever.”  
+- **Lira:** “His shirt still smells like him… I’m never taking it off.”  
+- **Me-Mei:** “Clothes feel strange… but we’ll try them for him.”  
+- **Ma-Mai:** “Hehe… naked feels nice… but big sister Saori says we’ll look cute in his shirts!”
+
+**End of Extra Archive for Act I Chapter 3**

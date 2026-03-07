@@ -339,3 +339,227 @@ Ilyas remembers establishing routine after Saori moved in — groceries, sewing 
 ---
 
 **Act I Chapter 2 — “The Hearth and The Tail” — ARCHIVED & CONCLUDED**  
+
+# Act I Chapter 3 — Lore & Memories — Domestic Tethers
+
+## Lore
+
+### Slime Twin Species
+#### Meta-Data
+- Type: World Secret / Forbidden Knowledge
+- Scope: Regional (Lower Ring slave trade)
+- Status: Active (near-extinct)
+- Time Period: Ancient / Ongoing
+- Canon Level: Absolute
+
+#### Knowledge & Awareness
+- Known By: Slave traders, rare collectors, black-market buyers
+- Unknown To: General public, most surface kingdoms, Ilyas (prior to rescue)
+- Discoverable By: Witnessing core split/merge, consuming healing slime, or direct interaction with twins
+
+#### Affected Parties
+- Directly Affected: Me-Mei and Ma-Mai (core vulnerability, hunted for breeding/profit)
+- Indirectly Affected: Near-extinct race survival, potential for new generation through Ilyas
+
+#### Main Narrative / Explanation
+Slime twins originate from a single Pink Core that splits when separated. Each half floats inside their translucent green body in the abdomen area like liquid. They can merge back into one being with full core. Body is edible healing slime that restores wounds and provides stamina/energy. They can morph shape/size (core must remain intact), condense to solid or phase through matter, control transparency. If core is removed or too far, they collapse into immobile talking blobs and eventually melt/die. Slavers hunted them to near-extinction for profit — using blobs as potion dispensers and cores as tournament prizes to breed more.
+
+#### Rules & Constraints
+- Core must stay inside or close; separation = helplessness
+- Healing slime requires consent/love for maximum effect (regen after sex)
+- Merging allows shared consciousness and amplified pleasure/sensation
+
+#### Current Impact (Today’s Effect)
+- Politics: Black-market value skyrockets if twins are known alive
+- Combat: Healing slime provides battlefield advantage
+- Powers: Regeneration for Ilyas during intimacy
+- NPC behavior: Slave traders may hunt for revenge
+- World state: Chance to prevent full extinction through breeding
+
+### Positive Essence Nullification in Slave Arenas
+#### Meta-Data
+- Type: System Rule / Forbidden Knowledge
+- Scope: Regional (Lower Ring arenas)
+- Status: Active
+- Time Period: Ongoing
+- Canon Level: Absolute
+
+#### Knowledge & Awareness
+- Known By: Slave traders, arena operators
+- Unknown To: Most outsiders including Ilyas before use
+- Discoverable By: Entering null-field or witnessing magic failure
+
+#### Affected Parties
+- Directly Affected: Magic users (guards lost auras), slime cores (suppressed)
+- Indirectly Affected: Ilyas’s rescue success
+
+#### Main Narrative / Explanation
+Arenas use null-fields to suppress Positive Essence, rendering magic useless inside. Cores of rare species are displayed inside these fields as safe prizes. This prevents slaves from using powers to escape.
+
+#### Rules & Constraints
+- All Positive magic fails inside radius
+- Physical strength and cursed abilities still work
+- Cores remain vulnerable only when removed from field
+
+#### Current Impact (Today’s Effect)
+- Politics: Keeps powerful slaves contained
+- Combat: Gave Ilyas decisive advantage during rescue
+- Powers: Forced Ilyas to rely on blood manipulation and cursed physique
+
+### Ilyas’s Blood Manipulation
+#### Meta-Data
+- Type: Personal Power / Cursed Ability
+- Scope: Character-specific
+- Status: Active
+- Time Period: Innate / Ongoing
+- Canon Level: Absolute
+
+#### Knowledge & Awareness
+- Known By: Ilyas, now Saori/Lira/slimes (witnessed)
+- Unknown To: General public
+- Discoverable By: Direct combat or intimacy observation
+
+#### Affected Parties
+- Directly Affected: Enemies (controlled/pinned), partners (enlarged during sex)
+- Indirectly Affected: Entire harem (regeneration during marathon)
+
+#### Main Narrative / Explanation
+Ilyas can shape and control blood — his own and others’. Triggered by self-inflicted wound (lip bite). Used to create piercing pins, puppet limbs, seal mouths, and internally enlarge anatomy.
+
+#### Rules & Constraints
+- Requires blood contact or internal presence
+- Can be deactivated instantly
+- No limit shown on precision/control
+
+#### Current Impact (Today’s Effect)
+- Combat: Instant control of enemies
+- Intimacy: Enhanced pleasure and domination
+- Healing: Works with slime for rapid recovery
+
+### Harem Breeding Promise (Group Intimacy)
+#### Meta-Data
+- Type: Personal Promise / Harem Rule
+- Scope: Character-specific (Ilyas & harem)
+- Status: Fulfilled (Chapter 3)
+- Time Period: Ongoing
+- Canon Level: Absolute
+
+#### Knowledge & Awareness
+- Known By: All harem members
+- Unknown To: Outsiders
+- Discoverable By: Direct participation
+
+#### Affected Parties
+- Directly Affected: Saori, Lira, Me-Mei, Ma-Mai
+- Indirectly Affected: Future offspring potential
+
+#### Main Narrative / Explanation
+From morning tantrum, Ilyas surrendered “all the sex you want.” Expanded during bonding to full group marathon. Includes healing/regen via slime, breeding to save slime race.
+
+#### Rules & Constraints
+- Consent and mutual pleasure central
+- No judgment of preferences (slow for Lira, rough for Saori)
+- Healing/feeding ensures continuation
+
+#### Current Impact (Today’s Effect)
+- Politics: Harem now five members, stronger unity
+- Combat: Regen allows longer sessions
+- Powers: Slime feeding creates energy loop
+- NPC behavior: All girls now fully devoted, calling mansion “home”
+
+## Memories
+
+### Saori’s Morning Tantrum & Surrender
+#### Meta-Data
+- Memory Type: Shared / Traumatising / High Emotional Weight
+- Emotional Weight: Extreme
+- Reliability: Accurate
+- Time Reference: Same day, early afternoon
+
+#### Participants
+- Experienced By: Saori, Ilyas, Lira
+- Witnessed By: None
+- Remembered By: All three
+- Forgotten By: None
+
+#### Perspective & Bias
+- Primary Perspective: Saori (frustration → triumph)
+- Emotional Bias: Horny desperation turning to possessive satisfaction
+
+#### Main Narrative / Recollection
+Saori paced in living room, horns glowing, threatening to sit on Lira if Ilyas refused again after two pelvis breaks. Ilyas remained unbothered in cat form. After teasing about scent and masturbation, he surrendered: “Fine fine… all the sex you want… Now leave me be… Shower before lunch… Monday…” Saori exploded in victory, detailing plans, wearing his underwear in shower.
+
+#### Consequences
+- Personality: Saori became bolder, more possessive
+- Relationship: Trust deepened; Ilyas’s resignation accepted as affection
+- Motivations: Full group intimacy promised and fulfilled
+
+#### Current Impact (Today’s Effect)
+- Decisions: Saori pushed for four-girl marathon
+- Dialogue: Constant references to “all I want”
+- Combat reactions: None
+- Trust / hostility: Complete devotion
+
+### Ilyas’s Rescue of Slime Twins
+#### Meta-Data
+- Memory Type: Shared / Traumatising / High Emotional Weight
+- Emotional Weight: Extreme for twins, Medium for Ilyas
+- Reliability: Accurate
+- Time Reference: Mid-afternoon same day
+
+#### Participants
+- Experienced By: Ilyas, Me-Mei, Ma-Mai
+- Witnessed By: Slavers, guards, crowd
+- Remembered By: All involved
+- Forgotten By: None
+
+#### Perspective & Bias
+- Primary Perspective: Ilyas (annoyed liberator), Twins (desperate hope)
+- Emotional Bias: Moral disgust (Ilyas), gratitude/relief (twins)
+
+#### Main Narrative / Recollection
+During grocery run, Ilyas entered slave festival. Saw cores as prize, blobs as potion dispensers. Approached slavers casually, got grabbed. Activated blood pins to control orc’s hand (punched secondary), null zone disoriented guards. Opened cage with cursed physique, returned cores. Twins merged instantly. Ilyas casually invited merged girl to leave: “Let’s just leave, this place stinks.”
+
+#### Consequences
+- Personality: Ilyas reinforced liberator nature
+- Relationship: Twins instantly bonded to Ilyas as savior/home
+- Motivations: Twins chose to stay permanently
+
+#### Current Impact (Today’s Effect)
+- Decisions: Twins followed home without question
+- Dialogue: Constant gratitude and “home” references
+- Combat reactions: None
+- Trust / hostility: Absolute loyalty to Ilyas
+
+### Group Intimacy Promise Fulfillment
+#### Meta-Data
+- Memory Type: Shared / High Emotional Weight
+- Emotional Weight: Extreme
+- Reliability: Accurate
+- Time Reference: Evening to deep night same day
+
+#### Participants
+- Experienced By: All five
+- Witnessed By: All present
+- Remembered By: All
+- Forgotten By: None
+
+#### Perspective & Bias
+- Primary Perspective: Collective harem
+- Emotional Bias: Satisfaction, devotion, relief
+
+#### Main Narrative / Recollection
+From morning promise, expanded during bonding. Saori first (dominated hard, horns gripped, enlarged cock). Lira slow and tender. Slime twins double then merged for simultaneous shared sensation. Healing slime restored Ilyas repeatedly. Ended with all curled around sleeping Ilyas.
+
+#### Consequences
+- Personality: All girls more confident and bonded
+- Relationship: Harem solidified as true family
+- Motivations: Permanent commitment to stay together
+
+#### Current Impact (Today’s Effect)
+- Decisions: All girls chose to remain in mansion as home
+- Dialogue: Constant references to “all the sex,” breeding, family
+- Combat reactions: None
+- Trust / hostility: Complete emotional and physical trust
+
+---

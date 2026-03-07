@@ -566,6 +566,8 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ###### Season 2 — Too Famous For His Own Good
 
+### Quick RP
+
 ### Re-Batch 1
 
 #### 1. Ghost's Mortality ¦ Index
@@ -688,6 +690,12 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Act%20I%20Chapter%202%20%E2%80%94%20The%20Hearth%20and%20The%20Tail%20%C2%A6%20Overall%20Timeline%20File.md
 ```
 
+**Act I Chapter 3 — Domestic Tethers ¦ Overall Timeline File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Act%20I%20Chapter%203%20%E2%80%94%20Domestic%20Tethers%20%C2%A6%20Overall%20Timeline%20File.md
+```
+
 **Extra Updates ¦ Extra File.md**
 
 ```Url_Raw_Link
@@ -720,6 +728,12 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Act%20I%20Chapter%202%20%E2%80%94%20The%20Hearth%20and%20The%20Tail%20%C2%A6%20Detailed%20Scenes%20Timeline%20File.md
 ```
 
+**Act I Chapter 3 — Domestic Tethers ¦ Detailed Scenes Timeline File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Act%20I%20Chapter%203%20%E2%80%94%20Domestic%20Tethers%20%C2%A6%20Detailed%20Scenes%20Timeline%20File.md
+```
+
 **Ilyas ¦ Character ¦ Baseline.md**
 
 ```Url_Raw_Link
@@ -738,6 +752,12 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Saori%20Langley%20%C2%A6%20Character%20%C2%A6%20Baseline.md
 ```
 
+**Slime Twins ¦ Character ¦ Baseline 1.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Slime%20Twins%20%C2%A6%20Character%20%C2%A6%20Baseline%201.md
+```
+
 ##### Pr_C Files ¦ Keep Updating, Oldest Queue
 
 ##### Pr_I Files ¦ Images
@@ -751,6 +771,44 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 ```Url_Raw_Link
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%201/3.%20THE%20FRACTURED%20VEIL%20%C2%A6%20Index/Pr_X%20Files%20%C2%A6%20Non%20Usable%20By%20Ai%2C%20Only%20For%20User/Harem%20Member%20Character%20Sheet/HAREM%20MEMBER%20DOSSIER%20%E2%80%94%20FULL%20TEMPLATE.md
 ```
+
+### Re-Batch 2
+
+#### Earthlings Vs Vadlings
+
+##### Pr_A Files ¦ Must Load Every Response
+
+**Earthlings Vs Vardlings ¦ Worldbuilding.docx**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%202/Earthlings%20Vs%20Vadlings/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Earthlings%20Vs%20Vardlings%20%C2%A6%20Worldbuilding.docx
+```
+
+##### Pr_B Files ¦ Must Load Every Response When Content Relevant
+
+**Emi Rose ¦ Character Sheet ¦ Baseline.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%202/Earthlings%20Vs%20Vadlings/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Emi%20Rose%20%C2%A6%20Character%20Sheet%20%C2%A6%20Baseline.md
+```
+
+**Ilyas Anubese ¦ Character Sheet ¦ Baseline.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%202/Earthlings%20Vs%20Vadlings/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Ilyas%20Anubese%20%C2%A6%20Character%20Sheet%20%C2%A6%20Baseline.md
+```
+
+**Ladra Verdi-k ¦ Character Sheet ¦ Baseline.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Re-Batch%202/Earthlings%20Vs%20Vadlings/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Ladra%20Verdi-k%20%C2%A6%20Character%20Sheet%20%C2%A6%20Baseline.md
+```
+
+##### Pr_C Files ¦ Keep Updating, Oldest Queue
+
+##### Pr_I Files ¦ Images
+
+##### Pr_X Files ¦ Non Usable By Ai, Only For User
 
 ## Roleplay System
 
