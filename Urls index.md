@@ -810,79 +810,95 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### Pr_X Files ¦ Non Usable By Ai, Only For User
 
-## Roleplay System
-
 ### Roleplay Plug-ins
-
-**Pr-B ¦ Combat ¦ Plug-in.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Pr-B%20%C2%A6%20Combat%20%C2%A6%20Plug-in.md
-```
-
-**Pr-B ¦ NSFW ¦ Plug-in.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Pr-B%20%C2%A6%20NSFW%20%C2%A6%20Plug-in.md
-```
 
 #### Unused
 
 **Code Mode Plug‑in.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/Code%20Mode%20Plug%E2%80%91in.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/Code%20Mode%20Plug%E2%80%91in.md
 ```
 
 **Expanding & Restrictive Mode System.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/Expanding%20%26%20Restrictive%20Mode%20System.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/Expanding%20%26%20Restrictive%20Mode%20System.md
 ```
 
 **Flow Modifiers Plug‑in.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/Flow%20Modifiers%20Plug%E2%80%91in.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/Flow%20Modifiers%20Plug%E2%80%91in.md
 ```
 
 **Image Insertion Plug‑in.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/Image%20Insertion%20Plug%E2%80%91in.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/Image%20Insertion%20Plug%E2%80%91in.md
 ```
 
 **Lore Insertor & Extractor Plug‑in.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/Lore%20Insertor%20%26%20Extractor%20Plug%E2%80%91in.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/Lore%20Insertor%20%26%20Extractor%20Plug%E2%80%91in.md
 ```
 
 **Pr-A ¦ Characters Behaviors Plug‑in.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/Pr-A%20%C2%A6%20Characters%20Behaviors%20Plug%E2%80%91in.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/Pr-A%20%C2%A6%20Characters%20Behaviors%20Plug%E2%80%91in.md
 ```
 
 **Pr-A ¦ Timeline Behavior Plug‑in.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/Pr-A%20%C2%A6%20Timeline%20Behavior%20Plug%E2%80%91in.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/Pr-A%20%C2%A6%20Timeline%20Behavior%20Plug%E2%80%91in.md
 ```
 
 **Roleplay Chapter Loader Plug‑in.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/Roleplay%20Chapter%20Loader%20Plug%E2%80%91in.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/Roleplay%20Chapter%20Loader%20Plug%E2%80%91in.md
 ```
 
 **User Command System.md**
 
 ```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Plug-ins/Unused/User%20Command%20System.md
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/Roleplay%20Plug-ins/Unused/User%20Command%20System.md
 ```
 
+## Roleplay System
+
 ### Roleplay Rules ¦ System Files Index
+
+#### Modules
+
+**MAIN Module.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Modules/MAIN%20Module.md
+```
+
+**Templates.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Modules/Templates.md
+```
+
+#### Plug-ins
+
+**Combat Plug-in.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Plug-ins/Combat%20Plug-in.md
+```
+
+**Nsfw Plug-in.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Plug-ins/Nsfw%20Plug-in.md
+```
 
 ## Templates
 
@@ -896,35 +912,5 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ```Url_Raw_Link
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Templates/Image%20Generator%20Prompt.md
-```
-
-## X. Ai Creations
-
-### Ai Characters
-
-#### The Rabbit Cyclist
-
-**Cyclist.jpeg**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/X.%20Ai%20Creations/Ai%20Characters/The%20Rabbit%20Cyclist/Cyclist.jpeg
-```
-
-### Ai Clothes
-
-#### Maid Outfits
-
-##### Bunny Maid
-
-**Bunny Maid 1_Prompt.md**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/X.%20Ai%20Creations/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid/Bunny%20Maid%201_Prompt.md
-```
-
-**Bunny Maid 1_Visual.jpeg**
-
-```Url_Raw_Link
-https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/X.%20Ai%20Creations/Ai%20Clothes/Maid%20Outfits/Bunny%20Maid/Bunny%20Maid%201_Visual.jpeg
 ```
 
