@@ -566,6 +566,26 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ###### Season 2 — Too Famous For His Own Good
 
+### NEW FANTASY
+
+#### Bloody Life
+
+##### Pr_A Files ¦ Must Load Every Response
+
+**THE FRACTURED VEIL ¦ Worldbuilding File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/THE%20FRACTURED%20VEIL%20%C2%A6%20Worldbuilding%20File.md
+```
+
+##### Pr_B Files ¦ Must Load Every Response When Content Relevant
+
+##### Pr_C Files ¦ Keep Updating, Oldest Queue
+
+##### Pr_I Files ¦ Images
+
+##### Pr_X Files ¦ Non Usable By Ai, Only For User
+
 ### Quick RP
 
 ### Re-Batch 1
