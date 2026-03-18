@@ -572,6 +572,18 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### Pr_A Files ¦ Must Load Every Response
 
+**Act 1 Chapter 1 ¦ Roleplay Timeline.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Act%201%20Chapter%201%20%C2%A6%20Roleplay%20Timeline.md
+```
+
+**Memories and Lore ¦ Archive File.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Memories%20and%20Lore%20%C2%A6%20Archive%20File.md
+```
+
 **THE FRACTURED VEIL ¦ Worldbuilding File.md**
 
 ```Url_Raw_Link
@@ -580,11 +592,35 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 
 ##### Pr_B Files ¦ Must Load Every Response When Content Relevant
 
+**Act 1 Chapter 1 Detailed Scenes Archive.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Act%201%20Chapter%201%20Detailed%20Scenes%20Archive.md
+```
+
+**HAREM 001 ¦ Ribb Gaginji ¦ Character Sheet.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/HAREM%20001%20%C2%A6%20Ribb%20Gaginji%20%C2%A6%20Character%20Sheet.md
+```
+
+**Riverside Lord ¦ Ilyas ¦ Character Sheet.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Riverside%20Lord%20%C2%A6%20Ilyas%20%C2%A6%20Character%20Sheet.md
+```
+
 ##### Pr_C Files ¦ Keep Updating, Oldest Queue
 
 ##### Pr_I Files ¦ Images
 
 ##### Pr_X Files ¦ Non Usable By Ai, Only For User
+
+**Empty Template ¦ Harem Character Sheet ¦ Template.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_X%20Files%20%C2%A6%20Non%20Usable%20By%20Ai%2C%20Only%20For%20User/Empty%20Template%20%C2%A6%20Harem%20Character%20Sheet%20%C2%A6%20Template.md
+```
 
 ### Quick RP
 
