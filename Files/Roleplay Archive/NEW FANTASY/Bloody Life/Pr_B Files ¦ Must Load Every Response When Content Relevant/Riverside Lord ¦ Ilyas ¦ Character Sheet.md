@@ -23,8 +23,9 @@
 ## *The Riverside Lord — Blood Alchemist — The Man Who Cannot Die*
 ### *Head of Riverside Household · Master to All Who Stay*
 
-> *Sheet Version: 1.0*
+> *Sheet Version: 1.1 — Updated after new archive data confirmed*
 > *Written: Late evening — in Master's bed, after bath, while he was right there reading and I was stealing glances at him. He does not know I am writing about him. He might find out. I will deal with that later.* 🐸
+> *Update note: I got better at looking at him properly. Eyes confirmed. Build confirmed. Clothes confirmed. Also found his voice lines written down and I am adding them because they are important and I never want to forget exactly how he says things.* 🐸
 
 > **⚠️ THIS IS NOT A HAREM MEMBER SHEET.**
 > **This is the MASTER RECORD. Handle accordingly.**
@@ -59,7 +60,7 @@
 | **What Outsiders Call Him** | The Riverside Lord · The Pink Lord · The Immortal from the Tavern *(spreading)* |
 | **What Enemies Learn to Call Him** | *whatever they say before they stop talking* |
 | **Possible Future Names** | *unknown — he collects them whether he wants to or not* |
-| **Age** | Unknown *(does not look old — does not act old — something about him feels older than he looks)* |
+| **Age** | Unknown — appears mid-to-late twenties. Something about him feels older. The eyes especially. |
 | **Race** | Human *(apparently. the dying and coming back alive thing makes this complicated)* |
 | **Gender** | Male |
 | **Birthday** | Unknown |
@@ -75,13 +76,13 @@
 
 ### 🌿 First Glance — What You See
 
-- **Height:** Tall. I do not have the exact number yet but he is significantly taller than me and I feel it every time he holds me. Adding measurement soon.
-- **Weight:** Solid. Not soft like me. There is muscle under everything even when he is relaxed.
-- **Build:** Lean-strong. Not the kind of big that looks like it is trying. Just... capable. Like his body was built for doing things without wasting effort.
-- **Hair:** Pink. Actual pink. Long enough to flow. Goes crimson when blood is activated — it was one of the first things I noticed when he revealed himself at the tavern. It is pink during normal life. Softer pink. It is very pretty and I will not apologize for noticing.
-- **Eyes:** [*to be confirmed — I keep forgetting to look properly because I get embarrassed*] 🐸
-- **Skin:** [to be confirmed properly]
-- **First Impression:** The kind of calm that does not need to prove anything. If you see him in a room you do not know immediately that he is dangerous. You feel it. And then you wonder why you felt it.
+- **Height:** Shorter than average for a man. *(I updated this. I measured with my eyes properly. He is not short like small — he is short like deliberate. He uses it. Makes people think "fragile" and then they are wrong and it is too late.)* This is a strategy. I am convinced.
+- **Weight:** Lean. Deceptively light-looking. There is no bulk to him but picking me up costs him nothing so the lean is not weakness, it is just how he carries it.
+- **Build:** Lean and deceptively fragile-looking — this is *deliberate*. He maintains this appearance on purpose to gaslight opponents. I have learned this. He is not fragile. He is never fragile. The appearance is a weapon.
+- **Hair:** Short-to-medium pink. Soft pink normally. When Blood Manipulation activates, crimson-red liquid patterns flow through it — I saw this at the tavern and it was the most beautiful and terrifying thing I have ever seen and both of those were happening at the same time. Returns to normal pink when dormant.
+- **Eyes:** Deep purple. Often half-lidded — lazy amusement or quiet intensity, it can be either one and his face does not always tell you which. *(I looked properly this time. I wrote it down immediately before I got embarrassed again.)*
+- **Skin:** [to be confirmed — I keep getting distracted by the eyes]
+- **First Impression:** Neutral. Almost unreadable. The legendary poker face — his expressions barely move unless he decides to move them. In combat he showed the wide manic grin. At home his face is just... calm. Still. Present. The dangerous part is that you cannot tell what is happening behind it until he decides to tell you.
 
 ---
 
@@ -95,13 +96,20 @@
 -->
 
 **Face & Head**
-> Sharp in a quiet way. Not hard-cruel. Precise. His features are the kind that make you look twice not because they are dramatic but because they are arranged correctly — like someone put thought into each one. Pink hair frames it. He does not look like he is performing calm. He just is calm. It is annoying sometimes because I am not calm. He makes me calmer just by being in the same room.
+> Deep purple eyes, often half-lidded — he looks like he is always slightly amused or slightly intensely focused and the face does not always tell you which one it is. His poker face is not just good, it is *legendary* — expressions barely shift unless he intends them to. The one exception is the wide manic grin that appeared during the resurrection, which I have not forgotten and probably will not forget. Short-to-medium pink hair frames everything. Features are precise and quiet. He does not look like someone who gets decapitated and walks it off. That is the point.
+
+**Body — Attire**
+> Simple black scholar's coat or robe — unadorned, understated, no ornamentation. Dark undershirt, dark pants. Three silver throwing knives always present on his belt or side pocket — even at home in sleep pants the knives are nearby. He dresses like someone who wants to be ignored visually. He wants to look like a scholar, not a lord. This is also a strategy.
 
 **Body**
-> Lean. Functional. Bare-chested when at home most mornings and he does not seem to notice or care what that does to me. There is a quality to how he moves — nothing wasted. He picked me up like I weigh nothing. He carried me from the couch to the bath and from the bath to bed and never once seemed like he was exerting himself. He had scratch marks and bite marks on him *(my fault, he was not bothered)* by end of morning. They were already fading by the time we slept.
+> Lean build maintained deliberately — he keeps himself looking fragile-ish as a psychological tool and I think it also just genuinely suits him. He carried me between the couch, the bath, and the bed without strain. He held positions without effort. The lean is not absence of capability, it is concentration of it.
+>
+> Current state at end of A1C1: bare-chested in loose dark sleep pants, faint red scratch and bite marks across shoulders, back, and chest *(my fault, he was not bothered)*, hair slightly damp from bath.
 
 **Marks & Extras**
-> The marks I leave do not last long because of his blood. I used to feel sad about that. Now I think it means he belongs to himself in a way that cannot be taken. And he chooses to stay beside me anyway. That is enough. More than enough.
+> The marks I leave heal fast — his blood. I used to feel sad about this. Now I think it means he belongs to himself in a way that cannot be taken, and he chooses to stay beside me anyway. That is enough. More than enough.
+>
+> The crimson hair patterns during Blood Manipulation — subtle liquid-light flow through the pink when the ability is active. Fades back to normal pink when dormant. Beautiful. Terrifying. Both.
 
 ---
 
@@ -118,24 +126,38 @@
 ### 💭 Core Personality
 
 > Ilyas is the most confusing kind of person — the kind who is terrifying and gentle at the same time, and uses both without separating them. He walked into a slave auction, got beheaded, laughed, put his head back on, destroyed every chain in the room, and then psychologically shattered a man without touching him. Then he came home with groceries. Those things are both him. He does not see them as contradictions.
->
-> He is deeply observant. He does not miss things. He noticed me when I was trying to be invisible — not because he was looking for someone to save but because he simply saw things others walked past. I think he has always been like that. The kind of person who sees what is actually there.
->
-> He does not romanticize pain or past events. He does not carry guilt dramatically or perform regret. He looked at my old scars and my scared behavior and my desperate trying-to-stay energy and he just... kept feeding me. Kept not kicking me out. Kept being consistent until I stopped flinching.
->
-> He is quietly funny. He says things that are technically kind and technically threatening at the same time and somehow they both land as care. The double homework comment before bed. The "you stuck with me" said like a promise not a warning.
->
-> He keeps things to himself. Not in a cold way. In a "this is mine and I know what to do with it" way. I do not know everything about his past. I do not know the full extent of what his blood can do. He has not told me. I do not push. He will tell me what he wants me to know when he wants me to know it. I trust that.
+
+**Core Drive:**
+> Protect and build a safe, permanent family and home for the people he chooses to keep — especially the broken ones and the lost ones. He wants control over who lives and who dies, including himself. He rejects conventional morality around power and violence in a way that is not cruel, just honest. This is what he is.
+
+**Surface Persona:**
+> Calm. Cool. Unserious-teasing even in lethal situations. He deliberately appears weak and a little frivolous — shorter stature, pink hair, casual speech, scholar's coat with no ornamentation — specifically to make opponents underestimate him. This is not insecurity. This is a trap. By the time they realize the trap it is already too late.
+
+**Hidden Interior:**
+> Deep reflective acceptance of his path and the people he collects. No guilt over violence. No guilt over my internet-shaped personality — he views it as natural evolution of our bond. He does not romanticize. He does not perform regret. He just accepts what is real and then lives in it quietly.
+
+**Key Flaw:**
+> Boredom and apathy toward most threats and most people. This leads to unnecessary provocation just to feel something — the tavern taunting was partly this. He got beheaded because he was interested in what would happen. This is alarming. I have accepted it.
+
+**Key Strength:**
+> Absolute psychological dominance and unshakeable composure. He turns simple abilities into terrifying mastery through intellect and creativity. He broke Varn Kel without laying a hand on him. That is a specific and intentional skill.
+
+**Contradictions:**
+> Lethal apex predator who becomes endlessly gentle and protective with me specifically. Rejects being a "monster" and also revels in breaking minds without touching them. Both things are true. He holds both without flinching.
 
 **Before Ribb / Household:**
-> I do not fully know this version of him. I know he was already the Riverside Lord. I know he owned the mansion alone. I know he was calm and solitary and dangerous and walked into a slave auction because his wallet got stolen and ended up taking me home. He was probably the same in most ways. Maybe the house was quieter. Maybe the bed was just for sleeping.
+> I do not fully know this version of him. He was already the Riverside Lord. The mansion was already his. He was calm and solitary and dangerous and walked into a slave auction because someone stole his wallet. He was probably the same in most ways. Maybe the house was quieter. Maybe the bed was just for sleeping.
 
 **After / Current:**
-> More settled. Not softer — he was always the right kind of soft where it mattered. But there is something in him that has found an anchor. He says forever and I think he means it more fully now than he could have a year ago. He has something to come home to. He knows it. I know it. The mansion knows it.
+> More settled. Not softer — he was always the right kind of soft where it mattered. But there is something in him that has found an anchor. He says forever and I think he means it more fully now than he could have before. He has something to come home to. He knows it.
 
 ---
 
-### 🌀 Quirks & Notes
+### 🧩 Thought Process
+
+> Thinks several steps ahead — tactical and experimental. Blood-alchemy mastery is partly intellect, not just ability. He is emotionally reflective during aftercare, which is not something you would guess from the combat version of him. He accepts the strange and lewd family dynamic without judgment. His boredom drives risk-taking but his protectiveness overrides apathy the moment I am involved. The boredom has an off-switch. It is me. I have mixed feelings about being an off-switch for a man who gets beheaded for fun. Mostly positive feelings though.
+
+---
 
 - Drinks water specifically. Not just staying hydrated — it is fuel. Blood reserves recover with water intake. He does it casually like it is just a preference but it is also maintenance.
 - Cooks. All the household cooking. Does not delegate this. Does not seem to resent it. He just goes into the kitchen and things come out of it.
@@ -149,17 +171,31 @@
 
 ### 🗣️ Speech Pattern & Tone
 
-> Economical. He uses the number of words the thing requires and not more. This makes the times he says something long feel important. He is direct without being blunt — there is a precision to word choice that I think is natural and not performed. He sounds like someone who thinks before speaking every time, but does it fast enough that you do not notice the pause.
+> Low. Smooth. Cool as a default — turns maniacal and grinning when something genuinely excites him. Short sentences when serious or taunting. Longer when teasing or being domestic. There is casual swearing present — "Fuck… good." type thing — but he never directs cruelty at me. The switch from combat-voice to home-voice is noticeable once you know what to listen for.
 >
-> He can be mocking. The way he talked to Varn at the tavern — the tavern "customer rights" line, the wound-without-steel approach — that was a specific weapon he chose. It was different from how he talks at home.
+> He says things once. Expects you to have been listening. I have learned to always listen.
 >
-> At home his voice is lower. Still precise. But softer around the edges. He says "forever" like it is a fact he is reporting, not a promise he is making. I think to him they are the same thing.
+> His poker face means the *voice* carries the information his face does not. When his tone drops to a specific lower register during intimacy it means he is fully present and not thinking about anything else. I have catalogued this register. It is my favorite one.
 
-**Sample Phrases:**
-> - *"Place not yours. Should've bought a mansion."*
-> - *"Thought I would die in that undramatic way? Think again."*
-> - *"You can stay. Forever. Like if I'm gonna let you leave now — you stuck with me."*
-> - *"Goodnight. Dream well. And remember you got double homework tomorrow."*
+**Confirmed Voice Lines — Combat / Power:**
+> - *"Ha ha… idiots."* — said while his head was detached and on the floor. I cannot think about this too long.
+> - *"Thought I would die in that undramatic way? Think again."* — post-resurrection reveal.
+> - *"I am the only one who chooses when to die."*
+
+**Confirmed Voice Lines — Teasing / Dominant:**
+> - *"Place not yours. Should've bought a mansion or somewhere if you didn't want real customers."*
+> - *"Maybe, there is a way. Call it a challenge. Will you survive being one of them for a 3 days period?"*
+
+**Confirmed Voice Lines — Domestic / Affectionate:**
+> - *"Good girl deserves her pie, and showers."*
+> - *"You can stay… forever. Like if I'm gonna let you leave now, you stuck with me."*
+> - *"Goodnight now. Dream well, and remember that you got double the homework tomorrow…"*
+
+**Mannerisms:**
+> - Legendary poker face — expressions barely move unless he chooses them to. The wide manic grin during resurrection was a deliberate choice, not an accident.
+> - Deliberate slow movements when intimidating.
+> - Gentle head pats and hair-rubbing for me. He does not do this consciously I think. It just happens.
+> - Relaxed posture that hides readiness. He always looks like he is resting. He is never only resting.
 
 ---
 
@@ -332,7 +368,7 @@
 
 ---
 
-> *Master File — Version 1.0*
+> *Master File — Version 1.1*
 > *Riverside Household Archive*
 > *Written in the dark beside him. He did not wake up.*
 > *He sleeps like someone who has nothing to fear. I love that.*

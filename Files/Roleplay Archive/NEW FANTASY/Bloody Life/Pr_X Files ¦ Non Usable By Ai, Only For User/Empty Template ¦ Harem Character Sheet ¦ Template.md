@@ -165,20 +165,41 @@
 
 ### 💭 Core Personality — The Whole Picture
 <!--
-  AI NOTE: Full deep personality breakdown. Not just "kind and shy."
-  Multiple layers — surface behavior, hidden behavior, defense mechanisms,
-  how they treat people they love vs strangers vs enemies. Contradictions
-  welcome (e.g. analytical but forgetful). Note if personality CHANGED
-  significantly from before meeting Master vs after.
+  AI NOTE: Full deep personality breakdown using the established framework.
+  Required sub-fields:
+    Core Drive    — What fundamentally motivates them
+    Surface Persona — What strangers/acquaintances see
+    Hidden Interior — What is underneath; what they rarely show
+    Key Flaw      — A real flaw, not a humble brag
+    Key Strength  — Their most powerful quality
+    Contradictions — Places where two true things about them conflict
+  Also note personality BEFORE meeting Master vs AFTER (current).
+  These are always meaningfully different for harem members.
 -->
 
-> [Deep personality write-up. Multiple paragraphs if needed.]
+**Core Drive:**
+> [What fundamentally motivates them — survival, love, belonging, purpose, etc.]
 
-**Before Meeting Master:**
-> [Personality in their old life]
+**Surface Persona:**
+> [What people see first / publicly]
+
+**Hidden Interior:**
+> [What is underneath — traumas, private beliefs, hidden feelings]
+
+**Key Flaw:**
+> [A genuine flaw with real consequences — be honest]
+
+**Key Strength:**
+> [Their most powerful quality]
+
+**Contradictions:**
+> [Two true things about them that seem to conflict but both are real]
+
+**Before Master:**
+> [Who they were before any encounter with Ilyas]
 
 **After / Current:**
-> [How they are now]
+> [Who they are now — how they've changed]
 
 ---
 
@@ -199,15 +220,34 @@
 <!--
   AI NOTE: HOW they talk. Vocabulary level, accent notes, verbal tics,
   filler sounds, repeated words, tone shifts (e.g. bold normally but
-  whispers when emotional). If they talk with a physical quirk (tongue
-  out, etc.) note it here.
+  whispers when emotional).
+  
+  IMPORTANT FOR FROG BEAST-KIN (Ribb specifically):
+  Ribb speaks with her tongue partially out at all times. This causes:
+    - "s" sounds → "sh" sounds (e.g. "so" → "sho", "suck" → "shuck")
+    - "st" clusters blur (e.g. "Master" → "Mashter")
+    - General soft slurring on certain consonants
+  Write her dialogue phonetically using this system.
+  This is a racial/physical trait, not an affectation — it cannot be
+  turned off and she has stopped trying.
+  
+  For other races/characters: note their equivalent speech quirks here.
+  If they talk with a physical quirk note it explicitly.
+  Include confirmed canonical voice lines if available.
 -->
 
-> [Speech description]
+> [Speech description — tone, pace, register shifts, verbal habits]
 
-**Sample Phrases / Tics:**
-> - "[example phrase]"
-> - "[filler sound or repeated word]"
+**Tongue-Out / Physical Speech Note:**
+> [If applicable — note any physical trait affecting speech]
+
+**Verbal Tics & Fillers:**
+> - "[filler sound]"
+> - "[repeated word pattern]"
+
+**Confirmed Voice Lines / Sample Phrases:**
+> - *"[exact line, labeled by context]"*
+> - *"[exact line, labeled by context]"*
 
 ---
 

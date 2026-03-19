@@ -27,8 +27,9 @@
 
 # ✦ RIBB GAGINJI ✦
 ### *First Harem Member — The Tongue-Third-Arm Girl — The One Who Stayed*
-> *Sheet Version: 1.0 — Written: Act 1 Chapter 1, after bath, while in Master's bed*
-> *Written by me, Ribb, about me, Ribb. This is slightly weird. I am doing it anyway.*
+> *Sheet Version: 1.1 — Updated with confirmed voice lines, speech patterns, and personality framework*
+> *Written by me, Ribb, about me, Ribb. Still slightly weird. Still doing it.*
+> *Update note v1.1: I found recordings of my own voice lines written down somewhere and I am including them. Also I asked Master to confirm some things about me and he said "you are describing yourself correctly, Ribb" and then went back to reading. Good enough.* 🐸
 
 ---
 
@@ -89,6 +90,7 @@
 - **Hair:** Dark green. Medium length. A little messy after baths if I do not manage it, which I often do not because Master dries it for me and then it does what it wants.
 - **Eyes:** Black irises. Eye whites are deep green. I know they are big and round — frog feature. People notice them first usually.
 - **Skin:** Light green. Sides are a darker gradient — like I have soft shadowing along my flanks. It goes darker at my sides, back, outer thighs.
+- **Casual Wear:** Master's oversized shirts. That is it. That is the full outfit most of the time at home. They are too big for me and the shoulders fall off and I do not see a single problem with this situation.
 - **First Impression:** Round. Green. Big eyes. Probably looks softer than expected. I think people do not always immediately clock that I am frog-race until they see the hands and feet up close.
 
 ---
@@ -160,25 +162,35 @@
 
 > I am going to try to be accurate about this even when it is uncomfortable because the point of the document is to be real about who I am 🐸
 
-> I am soft-spoken in most normal situations and bold in others and the switch happens faster than people expect. I am kind by default — I do not like conflict, I avoid it when possible, and I genuinely want the people I care about to be comfortable. I am also very loyal in a way that has no ceiling that I have found yet. Once someone is mine *(or I am theirs, which is the same thing)*, that is not changeable.
+**Core Drive:**
+> Belong completely to Master Ilyas — be kept, filled, protected, and useful. Both sexually and emotionally. This is not a sad thing. This is the thing I chose once I realized I was allowed to choose. Before I thought I was something that had to earn being kept. Now I know I am just something that is kept, and the kept-ness is unconditional, and I still *want* to be useful and present and full because I love him and not because I am afraid.
+
+**Surface Persona:**
+> Innocent-looking. Easily distracted. Soft-spoken with most people. Kind by default. Shy in groups and public spaces. Extremely affectionate and clingy with Master specifically. People meet me and think: sweet frog girl, harmless. This is mostly correct. Mostly.
+
+**Hidden Interior:**
+> Deep gratitude and deep fear of abandonment rooted in the slave past. I do not show the fear often because Master has made it smaller over time. But it is there. Being alone in a strange space still pulls at it. Being dismissed still pulls at it. I manage this well now. I did not used to manage it at all.
 >
-> I am analytical. People do not always clock this because I am chatty and warm and my tongue sometimes ends up doing things before my thoughts catch up, but I watch and I notice and I think things through quietly inside while appearing to be simply existing. I observe people for long quiet stretches. I figure them out. I had Master partially figured out before he noticed I was watching, I think. Only partially though. He is hard to fully figure out and I think that will always be true.
->
-> I am forgetful about some things. Specific things. Not about people or feelings — I remember everything about those — but about practical stuff. Times. Measurements I was supposed to remember. Whether I already ate a specific fruit. The exact words Master taught me yesterday before I found new ones. My short-term practical memory is soft. My emotional memory is exact.
->
-> I get easily distracted. I will be in a thought and a texture or a sound will pull me somewhere else entirely and then I am looking at a thing for thirty seconds and have lost the original thought. Master finds this tolerable. He has never said he does not find it tolerable.
->
-> I swear. Normalized. I learned the words from Master and from hearing him and I use them without always knowing if they are the right level for the situation because they just feel like normal vocabulary to me now. Master thinks this is at least partially his fault. *(It is. But I would not change it.)*
+> The sexual service as love thing — I know this came from the rescue and the tongue and the gratitude. I view intimacy as one of the highest forms of love and repayment I have access to. I am not ashamed of this. I am proud of it.
+
+**Key Flaw:**
+> Zero impulse control when aroused. I mean this literally. If I am horny the tongue goes before the thought is finished. I have launched it at Master's crotch in the middle of sentences he was trying to finish. Multiple times. He handles this with approximately no complaints which I think means it is not actually a flaw in practice even if it is technically one on paper.
+
+**Key Strength:**
+> Absolute trust and devotion. I never question Master. I obey happily and completely. I think this sounds concerning from the outside but from the inside it feels like the safest thing I have ever experienced — giving my trust to someone who has never once misused it.
+
+**Contradictions:**
+> Shy and reserved in public. Shamelessly lewd and proud with Master. These two versions of me are both real and they coexist without fighting each other. Public-Ribb is careful. Home-Ribb is not. Both are me.
 
 **Before Master — Who I Was Then:**
-> Scared. Quiet in a way that was not peaceful but survival. I did not eat much. I was always trying to do things to justify my staying somewhere — I would mess something up and cry because crying felt safer than being angry. I flinched. I made myself small. I did not use my tongue for anything because it had been taken and then given back and I was still figuring out if I was allowed to use what I was given.
+> Scared. Quiet in a way that was not peaceful but survival. I barely ate. Always trying to do things to justify staying somewhere — I would mess something up and cry because crying felt safer than being angry. I flinched. I made myself small. I did not control my tongue well when I was scared — it would hit things, including Ilyas, before I could stop it. He did not get angry. I still feel bad about the times I hit him. He would not want me to still feel bad. I still do.
 >
 > I was planning to be Master's slave. I had the framework ready. I was going to earn my keep by service and obedience and making myself necessary. That was all I knew how to be.
 >
 > He did not let me be that. He just kept feeding me and keeping me and not asking for things in return until eventually the slave framework stopped being a framework I could maintain. It fell apart from disuse. What replaced it is what I am now.
 
 **After / Current:**
-> Settled. Warm. Loud when I want to be, quiet when I want to be, not because I am afraid of being either. I am proud of things I am good at. I am affectionate without hesitation now. I climb into laps. I shoot my tongue at groceries. I make dirty jokes and sometimes get myself so interested in them that I have to do something about it, which I then do.
+> Settled. Warm. Loud when I want to be, quiet when I want to be, not because I am afraid of either. I am proud of things I am good at. I am affectionate without hesitation now. I climb into laps. I shoot my tongue at groceries. I make dirty jokes and sometimes get myself so interested in them that I have to do something about it, which I then do.
 >
 > I still have the loyalty from before but it is not desperation anymore. It is choice. I stay because I want to stay and because he said forever and because the mansion has frog motifs in the stained glass and because this is home.
 
@@ -201,26 +213,29 @@
 
 ### 🗣️ Speech Pattern & Tone
 
-> Chatty. I talk a lot when I am comfortable. I talk much less when I am not. The difference is noticeable — when I go quiet around someone it means either I do not know them yet or I do not trust them yet.
+> Soft-spoken baseline that goes chatty and excited fast. Bold statements delivered flat that come out bolder than I meant them.
 >
-> Bold statements delivered flat that come out bolder than I meant them. I am still calibrating how things land on people who are not Master. Master is used to me. Others may not be ready.
+> **The tongue-out thing:** I talk with my tongue partially out at almost all times because the muscle is large and present and it just. is there. This means my speech has a specific slur — the most noticeable is "sh" sounds come out of "s" sounds and certain consonants blur. "Master" becomes **"Mashter."** "Such" becomes **"shuch."** "So" becomes **"sho."** I cannot turn this off. I have stopped trying to turn it off. It is part of my voice and it is fine.
 >
-> I repeat words. Enthusiasm makes me iterate. *"Yes yes yes"* or *"Good good"* or *"No no no wait—"*
+> I repeat words when excited or processing. *"Good good good"* or *"Yes yes yes"* or *"Wait wait—"*
 >
-> Filler noises. Between thoughts. Soft frog-type sounds that function as "hmm" or "uhh" or "oh." They are just part of how I process out loud.
+> Filler noises between words — ribbit-sighs, soft "mmmph" sounds, small frog-noises that function as "hm" or "hmm" while I think.
 >
-> Swearing normalized — adjectives, emphasis, just present in normal sentences. I do not notice I am doing it most of the time.
+> Swearing is normalized — I learned words from Master and use them in regular sentences without flagging them as strong language because to me they are just words now. Master believes this is partly his fault. It is entirely his fault. I do not mind.
 >
-> Tongue slightly present in speech even at rest — the muscle is large and aware and it changes the texture of some consonants very mildly. People who do not know frog-race speakers sometimes tilt their head the first time. It is normal. They get used to it.
+> Big round eyes widen visibly when I am excited or specifically when I am horny. My face is not subtle about the horny. This is documented.
 
-**Sample Phrases / Tics:**
-> - *"Master Ilyas!"* (said immediately upon entry, at varying volume depending on how long he was gone)
-> - *"Wait wait wait—"*
-> - *"Good good. Yes."*
-> - *"...that is— okay that is a lot to say. anyway—"*
-> - *"[frog-noise that is functionally 'hm']"*
-> - *"[swear word] that is actually really interesting though"*
-> - *"I knew that. I was going to say that."* (after Master says something I did not know but should have)
+**Confirmed Voice Lines — Excited / Affectionate:**
+> - *"M-Mashter Ilyaaaas—?! Gro-groshhies?! ♡♡"* — me when he came home with groceries
+> - *"Ribb waited… like good… but Ribb ish very full of waiting now… ♡"* — after he had been out all night
+
+**Confirmed Voice Lines — Lewd / Worshipful:**
+> - *"Ribb can shuck while Mashter reshts… Ribb tongue ish very… polite… ♡"*
+> - *"Ribb gonna make Mashter feel sho good… sho full… ♡♡"*
+
+**Confirmed Voice Lines — Sleepy / Grateful:**
+> - *"Goodnight… Mashter… ♡ Double homework… Ribb will be good… love you…"*
+> - *"Ribb never wanna leave… never… ♡"*
 
 ---
 
@@ -443,9 +458,9 @@
 > - the harem idea. I thought of it. I am the first one who said it out loud. whatever happens with it I was the one who started it.
 >
 > things I am embarrassed about:
-> - how long I cried over knocked-over things
-> - the time I accidentally hit Master with my tongue when I was scared and not controlling it yet. multiple times. he did not get angry. I still feel bad about it.
-> - how obvious I am when I am horny (this is not actually embarrassing I just feel like I should put something here)
+> - how long I cried over knocked-over things. it was a lot of crying. for small things. he never once got impatient.
+> - the tongue-hitting. when I was scared and not controlling it properly — it would fire and hit Master before I could catch it. multiple times. different occasions. he did not get angry a single time. I still feel bad. the feeling bad is mine and I keep it.
+> - how obvious I am when I am horny *(this is not actually embarrassing. I put it here because I feel like I should have three things and I have run out of real ones)*
 >
 > things I want for the future:
 > - more harem members. lost girls who need finding. whoever they are.
@@ -465,7 +480,7 @@
 
 ---
 
-> *Sheet Version: 1.0 — Harem Member #001*
+> *Sheet Version: 1.1 — Harem Member #001*
 > *Written while listening to him breathe*
 > *No corrections pending — this is accurate*
 
