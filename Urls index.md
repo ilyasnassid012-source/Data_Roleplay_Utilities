@@ -936,6 +936,12 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Modules/MAIN%20Module.md
 ```
 
+**ROLEPLAY Demonstration Examples.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20System/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Modules/ROLEPLAY%20Demonstration%20Examples.md
+```
+
 **Templates.md**
 
 ```Url_Raw_Link
