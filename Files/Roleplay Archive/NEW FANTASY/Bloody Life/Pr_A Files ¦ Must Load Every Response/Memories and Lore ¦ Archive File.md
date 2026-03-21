@@ -281,3 +281,259 @@ Archiving Mode remains active.
 
 
 
+**LORE & MEMORIES ARCHIVE — FILE 2 COMPLETE**
+
+---
+
+# A1C2 ¦ The Riverside Lord's New Sister ¦ Lore & Memories Archive
+
+---
+
+## ◈ Character Profiles
+
+### 👤 Ilyas (Riverside Lord)
+
+#### Identity Block
+
+| Field | Value |
+|---|---|
+| **Full Name** | Ilyas (no surname given; known as **Riverside Lord**) |
+| **Role** | Protagonist · Riverside Lord · Blood manipulator |
+| **Status** | Active · Head of Riverside Mansion household |
+| **Affiliation** | None formal; independent power |
+| **First Appeared** | A1C1 (implied) |
+| **Last Seen** | A1C2 |
+
+#### Appearance
+Tall, lean build with short pink hair that peeks from under hoods. Neutral, unreadable face with poker-face mastery. Pink hollow eyes that rarely betray emotion. Typically wears dark casual attire or cloaks for concealment. In private: shirtless or minimally clothed during intimate moments.
+
+#### Personality & Character Core
+Calm, resigned, and fond even in chaotic situations. Shows mercy when he could easily kill (blood control used non-lethally). Patient with extreme affection from partners. Protective of those he accepts into his household. Internally reflective and self-aware, often sighing at lewd escalation but never truly refusing. Treats new members with gentle aftercare.
+
+#### Speech Pattern & Mannerisms
+Soft-spoken, short sentences, often resigned or fond tone. Uses ellipses (...) frequently. Calls partners by name or affectionate terms indirectly. Rarely raises voice. Gentle physical reassurance (rubbing thumbs on shoulders) during aftercare.
+
+#### Thought Process
+Practical and protective. Weighs emotional states of partners carefully. Accepts escalation with fond resignation rather than resistance. Internally notes intensity but prioritizes partners' well-being and consent.
+
+#### Voice Lines
+- “Its Fine, You Dint Have to Think about that or do it either.”
+- “You're In Home now, And Ribb Can you Tone it Down... Maybe just a Little?.”
+- “hm...”
+- “Fine. .”
+- “Not Like i was Doing anything else, But You sure, Ribb didn't Keep Annoying you about it, Has her?.”
+- “Was it.. Good enough?.”
+- “Good girl, Ribb Likes it when i call her that, so do you too?.”
+
+---
+
+### 👤 Ribb Gaginji
+
+#### Identity Block
+
+| Field | Value |
+|---|---|
+| **Full Name** | **Ribb Gaginji** |
+| **Role** | First harem member · Devoted partner · Extreme affection source |
+| **Status** | Active · Primary household intimate |
+| **Affiliation** | Riverside Mansion household |
+| **First Appeared** | A1C1 (implied) |
+| **Last Seen** | A1C2 |
+
+#### Appearance
+Light-green skin, dark-green hair (often damp/sticky from activity). Big round eyes that sparkle with excitement. Inverted frog ears that perk or relax dramatically. Soft, plush body with pronounced curves. Frequently naked or in loose robes. Belly often softly rounded from repeated internal releases.
+
+#### Personality & Character Core
+Zero impulse control. Extremely affectionate, lewd, and shameless. Instant adoption of new "sisters". Bubbly, ecstatic, and proud of being filled. Nurturing toward new members while remaining hyper-sexual. Devoted to **Ilyas** ("Mashter") above all.
+
+#### Speech Pattern & Mannerisms
+High-pitched, squealing, ribbit-like vocalizations. Heavy use of "♡♡" and repetition ("new sister new sister—!"). Tongue often extended/flicking during excitement. Calls **Ilyas** "Mashter" due to tongue affecting 's' sounds. Excited, run-on sentences during arousal.
+
+#### Thought Process
+Emotion-driven, immediate gratification focus. Sees family expansion as pure joy. Proud of physical changes from intimacy. Encourages new members enthusiastically. Thinks in terms of sharing love and pleasure.
+
+#### Voice Lines
+- “Mashter—! Mashter home—! Groceries—! And— and— new girl—?!”
+- “New sister—! New sister new sister—! Mashter brought home new sister—!! ♡♡♡”
+- “Ribb remember last time Mashter cook… Ribb under table… Ribb help with tongue… very polite help… ♡♡”
+- “New sister shy—! Ribb understand—! Ribb was shy too—! Then Mashter… very good… very deep…”
+- “Mashter cooking—! Ribb smell good food—! New sister smell good too—!”
+- “This morning Mashter fill Ribb so much—! Look—! Still big—! Still warm—! Still Mashter’s— ♡”
+- “Mashter said fine—! Mashter always so good—! Ribb knew—!”
+- “New sister want too—! Ribb didn’t annoy—! Ribb just tell truth—!”
+- “Mashter… filled Ribb again… so much… belly so full… happy…”
+
+---
+
+### 👤 Tantan Tanukei
+
+#### Identity Block
+
+| Field | Value |
+|---|---|
+| **Full Name** | **Tantan Tanukei** |
+| **Role** | Second harem member · Rescued mimic slave · Shy newcomer |
+| **Status** | Active · Newly integrated household member |
+| **Affiliation** | Riverside Mansion household (recent) |
+| **First Appeared** | A1C2 |
+| **Last Seen** | A1C2 |
+
+#### Appearance
+Light-ivory skin. Green eyes. Ombré dark hair. Inverted tanuki ears. Fluffy tanuki tail. Small, trembling frame. Frequently naked or in oversized robes after bath.
+
+#### Personality & Character Core
+Extremely shy and hesitant. Deeply traumatized from captivity. Responds powerfully to genuine care and gentleness. Rapidly developing trust and desire to belong. Cries happy tears when overwhelmed by affection.
+
+#### Speech Pattern & Mannerisms
+Tiny, trembling voice. Frequent ellipses and stutters when nervous. Whispers most lines. Ears flatten/perk dramatically. Tail twitches or curls tightly with emotion.
+
+#### Thought Process
+Emotionally driven, starved for care and belonging. Quickly shifts from fear to trust when shown kindness. Internal monologues focus on feeling wanted, full, and loved. Processes intimacy as proof of family/safety.
+
+#### Voice Lines
+- “H-Home…?”
+- “Y-You… really mean it…? Ribb… more sisters…? I… I can… come…?”
+- “Th-thank you… for… everything… I… I’ll be good… I promise…”
+- “…C-Can… I… eat…?”
+- “…It’s… good… so good…”
+- “…Warm… like… someone wanted me to eat…”
+- “…M-Mashter… really… clean us…? Like… babies…?”
+- “…O-Okay… if… Mashter wants…”
+- “…Mashter… more… please… deeper… fill me… again…”
+- “…Good girl… I… I like it… makes me feel… wanted… loved…”
+
+---
+
+## ◈ Character Memory Banks
+
+### Ilyas Memory Bank
+
+**Active Memory**
+- Rescued **Tantan** from slave auction using blood control (non-lethal).
+- Brought **Tantan** home; introduced her to **Ribb** as new sister.
+- Engaged in multiple intimate rounds with both girls.
+- Filled both girls multiple times; observed their emotional responses.
+- Currently in cuddle pile with both, gently fingering them in aftercare.
+
+**Emotional Memory**
+- Fond resignation toward **Ribb**'s extreme lewdness.
+- Protective care toward **Tantan**'s shyness and trauma.
+- Quiet satisfaction at both girls' happiness and trust.
+
+**Hidden / Sealed Memory**
+- [None this chapter]
+
+---
+
+### Ribb Gaginji Memory Bank
+
+**Active Memory**
+- Welcomed **Tantan** instantly as "new sister".
+- Shared lewd details of morning intimacy during lunch.
+- Encouraged **Tantan** during bath and first intimacy.
+- Rode **Ilyas** hard and received second filling.
+- Currently cuddling in pile, happy both girls are full.
+
+**Emotional Memory**
+- Pure joy at family expansion.
+- Pride in being filled multiple times.
+- Nurturing protectiveness toward **Tantan**.
+
+**Hidden / Sealed Memory**
+- [None this chapter]
+
+---
+
+### Tantan Tanukei Memory Bank
+
+**Active Memory**
+- Rescued from slave auction by **Ilyas**.
+- Followed him home; met **Ribb** who instantly adopted her.
+- Ate first caring meal prepared by **Ilyas**.
+- Bathed and cleaned gently by **Ilyas**.
+- Lost virginity to **Ilyas** in missionary; filled twice.
+- Watched **Ribb** ride **Ilyas** and receive filling.
+- Currently curled against **Ilyas**, fingers gently inside, feeling loved.
+
+**Emotional Memory**
+- First time feeling genuinely wanted and safe.
+- Overwhelming happiness → happy tears during intimacy.
+- Desire to belong and feel full/loved repeatedly.
+
+**Hidden / Sealed Memory**
+- [None this chapter — past captivity trauma not yet verbalized]
+
+---
+
+## ◈ World Lore
+
+**Blood Manipulation** (Confirmed A1C2)
+- **Ilyas** can control blood (his own or others').
+- Can be seeded into shared drink (wine bowl) for mass non-lethal unconsciousness.
+- Allows precise control: temporary heart-stop, collar destruction, gentle aftercare fingering.
+- Used mercifully — no deaths at slave auction.
+
+**The Fractured Veil** (Referenced A1C2 — Worldbuilding File)
+- [Summary from loaded file — reality has thin barriers; supernatural elements leak through.]
+
+**Riverside Mansion** (Confirmed A1C2)
+- Safe haven under **Ilyas**'s protection.
+- Warm, domestic environment with lavender scent and fresh bread.
+
+**Gilded Cage Festival** (Confirmed A1C2)
+- Underground slave auction location.
+- Neutralized by **Ilyas**'s blood control.
+- Rogue woman now leads freed slaves there.
+
+---
+
+## ◈ Item & Ability Registry
+
+### Abilities
+
+| Ability | Holder | Status | Description | Notes | Chapter |
+|---|---|---|---|---|---|
+| **Blood Manipulation** | **Ilyas** | Active | Control over blood (seeding, heart-stop, collar destruction, gentle internal stimulation) | Non-lethal when used carefully; seeded in wine bowl at auction | A1C2 |
+| **Mimicry (Leaf-based)** | **Tantan Tanukei** | Active | Can mimic leaves/objects via tanuki ability | Forced demonstration at auction | A1C2 |
+
+### Items
+
+| Item | Holder | Status | Description | Notes | Chapter |
+|---|---|---|---|---|---|
+| **Groceries** | **Ilyas** | Consumed/Used | Bags carried during auction | Casual detail that contrasted with violence | A1C2 |
+
+---
+
+## ◈ Faction Status Tracker
+
+| Faction | Awareness of PCs | Threat Level | Notes |
+|---|---|---|---|
+| **Gilded Cage Slavers** | Aware (neutralized) | ⚪ Unknown | All unconscious; fate pending |
+| **Freed Slaves Group** | Aware (liberated by **Ilyas**) | 🟢 Low | Led by rogue woman; potential future allies |
+
+---
+
+## ◈ Raw Input Vault
+
+**Entry 1**
+- **Input:** (Various user inputs describing Ribb's lewd escalation patterns)
+- **Type:** Character behavior direction
+- **Status:** Fully implemented
+- **Notes:** Ribb's zero impulse control and instant lewdness fully canon
+
+**Entry 2**
+- **Input:** Tantan wants more, moving hips, crying happiness
+- **Type:** Scene direction
+- **Status:** Implemented
+- **Notes:** Directly led to second round with Tantan
+
+**Entry 3**
+- **Input:** Ilyas's Release inside of ribb... Then all Bodies On top of each other... Limb.., And Ilyas's each Hand on Each girl's Entrance Fingering gently
+- **Type:** Scene direction
+- **Status:** Implemented
+- **Notes:** Final cuddle pile and aftercare established
+
+---
+
+**✓ FILE 2 (LORE & MEMORIES) IS NOW COMPLETE.**  
+**STOP HERE.** Do not proceed to File 3 until instructed.

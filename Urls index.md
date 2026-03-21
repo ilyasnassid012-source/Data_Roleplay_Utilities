@@ -578,6 +578,12 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Act%201%20Chapter%201%20%C2%A6%20Roleplay%20Timeline.md
 ```
 
+**Act 1 Chapter 2 ¦ Roleplay  Timeline.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_A%20Files%20%C2%A6%20Must%20Load%20Every%20Response/Act%201%20Chapter%202%20%C2%A6%20Roleplay%20%20Timeline.md
+```
+
 **Memories and Lore ¦ Archive File.md**
 
 ```Url_Raw_Link
@@ -598,10 +604,22 @@ https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Act%201%20Chapter%201%20Detailed%20Scenes%20Archive.md
 ```
 
+**Act 1 Chapter 2 detailed Scenes Archive.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Act%201%20Chapter%202%20detailed%20Scenes%20Archive.md
+```
+
 **HAREM 001 ¦ Ribb Gaginji ¦ Character Sheet.md**
 
 ```Url_Raw_Link
 https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/HAREM%20001%20%C2%A6%20Ribb%20Gaginji%20%C2%A6%20Character%20Sheet.md
+```
+
+**Harem 002 ¦ TanTan ¦ Character Sheet.md**
+
+```Url_Raw_Link
+https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Asset_Manager/Files/Roleplay%20Archive/NEW%20FANTASY/Bloody%20Life/Pr_B%20Files%20%C2%A6%20Must%20Load%20Every%20Response%20When%20Content%20Relevant/Harem%20002%20%C2%A6%20TanTan%20%C2%A6%20Character%20Sheet.md
 ```
 
 **Riverside Lord ¦ Ilyas ¦ Character Sheet.md**
