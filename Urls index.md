@@ -2,6 +2,33 @@
 
 # Files
 
+## Roleplay SYSTEM Files
+
+### Roleplay Rules ¦ System Files Index
+
+#### Modules
+
+| Folder URL |
+| --- |
+| `https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Modules` |
+
+| File Name | URL |
+| --- | --- |
+| MAIN Module | `/MAIN%20Module.md` |
+| ROLEPLAY Demonstration Examples | `/ROLEPLAY%20Demonstration%20Examples.md` |
+| Templates | `/Templates.md` |
+
+#### Plug-ins
+
+| Folder URL |
+| --- |
+| `https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Plug-ins` |
+
+| File Name | URL |
+| --- | --- |
+| Combat Plug-in | `/Combat%20Plug-in.md` |
+| Nsfw Plug-in | `/Nsfw%20Plug-in.md` |
+
 ## Roleplay TIMELINES Index
 
 ### Bloody Life ¦ Index
