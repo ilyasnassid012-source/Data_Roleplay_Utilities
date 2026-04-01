@@ -6,6 +6,17 @@
 
 ### Roleplay Rules ¦ System Files Index
 
+#### Modular System
+
+| Folder URL |
+| --- |
+| `https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Modular%20System` |
+
+| File Name | URL |
+| --- | --- |
+| Main System | `/Main%20System.md` |
+| Templates | `/Templates.md` |
+
 #### Modules
 
 | Folder URL |
@@ -28,6 +39,17 @@
 | --- | --- |
 | Combat Plug-in | `/Combat%20Plug-in.md` |
 | Nsfw Plug-in | `/Nsfw%20Plug-in.md` |
+
+#### Roleplay RULESET
+
+| Folder URL |
+| --- |
+| `https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Roleplay%20RULESET` |
+
+| File Name | URL |
+| --- | --- |
+| AI MAIN MODULE | `/AI%20MAIN%20MODULE.md` |
+| TEMPLATE FILE | `/TEMPLATE%20FILE.md` |
 
 ## Roleplay TIMELINES Index
 
