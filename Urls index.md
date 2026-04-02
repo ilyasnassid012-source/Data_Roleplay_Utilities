@@ -61,6 +61,7 @@
 
 | File Name | URL |
 | --- | --- |
+| HAREM MEMBER CHARACTER SHEET TEMPLATE ¦ Pr_X | `/HAREM%20MEMBER%20CHARACTER%20SHEET%20TEMPLATE%20%C2%A6%20Pr_X.md` |
 | Memories and Lore ¦ Archive File ¦ Pr_A | `/Memories%20and%20Lore%20%C2%A6%20Archive%20File%20%C2%A6%20Pr_A.md` |
 | THE FRACTURED VEIL ¦ Worldbuilding File ¦ Pr_A | `/THE%20FRACTURED%20VEIL%20%C2%A6%20Worldbuilding%20File%20%C2%A6%20Pr_A.md` |
 
@@ -72,10 +73,11 @@
 
 | File Name | URL |
 | --- | --- |
-| Ilyas | `/Ilyas.md` |
-| Ribb Gaginji | `/Ribb%20Gaginji.md` |
-| Saki Tsukumo | `/Saki%20Tsukumo.md` |
-| TanTan Tanukei | `/TanTan%20Tanukei.md` |
+| (0) Ilyas | `/%280%29%20Ilyas.md` |
+| (1) Ribb Gaginji | `/%281%29%20Ribb%20Gaginji.md` |
+| (2) TanTan Tanukei | `/%282%29%20TanTan%20Tanukei.md` |
+| (3) Saki Tsukumo | `/%283%29%20Saki%20Tsukumo.md` |
+| (4) Sharp-Ni | `/%284%29%20Sharp-Ni.md` |
 
 #### Main Timeline (General Timeline) ¦ (Pr_A)
 
@@ -88,6 +90,7 @@
 | Act 1 Chapter 1 ¦ Roleplay Timeline | `/Act%201%20Chapter%201%20%C2%A6%20Roleplay%20Timeline.md` |
 | Act 1 Chapter 2 ¦ Roleplay  Timeline | `/Act%201%20Chapter%202%20%C2%A6%20Roleplay%20%20Timeline.md` |
 | Act 1 Chapter 3 ¦ Roleplay Timeline | `/Act%201%20Chapter%203%20%C2%A6%20Roleplay%20Timeline.md` |
+| Act 1 Chapter 4 ¦ Roleplay Timeline | `/Act%201%20Chapter%204%20%C2%A6%20Roleplay%20Timeline.md` |
 
 #### Timeline Extra (Detailed Scenes) ¦ (Pr_B)
 
@@ -100,6 +103,7 @@
 | Act 1 Chapter 1 ¦ Detailed Scenes Archive | `/Act%201%20Chapter%201%20%C2%A6%20Detailed%20Scenes%20Archive.md` |
 | Act 1 Chapter 2 ¦ detailed Scenes Archive | `/Act%201%20Chapter%202%20%C2%A6%20detailed%20Scenes%20Archive.md` |
 | Act 1 Chapter 3 ¦ Detailed Scenes Archive | `/Act%201%20Chapter%203%20%C2%A6%20Detailed%20Scenes%20Archive.md` |
+| Act 1 Chapter 4 ¦ Detailed Scenes Archive 1 | `/Act%201%20Chapter%204%20%C2%A6%20Detailed%20Scenes%20Archive%201.md` |
 
 ### Earthlings Vs Vardlings ¦ Index
 

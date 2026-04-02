@@ -231,11 +231,11 @@ Emotion-driven, simple logic — **Master** = safety/home/fullness. Thinks in im
 
 ### 🌍 The Fractured Veil (World Name)
 
-| Fact | Detail | Chapter | Confidence |
-|---|---|---|---|
-| World contains **Border Districts** with lawless zones | Areas outside city control where slavery & black markets thrive | A1C1 | Confirmed |
-| **Blood Manipulation** exists & can be mastered | Allows regeneration, limb replacement, property alteration on contact when blood is running & merged | A1C1 | Confirmed |
-| Slave auctions occur openly in underground taverns | **The Iron Rose Tavern** hosted one | A1C1 | Confirmed |
+| Fact                                                   | Detail                                                                                               | Chapter | Confidence |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ------- | ---------- |
+| World contains **Border Districts** with lawless zones | Areas outside city control where slavery & black markets thrive                                      | A1C1    | Confirmed  |
+| **Blood Manipulation** exists & can be mastered        | Allows regeneration, limb replacement, property alteration on contact when blood is running & merged | A1C1    | Confirmed  |
+| Slave auctions occur openly in underground taverns     | **The Iron Rose Tavern** hosted one                                                                  | A1C1    | Confirmed  |
 
 ### 🏛 The Riverside Mansion
 
@@ -1095,3 +1095,394 @@ Athletic fox beast-kin girl, 170 cm tall, olive skin, teal hair and eyes. Body c
 **✓ FILE 2 (LORE & MEMORIES) IS NOW COMPLETE.**  
 **⚠ STOP HERE. DO NOT PROCEED TO FILE 3 YET.**  
 **Await the next template (File 3 — Detailed Scenes) before continuing archiving.**
+
+# A1C4 ¦ Warm Sheets, Flooded Depths, and a New Sister ¦ Lore and Memories Archive
+**Archive Mode — FILE 2 OF 3 (LORE & MEMORIES ARCHIVE)**  
+**SESSION_ID:** A1C4  
+**TITLE:** Warm Sheets, Flooded Depths, and a New Sister  
+
+---
+
+## ◈ Character Profiles
+
+### 👤 Ilyas (The Riverside Lord)
+
+#### Identity Block
+
+| Field | Value |
+|---|---|
+| **Full Name** | Ilyas — known as **The Riverside Lord** |
+| **Role** | Protagonist / Head of Household |
+| **Status** | Active · Ally / Protector |
+| **Affiliation** | Riverside Household (founder & leader) |
+| **First Appeared** | A1C1 |
+| **Last Seen** | A1C4 |
+
+#### Appearance
+Mid-height young man with short-to-medium pink hair that carries faint dormant crimson liquid-like patterns. Lean, deliberately unassuming build. Purple half-lidded eyes and a consistently neutral poker face. Wears a simple dark scholar’s robe and pants with three silver throwing knives at his belt. At the end of this chapter he is still slightly damp from the underground flood.
+
+#### Personality & Character Core
+**Core Drive** — Protect and build a real, safe family for those he chooses.  
+**Surface Persona** — Calm, gentle, thoughtful, almost detached. Speaks softly and reassures others.  
+**Hidden Interior** — Deeply caring but pragmatic; willing to use ruthless blood manipulation when necessary.  
+**Key Flaw** — Sometimes withholds information or acts alone to keep others safe.  
+**Key Strength** — Extraordinary control over his own blood, allowing healing, control, and restructuring.  
+**Contradictions** — Appears gentle and patient while being capable of flooding an entire slave compound without hesitation.
+
+#### Speech Pattern & Mannerisms
+**Verbal:**  
+- Sentence length: Short, calm, thoughtful statements. Rarely raises his voice.  
+- Vocabulary: Neutral and gentle. Uses reassuring phrases like “It’s fine. Really.”  
+- Tics: Often begins with soft acknowledgment (“Okay, it’s fine…”) before addressing the issue.  
+- Under pressure: Stays calm and measured; voice does not rise.  
+- Terms of address: Uses “you” or gentle titles; rarely uses full names unless emphasizing care.  
+
+**Physical:**  
+- Eye contact: Steady and calm, rarely breaks first.  
+- Gestures: Minimal; gentle head-patting or light jaw touch when healing/comforting.  
+- Positioning: Comfortable sitting on the edge of the bed or standing close without crowding.  
+- Stress tells: Almost none visible; remains outwardly serene.
+
+#### Thought Process
+- Logic vs. Emotion: Leads with calm logic but emotion drives his protective choices.  
+- Decision Speed: Deliberate; waits and observes before acting (e.g., waiting underwater).  
+- Primary Bias: Assumes people can be saved and given a real home if given the chance.  
+- Blind Spots: Occasionally underestimates how deeply his kindness affects others emotionally.  
+- When Wrong: Adapts quietly without dramatic apology.  
+- Irrational Triggers: Threats to his chosen family.
+
+#### Voice Lines
+
+**Defining Lines**  
+- “Its fine. Really.” — (Gentle reassurance while patting Sharp-Ni’s head, A1C4)  
+- “I can fix it.” — (Offering to heal Sharp-Ni’s tooth, A1C4)  
+
+**Under Pressure**  
+- (None this chapter — remained calm throughout the flood and rescue)
+
+**To Allies**  
+- “You won’t be alone… since I already got some family in home.” — (Accepting Sharp-Ni, A1C4)  
+- “Its fine, no one feeding you anything you don't want.” — (Reassuring Sharp-Ni during healing, A1C4)
+
+**Rare Vulnerability**  
+- (None explicitly shown this chapter)
+
+**Internal / Narrated Thoughts**  
+- (None directly narrated this chapter)
+
+---
+
+### 👤 Sharp-Ni
+
+#### Identity Block
+
+| Field | Value |
+|---|---|
+| **Full Name** | Sharp-Ni |
+| **Role** | Newly rescued harem member / Fourth sister |
+| **Status** | Active · Ally |
+| **Affiliation** | Riverside Household (newest member) |
+| **First Appeared** | A1C4 |
+| **Last Seen** | A1C4 |
+
+#### Appearance
+Tall (180 cm), curvy pale-blue skinned shark girl with slight natural chubbiness. Teal hair, blue eyes, sharp teeth with one noticeably crooked side tooth (now healed). One powerful finned tail whose base is highly sensitive. At chapter end she is wearing only an oversized Ilyas shirt that barely covers her top, leaving her panties and long legs visible. Her belly is noticeably swollen from the heavy creampie.
+
+#### Personality & Character Core
+**Core Drive** — To belong to a real family and be useful (especially as a maid).  
+**Surface Persona** — Tough, slightly arrogant exterior with tomboy energy.  
+**Hidden Interior** — Deeply scared of being alone again, craves genuine warmth and acceptance.  
+**Key Flaw** — Tends to hide pain and over-apologize when she thinks she has caused harm.  
+**Key Strength** — Extremely loyal once she trusts someone; powerful aquatic abilities.  
+**Contradictions** — Acts tough but melts into shy affection and tears when shown kindness.
+
+#### Speech Pattern & Mannerisms
+**Verbal:**  
+- Sentence length: Short, sometimes stuttering when flustered.  
+- Vocabulary: Casual with occasional aggressive edge that softens quickly.  
+- Tics: Frequently uses “…” pauses when nervous or emotional.  
+- Under pressure: Voice cracks or becomes softer.  
+- Terms of address: Calls him “Master” when emotional or intimate.  
+
+**Physical:**  
+- Eye contact: Initially wary, then soft and hopeful.  
+- Gestures: Tail moves independently (“Tail’s mind”) when she wants to hide intent.  
+- Positioning: Stands close or clings tightly once she feels safe.  
+- Stress tells: Tail curls around her own leg or his when anxious.
+
+#### Thought Process
+- Logic vs. Emotion: Emotion often overrides logic once trust is given.  
+- Decision Speed: Fast when protecting or claiming what she wants.  
+- Primary Bias: Assumes kindness might be temporary (trauma-based).  
+- Blind Spots: Underestimates how much her own loyalty affects others.  
+- When Wrong: Immediately apologizes and clings harder.  
+- Irrational Triggers: Fear of abandonment or hurting her new family.
+
+#### Voice Lines
+
+**Defining Lines**  
+- “I want you to fuck me… so I can be like the others… so I can be yours completely…” — (Bold request in bedroom, A1C4)  
+
+**Under Pressure**  
+- (None this chapter)
+
+**To Allies**  
+- “I can be the maid… or whatever you need…” — (Offering herself upon arrival, A1C4)  
+
+**Rare Vulnerability**  
+- “I didn’t mean to bite so hard… please forgive me…” — (Apologizing for accidental bite, A1C4)  
+
+**Internal / Narrated Thoughts**  
+- (None directly narrated this chapter)
+
+---
+
+### 👤 Ribb Gaginji
+
+#### Identity Block
+
+| Field | Value |
+|---|---|
+| **Full Name** | Ribb Gaginji |
+| **Role** | First harem member / Playful frog girl |
+| **Status** | Active · Ally |
+| **Affiliation** | Riverside Household |
+| **First Appeared** | Earlier Act I |
+| **Last Seen** | A1C4 |
+
+#### Appearance
+Frog-like monster girl with long tongue, green-tinged skin, and cheerful energy. Wears casual clothing or Master’s oversized shirts.
+
+#### Personality & Character Core
+**Core Drive** — To make Master and her sisters happy.  
+**Surface Persona** — Cheeky, playful, big-sister energy.  
+**Hidden Interior** — Deep affection and desire to belong.  
+**Key Flaw** — Can be overly teasing.  
+**Key Strength** — Enthusiastic caretaker.  
+
+#### Speech Pattern & Mannerisms
+**Verbal:** Heavy lisp (“Mashter”, “shishter”, “sh” sounds).  
+**Physical:** Bouncy movements, tongue often slightly out when excited.
+
+#### Voice Lines
+
+**Defining Lines**  
+- “New shishter! Ribb will show you where the towels are!” — (Welcoming Sharp-Ni, A1C4)
+
+**To Allies**  
+- “Ribb will dry your tail firsht!” — (Helping dry Sharp-Ni, A1C4)
+
+---
+
+### 👤 TanTan Tanukei
+
+#### Identity Block
+
+| Field | Value |
+|---|---|
+| **Full Name** | TanTan Tanukei |
+| **Role** | Second harem member / Shy tanuki girl |
+| **Status** | Active · Ally |
+| **Affiliation** | Riverside Household |
+| **First Appeared** | Earlier Act I |
+| **Last Seen** | A1C4 |
+
+#### Appearance
+Fluffy raccoon-tanuki features, soft belly, shy demeanor.
+
+#### Personality & Character Core
+**Core Drive** — To feel safe and included in a real family.  
+**Surface Persona** — Shy and gentle.  
+**Hidden Interior** — Deep longing for belonging.
+
+#### Speech Pattern & Mannerisms
+Soft, hesitant speech with many pauses and “…” 
+
+#### Voice Lines
+
+**To Allies**  
+- “Welcome… I was the newest before… now we can be newest together…” — (Greeting Sharp-Ni, A1C4)
+
+---
+
+### 👤 Saki Tsukumo
+
+#### Identity Block
+
+| Field | Value |
+|---|---|
+| **Full Name** | Saki Tsukumo |
+| **Role** | Third harem member / Teasing fox girl |
+| **Status** | Active · Ally |
+| **Affiliation** | Riverside Household |
+| **First Appeared** | Earlier Act I |
+| **Last Seen** | A1C4 |
+
+#### Appearance
+Fluffy teal tail and ears, fox-like features.
+
+#### Personality & Character Core
+**Core Drive** — To protect and tease her new family.  
+**Surface Persona** — Playful and bold.  
+**Hidden Interior** — Deep gratitude for her new home.
+
+#### Speech Pattern & Mannerisms
+Teasing, confident tone with occasional soft moments.
+
+#### Voice Lines
+
+**To Allies**  
+- “Heh, you’re dripping everywhere. Come on, let’s get you dry…” — (Helping dry Sharp-Ni, A1C4)
+
+---
+
+## ◈ Character Memory Banks
+
+### 🗂 Sharp-Ni
+
+#### Active Memory
+
+| Memory | Source | Chapter |
+|---|---|---|
+| She has been rescued by the Riverside Lord and given her own bedroom | Direct experience | A1C4 |
+| Her crooked tooth has been completely healed with no pain | Blood manipulation by Ilyas | A1C4 |
+| She is now part of a real family and wants to serve as a maid | Accepted by Ilyas and welcomed by the girls | A1C4 |
+
+#### Suppressed / Hidden Memory
+
+| Memory | Concealed From | Chapter |
+|---|---|---|
+| Deep insect trauma and years of abuse as a slave | Everyone (still processing) | A1C4 |
+
+#### Trauma / Emotional Imprint
+- **Fear of abandonment:** Constantly worries she will be left alone again. Manifests as tight clinging and offers to be useful.
+- **Pain-hiding reflex:** Long habit of enduring tooth pain without complaint; only now learning it’s safe to admit weakness.
+
+#### Last Known State (End of A1C4)
+
+| Category | State |
+|---|---|
+| **Physical** | Fully healed tooth, noticeably swollen belly from creampie, exhausted but content |
+| **Emotional** | Deeply happy, emotionally raw, securely attached |
+| **Resources** | None material; has a safe home and family |
+| **Location** | Sleeping on top of Ilyas in her new bedroom |
+| **Immediate Need** | Emotional reassurance and integration into daily life |
+
+---
+
+### 🗂 Ilyas (The Riverside Lord)
+
+#### Active Memory
+
+| Memory | Source | Chapter |
+|---|---|---|
+| Successfully rescued Sharp-Ni and triggered the flood | Direct action | A1C4 |
+| Healed Sharp-Ni’s crooked tooth with blood manipulation | Performed healing | A1C4 |
+| Accepted Sharp-Ni as part of the household | Verbal acceptance | A1C4 |
+
+#### Suppressed / Hidden Memory
+
+| Memory | Concealed From | Chapter |
+|---|---|---|
+| (None significant this chapter) | - | - |
+
+#### Trauma / Emotional Imprint
+- Protective instinct toward chosen family remains strong; continues to act calmly even in chaos.
+
+#### Last Known State (End of A1C4)
+
+| Category | State |
+|---|---|
+| **Physical** | Minor bite marks (left as “family marks”), otherwise uninjured |
+| **Emotional** | Calm, content, protective |
+| **Resources** | Full control of blood abilities; household resources |
+| **Location** | In Sharp-Ni’s bedroom, at the center of the harem cuddle pile |
+| **Immediate Need** | Rest and integration of new sister |
+
+---
+
+### 🗂 Ribb Gaginji / TanTan Tanukei / Saki Tsukumo
+
+(Brief summary — full profiles already exist in prior archives)
+
+**Active Memory (shared)**  
+- Welcomed a new shark sister named Sharp-Ni and helped dry her.  
+- Witnessed (from doorway) the intense intimate scene between Ilyas and Sharp-Ni.  
+
+**Last Known State**  
+All three are curled up in the group cuddle pile in Sharp-Ni’s bedroom, warm and content.
+
+---
+
+## ◈ General World Lore
+
+### 🌍 Riverside Mansion
+
+| Fact | Detail | Chapter |
+|---|---|---|
+| **Safety** | The mansion remains untouched by the underground flood | A1C4 |
+| **Atmosphere** | Warm, domestic, growing family environment | A1C4 |
+
+### 🌊 Underground Slave Compound
+
+| Fact | Detail | Chapter |
+|---|---|---|
+| **Fate** | Completely flooded and destroyed after Rixa’s release | A1C4 |
+| **Outcome** | All aquatic slaves freed; slavers drowned | A1C4 |
+
+---
+
+## ◈ Ability & Item Registry
+
+### Abilities
+
+| Name | User | Description | Cost | Demonstrated | Chapter |
+|---|---|---|---|---|---|
+| **Blood Manipulation (Healing & Restructuring)** | Ilyas | Precise control of blood to reshape tooth structure and remove curses | Minimal blood loss | Sharp-Ni’s tooth healing | A1C4 |
+| **Blood Control** | Ilyas | Non-lethal piercing and puppet-like control of targets | Blood expenditure | Guards in slave compound | A1C4 |
+
+### Items
+
+| Item | Holder | Status | Description | Notes | Chapter |
+|---|---|---|---|---|---|
+| **Oversized Ilyas Shirt** | Sharp-Ni | Worn during intimate scene | Large, soft shirt | Used as her only clothing after arrival | A1C4 |
+
+---
+
+## ◈ Faction Status Tracker
+
+| Faction | Awareness of PCs | Threat Level | Notes |
+|---|---|---|---|
+| **Underground Slavers** | Destroyed | ⚪ Unknown | Compound flooded; survivors unlikely |
+
+---
+
+## ◈ Raw Input Vault
+
+**Entry 1**  
+- **Input:** “She is Only Wearing Big Oversized ilyas's T shirt, Hich only Covers her Top and Panties and Nothing else...”  
+- **Type:** Appearance / Scene direction  
+- **Status:** Implemented (A1C4 bedroom scenes)  
+
+**Entry 2**  
+- **Input:** “She asking to Fuck her, So She can Be Him like others... And that she heard others In the Shower when she asked... And Wants to Do it tol”  
+- **Type:** Character desire / NSFW direction  
+- **Status:** Implemented (A1C4 bedroom intimacy)  
+
+**Entry 3**  
+- **Input:** “She pulling him to sit on side, then rides him While Being taller than Him and Kissing hil While Riding him, and Tyen Biting Him More Painful than intended.. But too aroused to notice...”  
+- **Type:** NSFW action direction  
+- **Status:** Implemented (A1C4 riding sequence)  
+
+**Entry 4**  
+- **Input:** “final release (her stomach even more swollen and big), she moaned hard and heartfelt, and crying While Dropping on top of him...”  
+- **Type:** NSFW climax direction  
+- **Status:** Implemented (A1C4 final creampie & collapse)  
+
+---
+
+**✓ FILE 2 (LORE & MEMORIES ARCHIVE) IS NOW COMPLETE.**  
+**⚠ STOP HERE.**  
+Await File 3 (Detailed Scenes Archive) before continuing.  
+
+Archiving of Act I Chapter 4 is progressing correctly. Ready for the next template when you provide it.
