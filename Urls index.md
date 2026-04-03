@@ -6,11 +6,27 @@
 ## Roleplay SYSTEM Files
 >> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files\`
 
-### Roleplay Rules ¦ System Files Index
->>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index\`
+### Roleplay_Rules
+>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay_Rules\`
+
+#### A_Roleplay_RULESET
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay_Rules/A_Roleplay_RULESET\`
+
+>>>>> AI MAIN MODULE.md
+>>>>>> \`/AI%20MAIN%20MODULE.md\`
+>>>>> TEMPLATE FILE.md
+>>>>>> \`/TEMPLATE%20FILE.md\`
+
+#### B_Plug-ins
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay_Rules/B_Plug-ins\`
+
+>>>>> Combat Plug-in.md
+>>>>>> \`/Combat%20Plug-in.md\`
+>>>>> Nsfw Plug-in.md
+>>>>>> \`/Nsfw%20Plug-in.md\`
 
 #### Modular System
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Modular%20System\`
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay_Rules/Modular%20System\`
 
 >>>>> Main System.md
 >>>>>> \`/Main%20System.md\`
@@ -18,7 +34,7 @@
 >>>>>> \`/Templates.md\`
 
 #### Modules
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Modules\`
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay_Rules/Modules\`
 
 >>>>> MAIN Module.md
 >>>>>> \`/MAIN%20Module.md\`
@@ -27,81 +43,65 @@
 >>>>> Templates.md
 >>>>>> \`/Templates.md\`
 
-#### Plug-ins
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Plug-ins\`
+## Roleplay_TIMELINES_Index
+>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index\`
 
->>>>> Combat Plug-in.md
->>>>>> \`/Combat%20Plug-in.md\`
->>>>> Nsfw Plug-in.md
->>>>>> \`/Nsfw%20Plug-in.md\`
+### Bloody_Life_¦_Index
+>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Bloody_Life_%C2%A6_Index\`
 
-#### Roleplay RULESET
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20SYSTEM%20Files/Roleplay%20Rules%20%C2%A6%20System%20Files%20Index/Roleplay%20RULESET\`
+>>>> CHARACTER_SHEET_TEMPLATE_¦_Pr_X.md
+>>>>> \`/CHARACTER_SHEET_TEMPLATE_%C2%A6_Pr_X.md\`
+>>>> Memories_and_Lore_¦_Archive_File_¦_Pr_A.md
+>>>>> \`/Memories_and_Lore_%C2%A6_Archive_File_%C2%A6_Pr_A.md\`
+>>>> THE_FRACTURED_VEIL_¦_Worldbuilding_File_¦_Pr_A.md
+>>>>> \`/THE_FRACTURED_VEIL_%C2%A6_Worldbuilding_File_%C2%A6_Pr_A.md\`
 
->>>>> AI MAIN MODULE.md
->>>>>> \`/AI%20MAIN%20MODULE.md\`
->>>>> TEMPLATE FILE.md
->>>>>> \`/TEMPLATE%20FILE.md\`
+#### Characters_(Harem)_¦_Pr_B
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Bloody_Life_%C2%A6_Index/Characters_%28Harem%29_%C2%A6_Pr_B\`
 
-## Roleplay TIMELINES Index
->> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index\`
+>>>>> (0)_Ilyas.md
+>>>>>> \`/%280%29_Ilyas.md\`
+>>>>> (1)_Ribb_Gaginji.md
+>>>>>> \`/%281%29_Ribb_Gaginji.md\`
+>>>>> (2)_TanTan_Tanukei.md
+>>>>>> \`/%282%29_TanTan_Tanukei.md\`
+>>>>> (3)_Saki_Tsukumo.md
+>>>>>> \`/%283%29_Saki_Tsukumo.md\`
+>>>>> (4)_Sharp-Ni.md
+>>>>>> \`/%284%29_Sharp-Ni.md\`
 
-### Bloody Life ¦ Index
->>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Bloody%20Life%20%C2%A6%20Index\`
+#### Main_Timeline_(General_Timeline)_¦_(Pr_A)
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Bloody_Life_%C2%A6_Index/Main_Timeline_%28General_Timeline%29_%C2%A6_%28Pr_A%29\`
 
->>>> HAREM MEMBER CHARACTER SHEET TEMPLATE ¦ Pr_X.md
->>>>> \`/HAREM%20MEMBER%20CHARACTER%20SHEET%20TEMPLATE%20%C2%A6%20Pr_X.md\`
->>>> Memories and Lore ¦ Archive File ¦ Pr_A.md
->>>>> \`/Memories%20and%20Lore%20%C2%A6%20Archive%20File%20%C2%A6%20Pr_A.md\`
->>>> THE FRACTURED VEIL ¦ Worldbuilding File ¦ Pr_A.md
->>>>> \`/THE%20FRACTURED%20VEIL%20%C2%A6%20Worldbuilding%20File%20%C2%A6%20Pr_A.md\`
+>>>>> AIC1.md
+>>>>>> \`/AIC1.md\`
+>>>>> AIC2.md
+>>>>>> \`/AIC2.md\`
+>>>>> AIC3.md
+>>>>>> \`/AIC3.md\`
+>>>>> AIC4.md
+>>>>>> \`/AIC4.md\`
 
-#### Characters (Harem) ¦ Pr_B
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Bloody%20Life%20%C2%A6%20Index/Characters%20%28Harem%29%20%C2%A6%20Pr_B\`
+#### Timeline_Extra_(Detailed_Scenes)_¦_(Pr_B)
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Bloody_Life_%C2%A6_Index/Timeline_Extra_%28Detailed_Scenes%29_%C2%A6_%28Pr_B%29\`
 
->>>>> (0) Ilyas.md
->>>>>> \`/%280%29%20Ilyas.md\`
->>>>> (1) Ribb Gaginji.md
->>>>>> \`/%281%29%20Ribb%20Gaginji.md\`
->>>>> (2) TanTan Tanukei.md
->>>>>> \`/%282%29%20TanTan%20Tanukei.md\`
->>>>> (3) Saki Tsukumo.md
->>>>>> \`/%283%29%20Saki%20Tsukumo.md\`
->>>>> (4) Sharp-Ni.md
->>>>>> \`/%284%29%20Sharp-Ni.md\`
-
-#### Main Timeline (General Timeline) ¦ (Pr_A)
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Bloody%20Life%20%C2%A6%20Index/Main%20Timeline%20%28General%20Timeline%29%20%C2%A6%20%28Pr_A%29\`
-
->>>>> Act 1 Chapter 1 ¦ Roleplay Timeline.md
->>>>>> \`/Act%201%20Chapter%201%20%C2%A6%20Roleplay%20Timeline.md\`
->>>>> Act 1 Chapter 2 ¦ Roleplay  Timeline.md
->>>>>> \`/Act%201%20Chapter%202%20%C2%A6%20Roleplay%20%20Timeline.md\`
->>>>> Act 1 Chapter 3 ¦ Roleplay Timeline.md
->>>>>> \`/Act%201%20Chapter%203%20%C2%A6%20Roleplay%20Timeline.md\`
->>>>> Act 1 Chapter 4 ¦ Roleplay Timeline.md
->>>>>> \`/Act%201%20Chapter%204%20%C2%A6%20Roleplay%20Timeline.md\`
-
-#### Timeline Extra (Detailed Scenes) ¦ (Pr_B)
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Bloody%20Life%20%C2%A6%20Index/Timeline%20Extra%20%28Detailed%20Scenes%29%20%C2%A6%20%28Pr_B%29\`
-
->>>>> Act 1 Chapter 1 ¦ Detailed Scenes Archive.md
->>>>>> \`/Act%201%20Chapter%201%20%C2%A6%20Detailed%20Scenes%20Archive.md\`
->>>>> Act 1 Chapter 2 ¦ detailed Scenes Archive.md
->>>>>> \`/Act%201%20Chapter%202%20%C2%A6%20detailed%20Scenes%20Archive.md\`
->>>>> Act 1 Chapter 3 ¦ Detailed Scenes Archive.md
->>>>>> \`/Act%201%20Chapter%203%20%C2%A6%20Detailed%20Scenes%20Archive.md\`
->>>>> Act 1 Chapter 4 ¦ Detailed Scenes Archive 1.md
->>>>>> \`/Act%201%20Chapter%204%20%C2%A6%20Detailed%20Scenes%20Archive%201.md\`
+>>>>> AIC1.md
+>>>>>> \`/AIC1.md\`
+>>>>> AIC2.md
+>>>>>> \`/AIC2.md\`
+>>>>> AIC3.md
+>>>>>> \`/AIC3.md\`
+>>>>> AIC4.md
+>>>>>> \`/AIC4.md\`
 
 ### Earthlings Vs Vardlings ¦ Index
->>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Earthlings%20Vs%20Vardlings%20%C2%A6%20Index\`
+>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Earthlings%20Vs%20Vardlings%20%C2%A6%20Index\`
 
 >>>> Worldbuilding ¦ Pr_A.docx
 >>>>> \`/Worldbuilding%20%C2%A6%20Pr_A.docx\`
 
 #### Characters ¦ Pr_B
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Earthlings%20Vs%20Vardlings%20%C2%A6%20Index/Characters%20%C2%A6%20Pr_B\`
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Earthlings%20Vs%20Vardlings%20%C2%A6%20Index/Characters%20%C2%A6%20Pr_B\`
 
 >>>>> Emi Rose.md
 >>>>>> \`/Emi%20Rose.md\`
@@ -111,10 +111,10 @@
 >>>>>> \`/Ladra%20VerdiK.md\`
 
 ### Nsfw
->>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Nsfw\`
+>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Nsfw\`
 
 #### Farm of Demi humans
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Nsfw/Farm%20of%20Demi%20humans\`
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Nsfw/Farm%20of%20Demi%20humans\`
 
 >>>>> Untitled 1.md
 >>>>>> \`/Untitled%201.md\`
@@ -126,13 +126,13 @@
 >>>>>> \`/Untitled.md\`
 
 ### Rap-Overhaul ¦ Index
->>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Rap-Overhaul%20%C2%A6%20Index\`
+>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Rap-Overhaul%20%C2%A6%20Index\`
 
 >>>> THE VERSE WORLD ¦ WORLDBUILDING ¦ Pr_A.md
 >>>>> \`/THE%20VERSE%20WORLD%20%C2%A6%20WORLDBUILDING%20%C2%A6%20Pr_A.md\`
 
 #### Characters ¦ Pr_B
->>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay%20TIMELINES%20Index/Rap-Overhaul%20%C2%A6%20Index/Characters%20%C2%A6%20Pr_B\`
+>>>> \`https://raw.githubusercontent.com/ilyasnassid012-source/Data_Roleplay_Utilities/refs/heads/Assets-2/Files/Roleplay_TIMELINES_Index/Rap-Overhaul%20%C2%A6%20Index/Characters%20%C2%A6%20Pr_B\`
 
 >>>>> FLOWEY.md
 >>>>>> \`/FLOWEY.md\`
